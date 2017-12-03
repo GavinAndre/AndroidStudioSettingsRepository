@@ -3,6 +3,7 @@
     <variable name="i" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="data" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="fbc" value="($cast$) findViewById(R.id.$resId$);" description="findViewById with cast" toReformat="true" toShortenFQNames="true">
     <variable name="cast" expression="expectedType()" defaultValue="" alwaysStopAt="true" />
