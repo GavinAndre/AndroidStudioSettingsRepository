@@ -8,14 +8,7 @@
     <option name="EDITOR_FONT_NAME" value="Ubuntu With WenQuanYi Micro Hei" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu With WenQuanYi Micro Hei" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
-  </console-font>
+  <option name="CONSOLE_FONT_NAME" value="Ubuntu With WenQuanYi Micro Hei" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <attributes>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
