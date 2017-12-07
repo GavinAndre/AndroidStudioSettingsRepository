@@ -1,5 +1,5 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="FONT_SCALE" value="1.25" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
     <option name="EDITOR_FONT_SIZE" value="18" />
@@ -18,6 +18,12 @@
   </console-font>
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <attributes>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="68b5ee" />
