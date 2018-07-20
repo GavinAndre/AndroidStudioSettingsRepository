@@ -214,9 +214,13 @@
           <option name="url" value="git@github.com:gabrielemariotti/colorpickercollection.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.1.6:VehicularRobot/VehicularRobotAndroidLibrary.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Workspace/AndroidStudioProject" />
+    <option name="cloneParentDir" value="$USER_HOME$/Workspace/CompanyProject/VehicularRobot" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
