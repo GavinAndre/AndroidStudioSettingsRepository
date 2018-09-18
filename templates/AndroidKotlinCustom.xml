@@ -1,8 +1,7 @@
 <templateSet group="AndroidKotlinCustom">
-  <template name="newInstance" value="companion object {&#10;    fun newInstance($args$): $fragment$ {&#10;        $nullChecks$&#10;        val args = android.os.Bundle()&#10;        $addArgs$&#10;        val fragment = $fragment$()&#10;        fragment.arguments = args&#10;        return fragment&#10;    }&#10;}" description="create a new Fragment instance with arguments" toReformat="false" toShortenFQNames="true">
-    <variable name="args" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="fragment" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="nullChecks" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="newInstance" value="companion object {&#10;    @JvmStatic&#10;    fun newInstance($args$) =&#10;            $fragment$().apply {&#10;                arguments = Bundle().apply {&#10;                    $addArgs$&#10;                }&#10;            }&#10;}" description="create a new Fragment instance with arguments" toReformat="false" toShortenFQNames="true">
+    <variable name="fragment" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="addArgs" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
