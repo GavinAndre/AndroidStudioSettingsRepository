@@ -1,0 +1,16 @@
+<templateSet group="AndroidKotlinCustom">
+  <template name="newInstance" value="companion object {&#10;    @JvmStatic&#10;    fun newInstance($args$) =&#10;            $fragment$().apply {&#10;                arguments = Bundle().apply {&#10;                    $addArgs$&#10;                }&#10;            }&#10;}" description="create a new Fragment instance with arguments" toReformat="false" toShortenFQNames="true">
+    <variable name="fragment" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="args" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="addArgs" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="tag" value="private val TAG = $className$::class.java.simpleName&#10;" description="TAGTemplateJava" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="kotlinClassName()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>
