@@ -60,7 +60,7 @@
     </option>
   </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
-    <option name="WRAP_EXPRESSION_BODY_FUNCTIONS" value="1" />
+    <option name="WRAP_ELVIS_EXPRESSIONS" value="0" />
   </JetCodeStyleSettings>
   <Objective-C-extensions>
     <file>
@@ -210,10 +210,8 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
-    <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
-    <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
     <indentOptions>
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
