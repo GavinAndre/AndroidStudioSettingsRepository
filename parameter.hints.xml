@@ -5,5 +5,7 @@
         <added pattern="android.database.sqlite.SQLiteDatabase.execSQL(sql,bindArgs)" />
       </blacklist>
     </blacklists>
+    <option id="SHOW_PROPERTY_HINT" value="true" />
+    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
   </component>
 </application>
