@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ECTranslation">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+</keymap>
