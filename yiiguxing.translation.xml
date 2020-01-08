@@ -1,13 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Bundle" />
       <item value="saved Instance State" />
+      <item value="View Group" />
+      <item value="container" />
+      <item value="view" />
+      <item value="fragment password board" />
+      <item value="get String" />
+      <item value="Bundle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
@@ -19,5 +24,11 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="showStatusIcon" value="false" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </youdao-translate>
+    </option>
   </component>
 </application>

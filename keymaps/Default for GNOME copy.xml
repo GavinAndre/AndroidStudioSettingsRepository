@@ -1,5 +1,11 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="ECTranslation">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="MoveLineDown">
