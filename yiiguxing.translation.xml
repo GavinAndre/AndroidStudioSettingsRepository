@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HOVER" />
+      <item value="ACTION HOVER MOVE" />
+      <item value="input Text" />
       <item value="saved Instance State" />
       <item value="View Group" />
       <item value="container" />
@@ -11,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
