@@ -1,29 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Lifecycle Owner" />
-      <item value="Owner" />
-      <item value="Lifecycle" />
-      <item value="interaction" />
-      <item value="black-box container of UMat data" />
-      <item value="uncaught Exception" />
-      <item value="assumes the MotionEvent will be sent to this ViewGroup instead" />
-      <item value="the new touch target if we already // dispatched to it" />
-      <item value="HOVER" />
-      <item value="ACTION HOVER MOVE" />
-      <item value="input Text" />
-      <item value="saved Instance State" />
-      <item value="View Group" />
-      <item value="container" />
-      <item value="view" />
-      <item value="fragment password board" />
-      <item value="get String" />
-      <item value="Bundle" />
+      <item value="get Default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
@@ -36,10 +19,5 @@
     </option>
     <option name="ignoreRegExp" value="" />
     <option name="showStatusIcon" value="false" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </youdao-translate>
-    </option>
   </component>
 </application>
