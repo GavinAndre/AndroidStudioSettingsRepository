@@ -18,5 +18,6 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="showStatusIcon" value="false" />
   </component>
 </application>
