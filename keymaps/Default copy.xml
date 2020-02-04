@@ -6,6 +6,12 @@
   <action id="ECTranslation">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt f3" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -22,6 +28,9 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.Log.GoToRef">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
