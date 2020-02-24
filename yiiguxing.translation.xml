@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="embedded" />
       <item value="24" />
       <item value="up Camera Id" />
       <item value="result Content" />
@@ -9,7 +10,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
