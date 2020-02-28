@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Compares this string to the specified {@code CharSequence}. The * result is {@code true} if and only if this {@code String} represents the * same sequence of char values as the specified sequence. Note that if the * {@code CharSequence} is a {@code StringBuffer} then the method * synchronizes on it." />
+      <item value="* this function does not compare this string and the specified [CharSequence] in a synchronized block." />
+      <item value="* Unlike the overload that accepts an argument of type [StringBuffer]," />
+      <item value="* Returns `true` if this string is equal to the contents of the specified [CharSequence], `false` otherwise." />
       <item value="missing Delimiter Value" />
       <item value="Returns a substring before the first occurrence of [delimiter]. * If the string does not contain the delimiter, returns [missingDelimiterValue] which defaults to the original string." />
       <item value="milliseconds" />
@@ -35,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
