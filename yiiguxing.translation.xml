@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Size" />
       <item value="Param" />
       <item value="参数" />
       <item value="Parm" />
@@ -43,7 +44,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
