@@ -1,12 +1,51 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="import User" />
+      <item value="Size" />
+      <item value="Param" />
+      <item value="参数" />
+      <item value="Parm" />
+      <item value="param" />
+      <item value="Compares this string to the specified {@code CharSequence}. The * result is {@code true} if and only if this {@code String} represents the * same sequence of char values as the specified sequence. Note that if the * {@code CharSequence} is a {@code StringBuffer} then the method * synchronizes on it." />
+      <item value="* this function does not compare this string and the specified [CharSequence] in a synchronized block." />
+      <item value="* Unlike the overload that accepts an argument of type [StringBuffer]," />
+      <item value="* Returns `true` if this string is equal to the contents of the specified [CharSequence], `false` otherwise." />
+      <item value="missing Delimiter Value" />
+      <item value="Returns a substring before the first occurrence of [delimiter]. * If the string does not contain the delimiter, returns [missingDelimiterValue] which defaults to the original string." />
+      <item value="milliseconds" />
+      <item value="Processed" />
+      <item value="consumpt" />
+      <item value="power consumpt" />
+      <item value="power consumption" />
+      <item value="consumption" />
+      <item value="功率" />
+      <item value="dj" />
+      <item value="耦合测试" />
+      <item value="耦合" />
+      <item value="Outer" />
+      <item value="质量" />
+      <item value="检查" />
+      <item value="surface" />
+      <item value="表面" />
+      <item value="face" />
+      <item value="外观检查" />
+      <item value="外观" />
+      <item value="ACCESS FINE LOCATION" />
+      <item value="ACCESS COARSE LOCATION" />
+      <item value="* Set a prompt to display on the capture screen, instead of using the default." />
+      <item value="* @param prompt the prompt to display" />
+      <item value="Confirm" />
+      <item value="embedded" />
+      <item value="24" />
+      <item value="up Camera Id" />
+      <item value="result Content" />
+      <item value="append" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
+        <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
   </component>
