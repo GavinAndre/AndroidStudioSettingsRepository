@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LOCATION" />
+      <item value="position" />
       <item value="cooler" />
       <item value="pcb" />
       <item value="magnet" />
@@ -49,13 +51,11 @@
       <item value="embedded" />
       <item value="24" />
       <item value="up Camera Id" />
-      <item value="result Content" />
-      <item value="append" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
