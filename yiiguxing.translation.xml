@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Adds or subtracts" />
+      <item value="roll" />
       <item value="Returns a string containing all characters except first characters that satisfy the given [predicate]." />
       <item value="Repeatedly re-subscribes to the current Single indefinitely if it fails with an onError." />
       <item value="internal" />
@@ -49,13 +51,11 @@
       <item value="ACCESS FINE LOCATION" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="* Set a prompt to display on the capture screen, instead of using the default." />
-      <item value="* @param prompt the prompt to display" />
-      <item value="Confirm" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
