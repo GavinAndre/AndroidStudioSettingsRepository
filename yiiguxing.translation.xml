@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="store" />
       <item value="Device Owner (DO) &amp; Profile Owner (PO) apps will have access to the full list." />
       <item value="{@link android.os.Build.VERSION_CODES#Q} or above, this API will return an empty list, * except for:" />
       <item value="Compatibility Note:&lt;/b&gt; For applications targeting" />
@@ -43,7 +44,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="36" />
       </map>
     </option>
