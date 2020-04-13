@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="province" />
       <item value="ticket" />
       <item value="payload" />
       <item value="DON'T do this copy in a real app, it is just convenient here for the demo :) // because reddit randomizes scores, we want to pass it as a payload to minimize // UI updates between refreshes" />
@@ -49,7 +50,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
+        <entry key="CHINESE" value="41" />
         <entry key="ENGLISH" value="41" />
       </map>
     </option>
