@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indices" />
+      <item value="Objects of this type are received from the Github API, therefore all the fields are annotated * with the serialized name." />
+      <item value="Immutable model class for a Github repo that holds all the information about a repository." />
+      <item value="This class also defines the Room repos table, where the repo [id] is the primary key." />
       <item value="No connection established" />
       <item value="请等待几秒钟" />
       <item value="ticket" />
@@ -47,14 +51,11 @@
       <item value="check Log" />
       <item value="PRODUCTION" />
       <item value="License" />
-      <item value="XU Get Chip Rom Type" />
-      <item value="* Returns a copy of this string converted to lower case using the rules of the default locale." />
-      <item value="get Default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>
