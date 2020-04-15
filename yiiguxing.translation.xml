@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fridge" />
       <item value="please scan one cam code at least" />
       <item value="at least" />
       <item value="block" />
@@ -50,12 +51,11 @@
       <item value="true if urgent data supported" />
       <item value="Returns whether or not this SocketImpl supports sending * urgent data. By default, false is returned * unless the method is overridden in a sub-class" />
       <item value="The * line separator string is defined by the system property * &lt;code&gt;line.separator&lt;/code&gt;, and is not necessarily a single newline * character (&lt;code&gt;'\n'&lt;/code&gt;)." />
-      <item value="Terminates the current line by writing the line separator string" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
