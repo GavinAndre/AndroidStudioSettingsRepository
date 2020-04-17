@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="8000" />
       <item value="去除" />
       <item value="* Performs the given [action] on each element and returns the collection itself afterwards." />
       <item value="deploy" />
@@ -50,11 +51,10 @@
       <item value="bt Assembly Test" />
       <item value="bt Assemble Test" />
       <item value="urgent data" />
-      <item value="* Send one byte of urgent data on the socket. The byte to be sent is the lowest eight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
+        <entry key="CHINESE" value="57" />
         <entry key="ENGLISH" value="56" />
       </map>
     </option>
