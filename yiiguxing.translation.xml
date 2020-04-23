@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="8000" />
+      <item value="使用新的替换旧的" />
+      <item value="设备节点" />
+      <item value="记录" />
       <item value="hard code" />
       <item value="// appending '%' so we can allow other characters to be before and after the query string" />
       <item value="unopened" />
-      <item value="8000" />
       <item value="去除" />
       <item value="* Performs the given [action] on each element and returns the collection itself afterwards." />
       <item value="deploy" />
@@ -48,14 +51,11 @@
       <item value="server replace fridge" />
       <item value="// todo server replace fridge" />
       <item value="Assembly" />
-      <item value="ssid Prefix" />
-      <item value="FEIDGE" />
-      <item value="Fireware Version" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
