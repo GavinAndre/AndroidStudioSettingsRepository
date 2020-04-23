@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="door State" />
+      <item value="action Count" />
       <item value="* A constant describing an accelerometer sensor type." />
       <item value="mis Wake vals" />
       <item value="8000" />
@@ -49,14 +51,12 @@
       <item value="is Front" />
       <item value="state drag hovered" />
       <item value="state hovered" />
-      <item value="state accelerated" />
-      <item value="server replace fridge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
-        <entry key="DUTCH" value="1" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="61" />
+        <entry key="DUTCH" value="2" />
       </map>
     </option>
   </component>
