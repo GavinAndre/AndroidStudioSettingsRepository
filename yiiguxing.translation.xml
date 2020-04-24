@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if the current thread is * {@linkplain Thread#interrupt() interrupted} by another * thread while it is waiting, then the wait is ended and * an {@link InterruptedException} is thrown." />
+      <item value="the exit value of the subprocess represented by this * {@code Process} object. By convention, the value * {@code 0} indicates normal termination." />
+      <item value="Causes the current thread to wait, if necessary, until the * process represented by this {@code Process} object has * terminated. This method returns immediately if the subprocess * has already terminated. If the subprocess has not yet * terminated, the calling thread will be blocked until the * subprocess exits." />
+      <item value="Key code constant: Directional Pad Down key" />
+      <item value="Directional Pad Down key" />
+      <item value="May also be synthesized from trackball motions" />
+      <item value="May also be synthesized from trackball motions." />
+      <item value="Key code constant: Directional Pad Down key." />
       <item value="do Current Angle Integral" />
       <item value="judge And Change Door State 2 Closed Or Opened" />
       <item value="door State" />
@@ -43,19 +51,11 @@
       <item value="a) See {@link WifiNetworkSpecifier.Builder#build()} for new * mechanism to trigger connection to a Wi-Fi network." />
       <item value="@return a list of network configurations in the form of a list * of {@link WifiConfiguration} objects." />
       <item value="* @return a list of network configurations in the form of a list" />
-      <item value="Not all fields of WifiConfiguration are returned. Only the following * fields are filled in:" />
-      <item value="Return a list of all the networks configured for the current foreground * user." />
-      <item value="Device Owner (DO) &amp; Profile Owner (PO) apps will have access to the full list. * &lt;li&gt;Callers with Carrier privilege will receive a restricted list only containing * configurations which they created." />
-      <item value="orientation" />
-      <item value="方向" />
-      <item value="The way to select a particular network to connect to is specify * {@code true} for this parameter." />
-      <item value="is Exists" />
-      <item value="is Front" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>

@@ -9,6 +9,7 @@
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="bnf" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="door_lock" type="SQL" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
