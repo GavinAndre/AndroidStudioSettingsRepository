@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="通过摄像头api返回值来重启app" />
+      <item value="做法" />
+      <item value="method" />
+      <item value="app重启方式通过" />
+      <item value="更改app重启方式" />
+      <item value="根据摄像头api返回结果" />
       <item value="consideration" />
       <item value="// unconnected sockets have not been implemented." />
       <item value="* Returns the IP address string in textual presentation." />
@@ -45,17 +51,11 @@
       <item value="restore" />
       <item value="indices" />
       <item value="Objects of this type are received from the Github API, therefore all the fields are annotated * with the serialized name." />
-      <item value="Immutable model class for a Github repo that holds all the information about a repository." />
-      <item value="This class also defines the Room repos table, where the repo [id] is the primary key." />
-      <item value="No connection established" />
-      <item value="请等待几秒钟" />
-      <item value="ticket" />
-      <item value="tv district" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
