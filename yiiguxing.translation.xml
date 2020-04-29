@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LogUtil.e(TAG, &quot;run&quot;, &quot;time out 10 times, stop upload service thread&quot;);" />
       <item value="通过摄像头api返回值来重启app" />
       <item value="做法" />
       <item value="method" />
@@ -50,12 +51,11 @@
       <item value="block" />
       <item value="restore" />
       <item value="indices" />
-      <item value="Objects of this type are received from the Github API, therefore all the fields are annotated * with the serialized name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="DUTCH" value="2" />
       </map>
     </option>
