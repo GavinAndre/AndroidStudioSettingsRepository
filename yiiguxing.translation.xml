@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="校准" />
+      <item value="矫正" />
       <item value="漂移" />
       <item value="偏移" />
       <item value="calibrate" />
@@ -49,8 +51,6 @@
       <item value="unopened" />
       <item value="去除" />
       <item value="* Performs the given [action] on each element and returns the collection itself afterwards." />
-      <item value="deploy" />
-      <item value="fridge" />
     </histories>
     <option name="languageScores">
       <map>
