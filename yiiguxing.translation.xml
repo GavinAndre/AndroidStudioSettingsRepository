@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="在关门与静止状态时判断是否有偏移" />
+      <item value="在关门与静止状态下" />
+      <item value="在半夜12点进行校准" />
+      <item value="将校准逻辑放在半夜12点" />
+      <item value="reformat" />
       <item value="Returns the closest {@code long} to the argument, with ties * rounding to positive infinity." />
       <item value="Schimitt" />
       <item value="Session" />
@@ -46,16 +51,11 @@
       <item value="* A constant describing an accelerometer sensor type." />
       <item value="mis Wake vals" />
       <item value="8000" />
-      <item value="使用新的替换旧的" />
-      <item value="设备节点" />
-      <item value="记录" />
-      <item value="hard code" />
-      <item value="// appending '%' so we can allow other characters to be before and after the query string" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
