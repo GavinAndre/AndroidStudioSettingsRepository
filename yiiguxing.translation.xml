@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Schimitt" />
       <item value="Session" />
       <item value="校准" />
       <item value="矫正" />
@@ -50,13 +51,13 @@
       <item value="hard code" />
       <item value="// appending '%' so we can allow other characters to be before and after the query string" />
       <item value="unopened" />
-      <item value="去除" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="91" />
+        <entry key="CHINESE" value="92" />
         <entry key="ENGLISH" value="92" />
         <entry key="DUTCH" value="2" />
+        <entry key="PORTUGUESE" value="1" />
       </map>
     </option>
   </component>
