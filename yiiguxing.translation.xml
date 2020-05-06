@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the closest {@code long} to the argument, with ties * rounding to positive infinity." />
       <item value="Schimitt" />
       <item value="Session" />
       <item value="校准" />
@@ -50,12 +51,11 @@
       <item value="记录" />
       <item value="hard code" />
       <item value="// appending '%' so we can allow other characters to be before and after the query string" />
-      <item value="unopened" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
