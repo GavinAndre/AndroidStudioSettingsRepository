@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tethering" />
+      <item value="start Tethering" />
       <item value="* @param reportedProperties the Set for desired properties and their corresponding callback and context. Cannot be {@code null}." />
       <item value="subscribe Desired Property" />
       <item value="provisioning" />
@@ -49,13 +51,11 @@
       <item value="the exit value of the subprocess represented by this * {@code Process} object. By convention, the value * {@code 0} indicates normal termination." />
       <item value="Causes the current thread to wait, if necessary, until the * process represented by this {@code Process} object has * terminated. This method returns immediately if the subprocess * has already terminated. If the subprocess has not yet * terminated, the calling thread will be blocked until the * subprocess exits." />
       <item value="Key code constant: Directional Pad Down key" />
-      <item value="Directional Pad Down key" />
-      <item value="May also be synthesized from trackball motions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
