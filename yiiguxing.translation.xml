@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MESSAGE EXPIRED" />
       <item value="异常" />
       <item value="热点" />
       <item value="Integrating done." />
@@ -50,12 +51,11 @@
       <item value="app重启方式通过" />
       <item value="更改app重启方式" />
       <item value="根据摄像头api返回结果" />
-      <item value="consideration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="105" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
