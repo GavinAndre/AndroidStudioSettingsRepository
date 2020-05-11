@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Binds the current process to {@code network}. All Sockets created in the future * (and not explicitly bound via a bound SocketFactory from * {@link Network#getSocketFactory() Network.getSocketFactory()}) will be bound to * {@code network}. All host name resolutions will be limited to {@code network} as well. * Note that if {@code network} ever disconnects, all Sockets created in this way will cease to * work and all host name resolutions will fail. This is by design so an application doesn't * accidentally use Sockets it thinks are still bound to a particular {@link Network}. * To clear binding pass {@code null} for {@code network}. Using individually bound * Sockets created by Network.getSocketFactory().createSocket() and * performing network-specific host name resolutions via * {@link Network#getAllByName Network.getAllByName} is preferred to calling * {@code bindProcessToNetwork}." />
+      <item value="@return a {@code URLConnection} to the resource referred to by this URL. * @throws MalformedURLException if the URL protocol is not HTTP or HTTPS. * @throws IOException if an error occurs while opening the connection. * @see java.net.URL#openConnection()" />
+      <item value="Opens the specified {@link URL} on this {@code Network}, such that all traffic will be sent * on this Network. The URL protocol must be {@code HTTP} or {@code HTTPS}." />
+      <item value="Binds the specified {@link Socket} to this {@code Network}. All data traffic on the socket * will be sent on this {@code Network}, irrespective of any process-wide network binding set by * {@link ConnectivityManager#bindProcessToNetwork}. The socket must not be connected. */" />
+      <item value="&lt;b&gt;Note:&lt;/b&gt; Network communication may not use Wi-Fi even if Wi-Fi is connected; * traffic may instead be sent through another network, such as cellular data, * Bluetooth tethering, or Ethernet. For example, traffic will never use a * Wi-Fi network that does not provide Internet access (e.g. a wireless * printer), if another network that does offer Internet access (e.g. * cellular data) is available. Applications that need to ensure that their * network traffic uses Wi-Fi should use APIs such as * {@link Network#bindSocket(java.net.Socket)}, * {@link Network#openConnection(java.net.URL)}, or * {@link ConnectivityManager#bindProcessToNetwork} to do so." />
+      <item value="Allow a previously configured network to be associated with. If * &lt;code&gt;attemptConnect&lt;/code&gt; is true, an attempt to connect to the selected * network is initiated. This may result in the asynchronous delivery * of state change events." />
       <item value="Reconnect to the currently active access point, even if we are already * connected. This may result in the asynchronous delivery of state * change events." />
       <item value="reassociate" />
       <item value="Applications are not allowed to enable networks created by other * applications." />
@@ -45,17 +51,11 @@
       <item value="在关门与静止状态时判断是否有偏移" />
       <item value="在关门与静止状态下" />
       <item value="在半夜12点进行校准" />
-      <item value="将校准逻辑放在半夜12点" />
-      <item value="reformat" />
-      <item value="Returns the closest {@code long} to the argument, with ties * rounding to positive infinity." />
-      <item value="Schimitt" />
-      <item value="Session" />
-      <item value="校准" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="114" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
