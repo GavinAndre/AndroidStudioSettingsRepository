@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It is used to direct traffic to the given {@code Network}, either on a {@link Socket} basis * through a targeted {@link SocketFactory} or process-wide via * {@link ConnectivityManager#bindProcessToNetwork}." />
+      <item value="This is supplied to applications via * {@link ConnectivityManager.NetworkCallback} in response to the active * {@link ConnectivityManager#requestNetwork} or passive * {@link ConnectivityManager#registerNetworkCallback} calls." />
+      <item value="Returns a {@link SocketFactory} bound to this network. Any {@link Socket} created by * this factory will have its traffic sent over this {@code Network}. Note that if this * {@code Network} ever disconnects, this factory and any {@link Socket} it produced in the * past or future will cease to work." />
+      <item value="Identifies a {@code Network}. This is supplied to applications via * {@link ConnectivityManager.NetworkCallback} in response to the active * {@link ConnectivityManager#requestNetwork} or passive * {@link ConnectivityManager#registerNetworkCallback} calls. * It is used to direct traffic to the given {@code Network}, either on a {@link Socket} basis * through a targeted {@link SocketFactory} or process-wide via * {@link ConnectivityManager#bindProcessToNetwork}." />
       <item value="Binds the current process to {@code network}. All Sockets created in the future * (and not explicitly bound via a bound SocketFactory from * {@link Network#getSocketFactory() Network.getSocketFactory()}) will be bound to * {@code network}. All host name resolutions will be limited to {@code network} as well. * Note that if {@code network} ever disconnects, all Sockets created in this way will cease to * work and all host name resolutions will fail. This is by design so an application doesn't * accidentally use Sockets it thinks are still bound to a particular {@link Network}. * To clear binding pass {@code null} for {@code network}. Using individually bound * Sockets created by Network.getSocketFactory().createSocket() and * performing network-specific host name resolutions via * {@link Network#getAllByName Network.getAllByName} is preferred to calling * {@code bindProcessToNetwork}." />
       <item value="@return a {@code URLConnection} to the resource referred to by this URL. * @throws MalformedURLException if the URL protocol is not HTTP or HTTPS. * @throws IOException if an error occurs while opening the connection. * @see java.net.URL#openConnection()" />
       <item value="Opens the specified {@link URL} on this {@code Network}, such that all traffic will be sent * on this Network. The URL protocol must be {@code HTTP} or {@code HTTPS}." />
@@ -47,15 +51,11 @@
       <item value="静止" />
       <item value="静止状态" />
       <item value="在关门与静止状态时判断漂移" />
-      <item value="在关门与静止状态时判断是否有漂移" />
-      <item value="在关门与静止状态时判断是否有偏移" />
-      <item value="在关门与静止状态下" />
-      <item value="在半夜12点进行校准" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
