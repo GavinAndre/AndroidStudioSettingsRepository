@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="please" />
       <item value="数量" />
       <item value="扫码限制" />
       <item value="图标" />
@@ -50,11 +51,10 @@
       <item value="拔电时会打开飞行模式" />
       <item value="Tethering" />
       <item value="start Tethering" />
-      <item value="* @param reportedProperties the Set for desired properties and their corresponding callback and context. Cannot be {@code null}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
+        <entry key="CHINESE" value="129" />
         <entry key="ENGLISH" value="129" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
