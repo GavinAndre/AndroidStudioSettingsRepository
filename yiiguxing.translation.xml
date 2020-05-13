@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Applications are not allowed to disable networks created by other * applications." />
+      <item value="Disable a configured network. The specified network will not be * a candidate for associating. This may result in the asynchronous * delivery of state change events." />
+      <item value="This may result * in the asynchronous delivery of state change events." />
       <item value="请确保蜂窝网络可用" />
       <item value="Cellular" />
       <item value="transport" />
@@ -48,14 +51,11 @@
       <item value="完成集成" />
       <item value="集成完成" />
       <item value="cause this problem" />
-      <item value="现在更改为第一次启动App时不打开热点开关" />
-      <item value="当App启动时会在关闭飞行模式时打开热点开关" />
-      <item value="当App启动时会先打开热点开关" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="138" />
+        <entry key="ENGLISH" value="139" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
