@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="请确保蜂窝网络可用" />
+      <item value="Cellular" />
+      <item value="transport" />
+      <item value="Cellular transport" />
+      <item value="请使用移动网络" />
       <item value="please" />
       <item value="数量" />
       <item value="扫码限制" />
@@ -46,16 +51,11 @@
       <item value="现在更改为第一次启动App时不打开热点开关" />
       <item value="当App启动时会在关闭飞行模式时打开热点开关" />
       <item value="当App启动时会先打开热点开关" />
-      <item value="拔电时会打开飞行模式，关机后重新上电开机也会保持飞行模式" />
-      <item value="拔电时会打开飞行模式，关机后重新上电开机" />
-      <item value="拔电时会打开飞行模式" />
-      <item value="Tethering" />
-      <item value="start Tethering" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
