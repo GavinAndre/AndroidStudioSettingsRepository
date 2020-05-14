@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="override fun success() {" />
+      <item value="override fun failed(errorCode: ConnectionErrorCode) {" />
       <item value="epic" />
       <item value="Could not connect in the timeout window." />
       <item value="Authentication error occurred while trying to connect. * The password could be incorrect or the user could have a saved network configuration with a * different password!" />
@@ -49,13 +51,11 @@
       <item value="MESSAGE EXPIRED" />
       <item value="异常" />
       <item value="热点" />
-      <item value="Integrating done." />
-      <item value="Integrating done. " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
