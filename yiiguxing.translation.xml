@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="适配安卓10" />
+      <item value="适配" />
       <item value="override fun success() {" />
       <item value="override fun failed(errorCode: ConnectionErrorCode) {" />
       <item value="epic" />
@@ -49,13 +51,11 @@
       <item value="支持升级固件" />
       <item value="升级固件" />
       <item value="MESSAGE EXPIRED" />
-      <item value="异常" />
-      <item value="热点" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
