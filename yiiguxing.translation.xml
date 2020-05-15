@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="heartbeat" />
       <item value="适配安卓10" />
       <item value="适配" />
       <item value="override fun success() {" />
@@ -50,12 +51,11 @@
       <item value="支持掉固件的摄像头升级固件" />
       <item value="支持升级固件" />
       <item value="升级固件" />
-      <item value="MESSAGE EXPIRED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="147" />
-        <entry key="ENGLISH" value="148" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
