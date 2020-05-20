@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Called when the network the framework connected to for this request * goes into {@link NetworkInfo.State#SUSPENDED}. * This generally means that while the TCP connections are still live, * temporarily network data fails to transfer. Specifically this is used * on cellular networks to mask temporary outages when driving through * a tunnel, etc." />
+      <item value="Called when the network the framework connected to for this request * changes {@link LinkProperties}." />
+      <item value="Called when the network the framework connected to for this request * changes capabilities but still satisfies the stated need." />
+      <item value="Called if no network is found in the timeout time specified in * {@link #requestNetwork(NetworkRequest, NetworkCallback, int)} call or if the * requested network request cannot be fulfilled (whether or not a timeout was * specified). When this callback is invoked the associated * {@link NetworkRequest} will have already been removed and released, as if * {@link #unregisterNetworkCallback(NetworkCallback)} had been called." />
+      <item value="Called when the framework has a hard loss of the network or when the * graceful failure ends." />
+      <item value="Called when the network is about to be disconnected. Often paired with an * {@link NetworkCallback#onAvailable} call with the new replacement network * for graceful handover. This may not be called if we have a hard loss * (loss without warning). This may be followed by either a * {@link NetworkCallback#onLost} call or a * {@link NetworkCallback#onAvailable} call for this network depending * on whether we lose or regain it." />
+      <item value="Called when the framework connects and has declared a new network ready for use. * This callback may be called more than once if the {@link Network} that is * satisfying the request changes. This will always immediately be followed by a * call to {@link #onCapabilitiesChanged(Network, NetworkCapabilities)} then by a * call to {@link #onLinkPropertiesChanged(Network, LinkProperties)}, and a call to * {@link #onBlockedStatusChanged(Network, boolean)}." />
+      <item value="Called when the framework connects and has declared a new network ready for use. * This callback may be called more than once if the {@link Network} that is * satisfying the request changes." />
       <item value="* Asynchronously sends an event message to the IoT Hub." />
       <item value="map" />
       <item value="heartbeat" />
@@ -43,19 +51,11 @@
       <item value="Reconnect to the currently active access point, even if we are already * connected. This may result in the asynchronous delivery of state * change events." />
       <item value="reassociate" />
       <item value="Applications are not allowed to enable networks created by other * applications." />
-      <item value="Applications that need to ensure that their * network traffic uses Wi-Fi should use APIs such as * {@link Network#bindSocket(java.net.Socket)}, * {@link Network#openConnection(java.net.URL)}, or * {@link ConnectivityManager#bindProcessToNetwork} to do so." />
-      <item value="* User has to manually do this." />
-      <item value="* Starting Android 10, apps are no longer allowed to enable wifi." />
-      <item value="EPIC" />
-      <item value="支持丢固件的摄像头升级固件" />
-      <item value="损失固件" />
-      <item value="掉固件" />
-      <item value="支持掉固件的摄像头升级固件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="158" />
+        <entry key="ENGLISH" value="159" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
