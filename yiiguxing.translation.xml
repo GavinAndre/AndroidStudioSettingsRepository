@@ -1,6 +1,20 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SERIAL" />
+      <item value="SERIA" />
+      <item value="consequent" />
+      <item value="连续的" />
+      <item value="持续的" />
+      <item value="连贯的" />
+      <item value="连续地" />
+      <item value="consecutive" />
+      <item value="连续拍照失败次数" />
+      <item value="连续" />
+      <item value="出问题" />
+      <item value="卡住" />
+      <item value="挂掉" />
+      <item value="超时" />
       <item value="login date" />
       <item value="logout" />
       <item value="556使用291b的固件" />
@@ -37,27 +51,13 @@
       <item value="Authentication error occurred while trying to connect. * The password could be incorrect or the user could have a saved network configuration with a * different password!" />
       <item value="If the wifi network is not in range, the security type is unknown and WifiUtils doesn't support * connecting to the network." />
       <item value="* If the wifi network is not in range, the security type is unknown and WifiUtils doesn't support" />
-      <item value="数字不能相同" />
-      <item value="不能相同" />
-      <item value="Applications are not allowed to disable networks created by other * applications." />
-      <item value="Disable a configured network. The specified network will not be * a candidate for associating. This may result in the asynchronous * delivery of state change events." />
-      <item value="This may result * in the asynchronous delivery of state change events." />
-      <item value="请确保蜂窝网络可用" />
-      <item value="Cellular" />
-      <item value="transport" />
-      <item value="Cellular transport" />
-      <item value="请使用移动网络" />
-      <item value="please" />
-      <item value="数量" />
-      <item value="扫码限制" />
-      <item value="图标" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="170" />
-        <entry key="ENGLISH" value="171" />
+        <entry key="CHINESE" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="DUTCH" value="2" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
   </component>
