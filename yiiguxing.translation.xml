@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="556使用291b的固件" />
+      <item value="除非刷错固件导致的损坏" />
+      <item value="除了刷错固件导致的损坏" />
+      <item value="支持通过ota升级已经损坏的摄像头固件" />
+      <item value="支持通过ota升级已经损坏的固件" />
       <item value="Retrieves the twin's latest desired properties" />
       <item value="assemble" />
       <item value="* @param context the context to be passed to the callback. Can be {@code null}." />
@@ -46,16 +51,11 @@
       <item value="图标" />
       <item value="增大" />
       <item value="字段" />
-      <item value="This {@link NetworkRequest} will live until released via * {@link #unregisterNetworkCallback(NetworkCallback)} or the calling application exits. A * version of the method which takes a timeout is * {@link #requestNetwork(NetworkRequest, NetworkCallback, int)}. * Status of the request can be followed by listening to the various * callbacks described in {@link NetworkCallback}. The {@link Network} * can be used to direct traffic to the network." />
-      <item value="It is used to direct traffic to the given {@code Network}, either on a {@link Socket} basis * through a targeted {@link SocketFactory} or process-wide via * {@link ConnectivityManager#bindProcessToNetwork}." />
-      <item value="This is supplied to applications via * {@link ConnectivityManager.NetworkCallback} in response to the active * {@link ConnectivityManager#requestNetwork} or passive * {@link ConnectivityManager#registerNetworkCallback} calls." />
-      <item value="Returns a {@link SocketFactory} bound to this network. Any {@link Socket} created by * this factory will have its traffic sent over this {@code Network}. Note that if this * {@code Network} ever disconnects, this factory and any {@link Socket} it produced in the * past or future will cease to work." />
-      <item value="Identifies a {@code Network}. This is supplied to applications via * {@link ConnectivityManager.NetworkCallback} in response to the active * {@link ConnectivityManager#requestNetwork} or passive * {@link ConnectivityManager#registerNetworkCallback} calls. * It is used to direct traffic to the given {@code Network}, either on a {@link Socket} basis * through a targeted {@link SocketFactory} or process-wide via * {@link ConnectivityManager#bindProcessToNetwork}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
