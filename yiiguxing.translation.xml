@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="login date" />
       <item value="logout" />
       <item value="556使用291b的固件" />
       <item value="除非刷错固件导致的损坏" />
@@ -50,12 +51,11 @@
       <item value="数量" />
       <item value="扫码限制" />
       <item value="图标" />
-      <item value="增大" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="1" />
       </map>
