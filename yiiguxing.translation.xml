@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="一周后需要重新登录" />
+      <item value="Log back" />
+      <item value="一周后重新登录" />
       <item value="calibration" />
       <item value="SERIAL" />
       <item value="SERIA" />
@@ -48,14 +51,11 @@
       <item value="override fun success() {" />
       <item value="override fun failed(errorCode: ConnectionErrorCode) {" />
       <item value="epic" />
-      <item value="Could not connect in the timeout window." />
-      <item value="Authentication error occurred while trying to connect. * The password could be incorrect or the user could have a saved network configuration with a * different password!" />
-      <item value="If the wifi network is not in range, the security type is unknown and WifiUtils doesn't support * connecting to the network." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="176" />
+        <entry key="ENGLISH" value="177" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="2" />
       </map>
