@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="magnet&quot;" />
       <item value="拍照连续失败次数如果大于5次硬重启设备" />
       <item value="拍照连续失败次数大于5次硬重启设备" />
       <item value="忽略开门角度小于1度的开门信息" />
@@ -50,12 +51,11 @@
       <item value="Called when the framework connects and has declared a new network ready for use. * This callback may be called more than once if the {@link Network} that is * satisfying the request changes." />
       <item value="* Asynchronously sends an event message to the IoT Hub." />
       <item value="map" />
-      <item value="heartbeat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="2" />
       </map>
