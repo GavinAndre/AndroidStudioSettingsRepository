@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="tightly" />
+      <item value="不能把门关的非常紧" />
+      <item value="不能把门关的非常紧紧" />
+      <item value="不能把门关紧" />
+      <item value="更改为过滤掉1度的开门信息" />
+      <item value="更改为过滤1度的开门信息" />
+      <item value="更改为过滤一度的开门信息" />
+      <item value="过滤一度的开门信息" />
+      <item value="更改为" />
+      <item value="filtering" />
+      <item value="filtration" />
+      <item value="过滤" />
+      <item value="过滤1度的开门信息" />
+      <item value="更改为只" />
+      <item value="particular" />
+      <item value="fridge" />
+      <item value="发生在一个特定的冰箱上" />
+      <item value="特定的冰箱有此问题" />
+      <item value="单个冰箱有此问题" />
+      <item value="发生在单个冰箱上" />
       <item value="配件" />
       <item value="附件配件" />
       <item value="附件" />
@@ -31,31 +51,11 @@
       <item value="login date" />
       <item value="logout" />
       <item value="556使用291b的固件" />
-      <item value="除非刷错固件导致的损坏" />
-      <item value="除了刷错固件导致的损坏" />
-      <item value="支持通过ota升级已经损坏的摄像头固件" />
-      <item value="支持通过ota升级已经损坏的固件" />
-      <item value="Retrieves the twin's latest desired properties" />
-      <item value="assemble" />
-      <item value="* @param context the context to be passed to the callback. Can be {@code null}." />
-      <item value="* @param callback the message callback. Can be {@code null}." />
-      <item value="if provided callback is null" />
-      <item value="a context to be passed to the callback. Can be {@code null}." />
-      <item value="The callback to be fired when the connection status of the device changes. Can be null to * unset this listener as long as the provided callbackContext is also null." />
-      <item value="Registers a callback to be executed when the connection status of the device changes. The callback will be fired * with a status and a reason why the device's status changed. When the callback is fired, the provided context will * be provided alongside the status and reason." />
-      <item value="Note that the thread used to deliver this callback should not be used to call open()/closeNow() on the client * that this callback belongs to. All open()/closeNow() operations should be done on a separate thread&lt;/p&gt; *" />
-      <item value="Called when the network the framework connected to for this request * goes into {@link NetworkInfo.State#SUSPENDED}. * This generally means that while the TCP connections are still live, * temporarily network data fails to transfer. Specifically this is used * on cellular networks to mask temporary outages when driving through * a tunnel, etc." />
-      <item value="Called when the network the framework connected to for this request * changes {@link LinkProperties}." />
-      <item value="Called when the network the framework connected to for this request * changes capabilities but still satisfies the stated need." />
-      <item value="Called if no network is found in the timeout time specified in * {@link #requestNetwork(NetworkRequest, NetworkCallback, int)} call or if the * requested network request cannot be fulfilled (whether or not a timeout was * specified). When this callback is invoked the associated * {@link NetworkRequest} will have already been removed and released, as if * {@link #unregisterNetworkCallback(NetworkCallback)} had been called." />
-      <item value="Called when the framework has a hard loss of the network or when the * graceful failure ends." />
-      <item value="Called when the network is about to be disconnected. Often paired with an * {@link NetworkCallback#onAvailable} call with the new replacement network * for graceful handover. This may not be called if we have a hard loss * (loss without warning). This may be followed by either a * {@link NetworkCallback#onLost} call or a * {@link NetworkCallback#onAvailable} call for this network depending * on whether we lose or regain it." />
-      <item value="Called when the framework connects and has declared a new network ready for use. * This callback may be called more than once if the {@link Network} that is * satisfying the request changes. This will always immediately be followed by a * call to {@link #onCapabilitiesChanged(Network, NetworkCapabilities)} then by a * call to {@link #onLinkPropertiesChanged(Network, LinkProperties)}, and a call to * {@link #onBlockedStatusChanged(Network, boolean)}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="183" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="2" />
       </map>
