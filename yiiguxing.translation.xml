@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="provisioning" />
       <item value="页面" />
       <item value="界面" />
       <item value="I don't know the actual conditions in the field so I'm not sure.  Please confirm with Jacky.  Same issue as above - the 300ML CAN have less confusion. " />
@@ -50,12 +51,11 @@
       <item value="连续的" />
       <item value="持续的" />
       <item value="连贯的" />
-      <item value="连续地" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="185" />
-        <entry key="ENGLISH" value="186" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="2" />
       </map>
