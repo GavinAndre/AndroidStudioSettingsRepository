@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="你能检查一下吗" />
+      <item value="你能做事吗" />
       <item value="app 重启时间在1秒左右" />
       <item value="reopen" />
       <item value="重启app问题已修复，将在下个版本放出。" />
@@ -49,8 +51,6 @@
       <item value="连续拍照失败次数" />
       <item value="连续" />
       <item value="出问题" />
-      <item value="卡住" />
-      <item value="挂掉" />
     </histories>
     <option name="languageScores">
       <map>
