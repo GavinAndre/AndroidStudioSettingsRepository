@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incremental" />
       <item value="结构" />
       <item value="provisioning" />
       <item value="页面" />
@@ -50,11 +51,10 @@
       <item value="SERIA" />
       <item value="consequent" />
       <item value="连续的" />
-      <item value="持续的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
+        <entry key="CHINESE" value="188" />
         <entry key="ENGLISH" value="188" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="2" />
@@ -68,6 +68,5 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
-    <option name="showStatusIcon" value="false" />
   </component>
 </application>
