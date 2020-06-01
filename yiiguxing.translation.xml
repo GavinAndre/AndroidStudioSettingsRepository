@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* the delimiting regular expression" />
       <item value="Desugaring" />
       <item value="desugar" />
       <item value="desugar jdk libs" />
@@ -50,12 +51,11 @@
       <item value="Log back" />
       <item value="一周后重新登录" />
       <item value="calibration" />
-      <item value="SERIAL" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="189" />
-        <entry key="ENGLISH" value="189" />
+        <entry key="ENGLISH" value="190" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="2" />
