@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To enable checks for only a subset of issue IDs and ignore all others, list the issue IDs with the 'check' property instead. This property overrides any issue IDs you enable or disable using the properties above." />
+      <item value="Turns off checks for the issue IDs you specify." />
+      <item value="Turns on checks for the issue IDs you specify. These checks are in addition to the default lint checks." />
+      <item value="To enable checks for only a subset of issue IDs and ignore all others, // list the issue IDs with the 'check' property instead. This property overrides // any issue IDs you enable or disable using the properties above." />
+      <item value="// If set to true, turns off analysis progress reporting by lint." />
+      <item value="// if set to true (default), stops the build if errors are found." />
+      <item value="// if true, only report errors." />
+      <item value="repositroy" />
+      <item value="repository" />
+      <item value="repositories" />
+      <item value="依赖" />
+      <item value="存储" />
+      <item value="储蓄" />
+      <item value="储藏" />
+      <item value="dependencies" />
+      <item value="library" />
+      <item value="储藏室" />
+      <item value="aes secret key" />
+      <item value="secret" />
       <item value="Context" />
       <item value="* the delimiting regular expression" />
       <item value="Desugaring" />
@@ -32,30 +51,11 @@
       <item value="filtration" />
       <item value="过滤" />
       <item value="过滤1度的开门信息" />
-      <item value="更改为只" />
-      <item value="particular" />
-      <item value="fridge" />
-      <item value="发生在一个特定的冰箱上" />
-      <item value="特定的冰箱有此问题" />
-      <item value="单个冰箱有此问题" />
-      <item value="发生在单个冰箱上" />
-      <item value="配件" />
-      <item value="附件配件" />
-      <item value="附件" />
-      <item value="magnet&quot;" />
-      <item value="拍照连续失败次数如果大于5次硬重启设备" />
-      <item value="拍照连续失败次数大于5次硬重启设备" />
-      <item value="忽略开门角度小于1度的开门信息" />
-      <item value="忽略小于1度的开门信息" />
-      <item value="BACKLIGHT COMPENSATION" />
-      <item value="一周后需要重新登录" />
-      <item value="Log back" />
-      <item value="一周后重新登录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="2" />
