@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Desugaring" />
+      <item value="desugar" />
+      <item value="desugar jdk libs" />
       <item value="incremental" />
       <item value="结构" />
       <item value="provisioning" />
@@ -48,16 +51,14 @@
       <item value="一周后重新登录" />
       <item value="calibration" />
       <item value="SERIAL" />
-      <item value="SERIA" />
-      <item value="consequent" />
-      <item value="连续的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="188" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="189" />
+        <entry key="ENGLISH" value="189" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="JAPANESE" value="2" />
       </map>
     </option>
   </component>
