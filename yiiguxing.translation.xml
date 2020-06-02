@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="site under construction" />
       <item value="Schimitt" />
       <item value="busness" />
       <item value="log Wakeup Resources" />
@@ -50,7 +51,6 @@
       <item value="更改为过滤一度的开门信息" />
       <item value="过滤一度的开门信息" />
       <item value="更改为" />
-      <item value="filtering" />
     </histories>
     <option name="languageScores">
       <map>
