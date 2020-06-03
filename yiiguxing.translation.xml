@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Pre-shared key for use with WPA-PSK. Either an ASCII string enclosed in double quotation marks (e.g., {@code &quot;abcdefghij&quot;} for PSK passphrase or a string of 64 hex digits for raw PSK. &lt;p/&gt; When the value of this key is read, the actual key is not returned, just a &quot;*&quot; if the key has a value, or the null string otherwise." />
       <item value="* Deserializes a byte array into the WiFiConfiguration Object" />
       <item value="/** Shared Key authentication (requires static WEP keys) * @deprecated Due to security and performance limitations, use of WEP networks * is discouraged. */" />
       <item value="/** Open System authentication (required for WPA/WPA2) */" />
@@ -50,12 +51,11 @@
       <item value="Yes - she is familiar with the process of merging SKUs and how to manage Coke. " />
       <item value="你能检查一下吗" />
       <item value="你能做事吗" />
-      <item value="app 重启时间在1秒左右" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
