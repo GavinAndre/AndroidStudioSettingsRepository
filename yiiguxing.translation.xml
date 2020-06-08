@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="使用高德定位的商用key" />
+      <item value="使用高德定位商业key" />
+      <item value="修复关闭iot导致app重启" />
+      <item value="修复关闭iot导致app重启的问题" />
+      <item value="heat" />
+      <item value="heart" />
+      <item value="打印" />
       <item value="Reports whether a valid {@link #getCarrierFrequencyHz(int satIndex)} is available." />
       <item value="Reports whether the satellite at the specified index was used in the calculation of the most recent position fix." />
       <item value="snap Shot Both" />
@@ -44,18 +51,11 @@
       <item value="存储" />
       <item value="储蓄" />
       <item value="储藏" />
-      <item value="dependencies" />
-      <item value="library" />
-      <item value="储藏室" />
-      <item value="aes secret key" />
-      <item value="secret" />
-      <item value="Context" />
-      <item value="* the delimiting regular expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="DUTCH" value="2" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
