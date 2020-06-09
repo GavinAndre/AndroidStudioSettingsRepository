@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mtk固件升级前就上传固件升级成功消息" />
+      <item value="mtk固件升级前就上传升级成功消息" />
+      <item value="失误上传升级成功消息" />
+      <item value="误上传升级成功消息" />
+      <item value="误报上传升级成功消息" />
+      <item value="错误上传升级成功消息" />
       <item value="additional strings to be joined to form the path string" />
       <item value="the path string or initial part of the path string" />
       <item value="Creates a new directory. The check for the existence of the file and the creation of the directory if it does not exist are a single operation that is atomic with respect to all other filesystem activities that might affect the directory. The {@link #createDirectories createDirectories} method should be used where it is required to create all nonexistent parent directories first." />
@@ -45,17 +51,11 @@
       <item value="site under construction" />
       <item value="Schimitt" />
       <item value="busness" />
-      <item value="log Wakeup Resources" />
-      <item value="To enable checks for only a subset of issue IDs and ignore all others, list the issue IDs with the 'check' property instead. This property overrides any issue IDs you enable or disable using the properties above." />
-      <item value="Turns off checks for the issue IDs you specify." />
-      <item value="Turns on checks for the issue IDs you specify. These checks are in addition to the default lint checks." />
-      <item value="To enable checks for only a subset of issue IDs and ignore all others, // list the issue IDs with the 'check' property instead. This property overrides // any issue IDs you enable or disable using the properties above." />
-      <item value="// If set to true, turns off analysis progress reporting by lint." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
