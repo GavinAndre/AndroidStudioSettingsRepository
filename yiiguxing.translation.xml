@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="but these connections will occasionally time out." />
+      <item value="Set this to false to avoid retrying requests when doing so is destructive. In this case the calling application should do its own recovery of connectivity failures." />
+      <item value="&lt;ul&gt; &lt;li&gt;&lt;strong&gt;Unreachable IP addresses.&lt;/strong&gt; If the URL's host has multiple IP addresses, failure to reach any individual IP address doesn't fail the overall request. This can increase availability of multi-homed services. &lt;li&gt;&lt;strong&gt;Stale pooled connections.&lt;/strong&gt; The {@link ConnectionPool} reuses sockets to decrease request latency, but these connections will occasionally time out. &lt;li&gt;&lt;strong&gt;Unreachable proxy servers.&lt;/strong&gt; A {@link ProxySelector} can be used to attempt multiple proxy servers in sequence, eventually falling back to a direct connection. &lt;/ul&gt;" />
+      <item value="Configure this client to retry or not when a connectivity problem is encountered. By default, this client silently recovers from the following problems:" />
       <item value="添加下载重试逻辑" />
       <item value="添加下载重试" />
       <item value="下载重试机制" />
@@ -47,15 +51,11 @@
       <item value="Pre-shared key for use with WPA-PSK. Either an ASCII string enclosed in double quotation marks (e.g., {@code &quot;abcdefghij&quot;} for PSK passphrase or a string of 64 hex digits for raw PSK. &lt;p/&gt; When the value of this key is read, the actual key is not returned, just a &quot;*&quot; if the key has a value, or the null string otherwise." />
       <item value="* Deserializes a byte array into the WiFiConfiguration Object" />
       <item value="/** Shared Key authentication (requires static WEP keys) * @deprecated Due to security and performance limitations, use of WEP networks * is discouraged. */" />
-      <item value="/** Open System authentication (required for WPA/WPA2) */" />
-      <item value="* Requires: android.permission.TETHER_PRIVILEGED which is only granted to system apps" />
-      <item value="Call this before {@code startTethering} if app is a system/privileged app" />
-      <item value="This sets the Wifi SSID and password" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="243" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
