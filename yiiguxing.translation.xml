@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="添加下载重试逻辑" />
+      <item value="添加下载重试" />
+      <item value="下载重试机制" />
       <item value="远程重启导致设备不停重启" />
       <item value="Remote restarts cause the device to restart repeatedly" />
       <item value="Issue" />
@@ -48,9 +51,6 @@
       <item value="* Requires: android.permission.TETHER_PRIVILEGED which is only granted to system apps" />
       <item value="Call this before {@code startTethering} if app is a system/privileged app" />
       <item value="This sets the Wifi SSID and password" />
-      <item value="reversal" />
-      <item value="This is determined by the getTetheredIfaces() method, that will return an empty array if not devices are tethered" />
-      <item value="Checks where tethering is on." />
     </histories>
     <option name="languageScores">
       <map>
