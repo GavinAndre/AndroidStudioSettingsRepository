@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="go back home" />
+      <item value="回老家" />
+      <item value="hometown" />
       <item value="simplified that all these are kind of auto exposure" />
       <item value="expo Time" />
       <item value="gain" />
@@ -48,14 +51,11 @@
       <item value="Reports whether a valid {@link #getCarrierFrequencyHz(int satIndex)} is available." />
       <item value="Reports whether the satellite at the specified index was used in the calculation of the most recent position fix." />
       <item value="snap Shot Both" />
-      <item value="hack" />
-      <item value="check if it's normal JPEG start with FFD8" />
-      <item value="grab" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="257" />
+        <entry key="ENGLISH" value="257" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
