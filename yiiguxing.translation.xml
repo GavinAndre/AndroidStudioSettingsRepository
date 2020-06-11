@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="兼容长度21与24的QRcode" />
+      <item value="Compatible with 21-bit and 24-bit QRcode" />
+      <item value="兼容21位与24位QRcode" />
+      <item value="兼容不同" />
+      <item value="对做兼容" />
+      <item value="兼容" />
       <item value="V 4 L 2_EXPOSURE AUTO" />
       <item value="V 4 L 2_EXPOSURE APERTURE PRIORITY" />
       <item value="go back home" />
@@ -45,17 +51,11 @@
       <item value="door Magnet" />
       <item value="使用高德定位的商用key" />
       <item value="使用高德定位商业key" />
-      <item value="修复关闭iot导致app重启" />
-      <item value="修复关闭iot导致app重启的问题" />
-      <item value="heat" />
-      <item value="heart" />
-      <item value="打印" />
-      <item value="Reports whether a valid {@link #getCarrierFrequencyHz(int satIndex)} is available." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="258" />
-        <entry key="ENGLISH" value="258" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="260" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
