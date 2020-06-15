@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否方便截个图或告知我从哪里可以看到，以便我进行相应搜索" />
+      <item value="是否方便截个图，以便我进行相应搜索" />
+      <item value="Is it convenient to cut a picture so that I can search accordingly" />
+      <item value="是否方便截个图" />
       <item value="代码与日志如下" />
       <item value=" the api of document " />
       <item value="no support for carrier privileges or default SMS app" />
@@ -47,15 +51,11 @@
       <item value="Returns true if the code is in [200..300), which means the request was successfully received, understood, and accepted." />
       <item value="but these connections will occasionally time out." />
       <item value="Set this to false to avoid retrying requests when doing so is destructive. In this case the calling application should do its own recovery of connectivity failures." />
-      <item value="&lt;ul&gt; &lt;li&gt;&lt;strong&gt;Unreachable IP addresses.&lt;/strong&gt; If the URL's host has multiple IP addresses, failure to reach any individual IP address doesn't fail the overall request. This can increase availability of multi-homed services. &lt;li&gt;&lt;strong&gt;Stale pooled connections.&lt;/strong&gt; The {@link ConnectionPool} reuses sockets to decrease request latency, but these connections will occasionally time out. &lt;li&gt;&lt;strong&gt;Unreachable proxy servers.&lt;/strong&gt; A {@link ProxySelector} can be used to attempt multiple proxy servers in sequence, eventually falling back to a direct connection. &lt;/ul&gt;" />
-      <item value="Configure this client to retry or not when a connectivity problem is encountered. By default, this client silently recovers from the following problems:" />
-      <item value="添加下载重试逻辑" />
-      <item value="添加下载重试" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="280" />
-        <entry key="ENGLISH" value="281" />
+        <entry key="CHINESE" value="281" />
+        <entry key="ENGLISH" value="282" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
