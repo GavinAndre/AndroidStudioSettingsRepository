@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="你方便在你的手机上测试一下吗" />
+      <item value="能否在您的手机上测试一下" />
+      <item value="我看到我自己的sim卡和物联网卡都显示未知" />
+      <item value="两个都是对的" />
+      <item value="都是对的" />
+      <item value="都" />
+      <item value="I put the pre-install IoT card into the phone, and i see my own sim card and iot sim card also show unknown phone number. " />
+      <item value="我将前装上的物联网卡放入手机" />
+      <item value="我尝试将前装上的物联网卡放入手机" />
+      <item value="我尝试将" />
       <item value="是否方便截个图或告知我从哪里可以看到，以便我进行相应搜索" />
       <item value="是否方便截个图，以便我进行相应搜索" />
       <item value="Is it convenient to cut a picture so that I can search accordingly" />
@@ -41,21 +51,11 @@
       <item value="回老家" />
       <item value="hometown" />
       <item value="simplified that all these are kind of auto exposure" />
-      <item value="expo Time" />
-      <item value="gain" />
-      <item value="6月19号或22号" />
-      <item value="19号或22号" />
-      <item value="19号到22号" />
-      <item value="date" />
-      <item value="data" />
-      <item value="Returns true if the code is in [200..300), which means the request was successfully received, understood, and accepted." />
-      <item value="but these connections will occasionally time out." />
-      <item value="Set this to false to avoid retrying requests when doing so is destructive. In this case the calling application should do its own recovery of connectivity failures." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="281" />
-        <entry key="ENGLISH" value="282" />
+        <entry key="CHINESE" value="282" />
+        <entry key="ENGLISH" value="283" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
