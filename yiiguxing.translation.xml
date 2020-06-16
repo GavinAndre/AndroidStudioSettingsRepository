@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转给ODM在后装上实现" />
+      <item value="转给后装" />
+      <item value="我已经做出了结论" />
       <item value="你方便在你的手机上测试一下吗" />
       <item value="能否在您的手机上测试一下" />
       <item value="我看到我自己的sim卡和物联网卡都显示未知" />
@@ -48,9 +51,6 @@
       <item value="兼容" />
       <item value="V 4 L 2_EXPOSURE AUTO" />
       <item value="go back home" />
-      <item value="回老家" />
-      <item value="hometown" />
-      <item value="simplified that all these are kind of auto exposure" />
     </histories>
     <option name="languageScores">
       <map>
