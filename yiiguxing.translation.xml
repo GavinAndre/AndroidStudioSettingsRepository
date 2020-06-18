@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;b&gt;SetSASTokenExpiryTime&lt;/b&gt; - this option is applicable for HTTP/ AMQP/MQTT. This option specifies the interval in seconds after which SASToken expires. If the transport is already open then setting this option will restart the transport with the updated expiry time, and will use that expiry time length for all subsequently generated sas tokens. The value is expected to be of type {@code long}." />
+      <item value="&lt;b&gt;SetCertificatePath&lt;/b&gt; - this option is applicable only when the transport configured with this client is AMQP. This option specifies the path to the certificate used to verify peer. The value is expected to be of type {@code String}." />
+      <item value="&lt;b&gt;SetReceiveInterval&lt;/b&gt; - this option is applicable to all protocols in case of HTTPS protocol, this option acts the same as {@code SetMinimumPollingInterval} in case of MQTT and AMQP protocols, this option specifies the interval in millisecods between spawning a thread that dequeues a message from the SDK's queue of received messages." />
+      <item value="The options that can be set via this API are: - &lt;b&gt;SetMinimumPollingInterval&lt;/b&gt; - this option is applicable only when the transport configured with this client is HTTP. This option specifies the interval in milliseconds between calls to the service checking for availability of new messages. The value is expected to be of type {@code long}." />
+      <item value="Set the length of time, in milliseconds, that any given operation will expire in. These operations include reconnecting upon a connection drop and sending a message. @param timeout the length in time, in milliseconds, until a given operation shall expire @throws IllegalArgumentException if the provided timeout is 0 or negative" />
+      <item value="&lt;b&gt;SetHttpsConnectTimeout&lt;/b&gt; - this option is applicable for HTTPS. This option specifies the connect timeout in milliseconds per https request made by this client. By default, this value is 0 (no connect timeout). The value is expected to be of type {@code int}." />
+      <item value="&lt;b&gt;SetHttpsReadTimeout&lt;/b&gt; - this option is applicable for HTTPS. This option specifies the read timeout in milliseconds per https request made by this client. By default, this value is 4 minutes. The value is expected to be of type {@code int}." />
+      <item value="Set Receive Interval" />
+      <item value="Sets a runtime option identified by parameter {@code optionName} to {@code value}." />
+      <item value="set Option Set SAS Token Expiry Time" />
+      <item value="@param destinationBlobName is a string with the name of the file in the storage. @param inputStream is a InputStream with the stream to upload in the blob. @param streamLength is a long with the number of bytes in the stream to upload. @param callback the callback to be invoked when a file is uploaded. @param callbackContext a context to be passed to the callback. Can be {@code null}." />
+      <item value="NOTE: IotHub does not currently support CA signed devices using file upload. Please use SAS based authentication or self signed certificates." />
+      <item value="Asynchronously upload a stream to the IoT Hub." />
       <item value="Atomically sets to the given value and returns the previous value." />
       <item value="Unconditionally sets to the given value." />
       <item value="Atomically sets the value to the given updated value if the current value {@code ==} the expected value." />
@@ -38,24 +51,11 @@
       <item value="与后端接口文档集成完了" />
       <item value="intergated with backend interface document" />
       <item value="intergated with" />
-      <item value="intergated" />
-      <item value="intergate" />
-      <item value="后台接口文档实现完毕" />
-      <item value="后台接口文档联调完毕" />
-      <item value="后台接口文档对接完毕" />
-      <item value="与devicetwin接口定义对接完毕" />
-      <item value="接口定义" />
-      <item value="与协议结成完毕" />
-      <item value="与后台集成完了" />
-      <item value="与后台集成完毕" />
-      <item value="V 4 L 2_EXPOSURE APERTURE PRIORITY" />
-      <item value="APERTURE" />
-      <item value="V 4 L 2_EXPOSURE SHUTTER PRIORITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="290" />
-        <entry key="ENGLISH" value="291" />
+        <entry key="CHINESE" value="308" />
+        <entry key="ENGLISH" value="309" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
