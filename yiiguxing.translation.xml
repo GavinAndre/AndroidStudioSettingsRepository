@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Interval" />
-      <item value="&lt;b&gt;SetReceiveInterval&lt;/b&gt; - this option is applicable to all protocols in case of HTTPS protocol, this option acts the same as {@code SetMinimumPollingInterval} in case of MQTT and AMQP protocols, this option specifies the interval in millisecods between spawning a thread that dequeues a message from the SDK's queue of received messages." />
       <item value="&lt;b&gt;SetMinimumPollingInterval&lt;/b&gt; - this option is applicable only when the transport configured with this client is HTTP. This option specifies the interval in milliseconds between calls to the service checking for availability of new messages. The value is expected to be of type {@code long}." />
+      <item value="&lt;b&gt;SetReceiveInterval&lt;/b&gt; - this option is applicable to all protocols in case of HTTPS protocol, this option acts the same as {@code SetMinimumPollingInterval} in case of MQTT and AMQP protocols, this option specifies the interval in millisecods between spawning a thread that dequeues a message from the SDK's queue of received messages." />
       <item value="&lt;b&gt;SetSendInterval&lt;/b&gt; - this option is applicable to all protocols. This value sets the period (in milliseconds) that this SDK spawns threads to send queued messages. Even if no message is queued, this thread will be spawned." />
+      <item value="Set SAS Token Expiry Time" />
+      <item value="@deprecated Use {@link #getFileUploadSasUri(FileUploadSasUriRequest)} to get the SAS URI, use the azure storage SDK to upload a file to that SAS URI, and then use {@link #completeFileUploadAsync(FileUploadCompletionNotification)} to notify Iot Hub that your file upload has completed, successfully or otherwise. This method does all three of these tasks for you, but has limited configuration options." />
+      <item value="Interval" />
       <item value="shall" />
       <item value="The function shall set the device config's operation timeout" />
       <item value="&lt;b&gt;SetCertificatePath&lt;/b&gt; - this option is applicable only when the transport configured with this client is AMQP. This option specifies the path to the certificate used to verify peer. The value is expected to be of type {@code String}." />
@@ -49,13 +51,11 @@
       <item value="转给后装" />
       <item value="我已经做出了结论" />
       <item value="你方便在你的手机上测试一下吗" />
-      <item value="能否在您的手机上测试一下" />
-      <item value="我看到我自己的sim卡和物联网卡都显示未知" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="348" />
+        <entry key="ENGLISH" value="349" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
