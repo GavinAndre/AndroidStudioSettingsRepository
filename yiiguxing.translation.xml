@@ -1,11 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="&lt;b&gt;SetSASTokenExpiryTime&lt;/b&gt; - this option is applicable for HTTP/ AMQP/MQTT. This option specifies the interval in seconds after which SASToken expires. If the transport is already open then setting this option will restart the transport with the updated expiry time, and will use that expiry time length for all subsequently generated sas tokens. The value is expected to be of type {@code long}." />
-      <item value="&lt;b&gt;SetCertificatePath&lt;/b&gt; - this option is applicable only when the transport configured with this client is AMQP. This option specifies the path to the certificate used to verify peer. The value is expected to be of type {@code String}." />
+      <item value="this option is applicable to all protocols * in case of HTTPS protocol" />
+      <item value="in case of" />
       <item value="&lt;b&gt;SetReceiveInterval&lt;/b&gt; - this option is applicable to all protocols in case of HTTPS protocol, this option acts the same as {@code SetMinimumPollingInterval} in case of MQTT and AMQP protocols, this option specifies the interval in millisecods between spawning a thread that dequeues a message from the SDK's queue of received messages." />
       <item value="The options that can be set via this API are: - &lt;b&gt;SetMinimumPollingInterval&lt;/b&gt; - this option is applicable only when the transport configured with this client is HTTP. This option specifies the interval in milliseconds between calls to the service checking for availability of new messages. The value is expected to be of type {@code long}." />
+      <item value="Set the length of time, in milliseconds, that any given operation will expire in. These operations include reconnecting upon a connection drop and sending a message." />
+      <item value="until a given operation shall expire" />
+      <item value="in milliseconds" />
+      <item value="timeout the length in time" />
+      <item value="the length in time" />
+      <item value="the length in time, in milliseconds, until a given operation shall expire" />
       <item value="Set the length of time, in milliseconds, that any given operation will expire in. These operations include reconnecting upon a connection drop and sending a message. @param timeout the length in time, in milliseconds, until a given operation shall expire @throws IllegalArgumentException if the provided timeout is 0 or negative" />
+      <item value="&lt;b&gt;SetSASTokenExpiryTime&lt;/b&gt; - this option is applicable for HTTP/ AMQP/MQTT. This option specifies the interval in seconds after which SASToken expires. If the transport is already open then setting this option will restart the transport with the updated expiry time, and will use that expiry time length for all subsequently generated sas tokens. The value is expected to be of type {@code long}." />
+      <item value="&lt;b&gt;SetCertificatePath&lt;/b&gt; - this option is applicable only when the transport configured with this client is AMQP. This option specifies the path to the certificate used to verify peer. The value is expected to be of type {@code String}." />
       <item value="&lt;b&gt;SetHttpsConnectTimeout&lt;/b&gt; - this option is applicable for HTTPS. This option specifies the connect timeout in milliseconds per https request made by this client. By default, this value is 0 (no connect timeout). The value is expected to be of type {@code int}." />
       <item value="&lt;b&gt;SetHttpsReadTimeout&lt;/b&gt; - this option is applicable for HTTPS. This option specifies the read timeout in milliseconds per https request made by this client. By default, this value is 4 minutes. The value is expected to be of type {@code int}." />
       <item value="Set Receive Interval" />
@@ -43,19 +51,11 @@
       <item value="Is it convenient to cut a picture so that I can search accordingly" />
       <item value="是否方便截个图" />
       <item value="代码与日志如下" />
-      <item value=" the api of document " />
-      <item value="no support for carrier privileges or default SMS app" />
-      <item value="@SuppressAutoDoc // Blocked by b/72967236 - no support for carrier privileges or default SMS app" />
-      <item value="与后端接口文档集成完毕" />
-      <item value="与后端接口文档已经集成完了" />
-      <item value="与后端接口文档集成完了" />
-      <item value="intergated with backend interface document" />
-      <item value="intergated with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="CHINESE" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
