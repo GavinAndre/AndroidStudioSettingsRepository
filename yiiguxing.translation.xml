@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="增加更改热点密码功能" />
+      <item value="改进摄像头恢复逻辑" />
+      <item value="加快拍照速度" />
+      <item value="防止int越界" />
       <item value="冰箱温度兼容107和108版本" />
       <item value="兼容107和108版本的冰箱温度" />
       <item value="兼容" />
@@ -47,10 +51,6 @@
       <item value="the length in time" />
       <item value="&lt;b&gt;SetSASTokenExpiryTime&lt;/b&gt; - this option is applicable for HTTP/ AMQP/MQTT. This option specifies the interval in seconds after which SASToken expires. If the transport is already open then setting this option will restart the transport with the updated expiry time, and will use that expiry time length for all subsequently generated sas tokens. The value is expected to be of type {@code long}." />
       <item value="Set Receive Interval" />
-      <item value="Sets a runtime option identified by parameter {@code optionName} to {@code value}." />
-      <item value="set Option Set SAS Token Expiry Time" />
-      <item value="@param destinationBlobName is a string with the name of the file in the storage. @param inputStream is a InputStream with the stream to upload in the blob. @param streamLength is a long with the number of bytes in the stream to upload. @param callback the callback to be invoked when a file is uploaded. @param callbackContext a context to be passed to the callback. Can be {@code null}." />
-      <item value="NOTE: IotHub does not currently support CA signed devices using file upload. Please use SAS based authentication or self signed certificates." />
     </histories>
     <option name="languageScores">
       <map>
