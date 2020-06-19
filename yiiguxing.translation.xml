@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="occlusion mitigation" />
+      <item value="Sloth occlusion mitigation" />
       <item value="Finds all objects that fulfill the query conditions." />
       <item value="Only one thread at a time can own an object's monitor." />
       <item value="For objects of type {@code Class,} by executing a synchronized static method of that class." />
@@ -49,12 +51,10 @@
       <item value="Asynchronously upload a stream to the IoT Hub." />
       <item value="Atomically sets to the given value and returns the previous value." />
       <item value="Unconditionally sets to the given value." />
-      <item value="Atomically sets the value to the given updated value if the current value {@code ==} the expected value." />
-      <item value="Peer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
+        <entry key="CHINESE" value="359" />
         <entry key="ENGLISH" value="359" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
