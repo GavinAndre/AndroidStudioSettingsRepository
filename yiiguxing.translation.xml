@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="process Image Path" />
       <item value="&lt;b&gt;SetMinimumPollingInterval&lt;/b&gt; - this option is applicable only when the transport configured with this client is HTTP. This option specifies the interval in milliseconds between calls to the service checking for availability of new messages. The value is expected to be of type {@code long}." />
       <item value="&lt;b&gt;SetReceiveInterval&lt;/b&gt; - this option is applicable to all protocols in case of HTTPS protocol, this option acts the same as {@code SetMinimumPollingInterval} in case of MQTT and AMQP protocols, this option specifies the interval in millisecods between spawning a thread that dequeues a message from the SDK's queue of received messages." />
       <item value="&lt;b&gt;SetSendInterval&lt;/b&gt; - this option is applicable to all protocols. This value sets the period (in milliseconds) that this SDK spawns threads to send queued messages. Even if no message is queued, this thread will be spawned." />
@@ -50,12 +51,11 @@
       <item value="转给ODM在后装上实现" />
       <item value="转给后装" />
       <item value="我已经做出了结论" />
-      <item value="你方便在你的手机上测试一下吗" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
