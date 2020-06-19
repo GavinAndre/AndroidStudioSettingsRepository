@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MESSAGE EXPIRED" />
       <item value="process Image Path" />
       <item value="&lt;b&gt;SetMinimumPollingInterval&lt;/b&gt; - this option is applicable only when the transport configured with this client is HTTP. This option specifies the interval in milliseconds between calls to the service checking for availability of new messages. The value is expected to be of type {@code long}." />
       <item value="&lt;b&gt;SetReceiveInterval&lt;/b&gt; - this option is applicable to all protocols in case of HTTPS protocol, this option acts the same as {@code SetMinimumPollingInterval} in case of MQTT and AMQP protocols, this option specifies the interval in millisecods between spawning a thread that dequeues a message from the SDK's queue of received messages." />
@@ -50,7 +51,6 @@
       <item value="The specified block list is invalid. Please see the cause for further information." />
       <item value="转给ODM在后装上实现" />
       <item value="转给后装" />
-      <item value="我已经做出了结论" />
     </histories>
     <option name="languageScores">
       <map>
