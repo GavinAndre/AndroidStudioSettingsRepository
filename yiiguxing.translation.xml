@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="冰箱温度兼容107和108版本" />
+      <item value="兼容107和108版本的冰箱温度" />
+      <item value="兼容" />
       <item value="occlusion mitigation" />
       <item value="Sloth occlusion mitigation" />
       <item value="Finds all objects that fulfill the query conditions." />
@@ -48,14 +51,11 @@
       <item value="set Option Set SAS Token Expiry Time" />
       <item value="@param destinationBlobName is a string with the name of the file in the storage. @param inputStream is a InputStream with the stream to upload in the blob. @param streamLength is a long with the number of bytes in the stream to upload. @param callback the callback to be invoked when a file is uploaded. @param callbackContext a context to be passed to the callback. Can be {@code null}." />
       <item value="NOTE: IotHub does not currently support CA signed devices using file upload. Please use SAS based authentication or self signed certificates." />
-      <item value="Asynchronously upload a stream to the IoT Hub." />
-      <item value="Atomically sets to the given value and returns the previous value." />
-      <item value="Unconditionally sets to the given value." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
