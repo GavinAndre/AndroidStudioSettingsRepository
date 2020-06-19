@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Only one thread at a time can own an object's monitor." />
+      <item value="For objects of type {@code Class,} by executing a synchronized static method of that class." />
+      <item value="By executing the body of a {@code synchronized} statement that synchronizes on the object." />
+      <item value="By executing the body of a {@code synchronized} statement that synchronizes on the object. For objects of type {@code Class,} by executing a" />
+      <item value="By executing a synchronized instance method of that object." />
+      <item value="This method should only be called by a thread that is the owner of this object's monitor. A thread becomes the owner of the object's monitor in one of three ways:" />
+      <item value="The awakened thread will not be able to proceed until the current thread relinquishes the lock on this object. The awakened thread will compete in the usual manner with any other threads that might be actively competing to synchronize on this object; for example, the awakened thread enjoys no reliable privilege or disadvantage in being the next thread to lock this object." />
+      <item value="Wakes up a single thread that is waiting on this object's monitor. If any threads are waiting on this object, one of them is chosen to be awakened. The choice is arbitrary and occurs at the discretion of the implementation. A thread waits on an object's monitor by calling one of the {@code wait} methods." />
       <item value="MESSAGE EXPIRED" />
       <item value="process Image Path" />
       <item value="&lt;b&gt;SetMinimumPollingInterval&lt;/b&gt; - this option is applicable only when the transport configured with this client is HTTP. This option specifies the interval in milliseconds between calls to the service checking for availability of new messages. The value is expected to be of type {@code long}." />
@@ -43,19 +51,11 @@
       <item value="Atomically sets the value to the given updated value if the current value {@code ==} the expected value." />
       <item value="Peer" />
       <item value="insight" />
-      <item value="send Iot Replace Info" />
-      <item value="标志位" />
-      <item value="brightness" />
-      <item value="lightness" />
-      <item value="reset logic when cam fail" />
-      <item value="The specified block list is invalid. Please see the cause for further information." />
-      <item value="转给ODM在后装上实现" />
-      <item value="转给后装" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="357" />
+        <entry key="ENGLISH" value="358" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
