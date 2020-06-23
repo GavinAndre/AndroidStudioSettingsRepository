@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="增加维修工单" />
+      <item value="忽略一些重复注册的情况" />
       <item value="增加更改热点密码功能" />
       <item value="改进摄像头恢复逻辑" />
       <item value="加快拍照速度" />
@@ -49,8 +51,6 @@
       <item value="in milliseconds" />
       <item value="timeout the length in time" />
       <item value="the length in time" />
-      <item value="&lt;b&gt;SetSASTokenExpiryTime&lt;/b&gt; - this option is applicable for HTTP/ AMQP/MQTT. This option specifies the interval in seconds after which SASToken expires. If the transport is already open then setting this option will restart the transport with the updated expiry time, and will use that expiry time length for all subsequently generated sas tokens. The value is expected to be of type {@code long}." />
-      <item value="Set Receive Interval" />
     </histories>
     <option name="languageScores">
       <map>
