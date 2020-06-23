@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on site" />
+      <item value="onsite" />
+      <item value="一站式维修" />
+      <item value="一站维修" />
+      <item value="一键" />
       <item value="增加维修工单" />
       <item value="忽略一些重复注册的情况" />
       <item value="增加更改热点密码功能" />
@@ -46,16 +51,11 @@
       <item value="Setter for the expiryTime property using absolute time @param absoluteTimeout The time out for the message, in milliseconds." />
       <item value="this option is applicable to all protocols * in case of HTTPS protocol" />
       <item value="in case of" />
-      <item value="The options that can be set via this API are: - &lt;b&gt;SetMinimumPollingInterval&lt;/b&gt; - this option is applicable only when the transport configured with this client is HTTP. This option specifies the interval in milliseconds between calls to the service checking for availability of new messages. The value is expected to be of type {@code long}." />
-      <item value="until a given operation shall expire" />
-      <item value="in milliseconds" />
-      <item value="timeout the length in time" />
-      <item value="the length in time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="361" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
