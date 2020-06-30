@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the previous value associated with {@code key}, or {@code null} if there was no mapping for {@code key}" />
+      <item value="value to be associated with the specified key" />
+      <item value="key with which the specified value is to be associated" />
+      <item value="&lt;p&gt;The value can be retrieved by calling the {@code get} method with a key that is equal to the original key." />
+      <item value="Maps the specified key to the specified value in this table. Neither the key nor the value can be null." />
       <item value="反序列化" />
       <item value="on site" />
       <item value="onsite" />
@@ -46,16 +51,11 @@
       <item value="if the provided timeout is 0 or negative" />
       <item value="the length in time, in milliseconds, until a given operation shall expire" />
       <item value="Set the length of time, in milliseconds, that any given operation will expire in. These operations include reconnecting upon a connection drop and sending a message." />
-      <item value="Set the length of time, in milliseconds, that any given operation will expire in. These operations include reconnecting upon a connection drop and sending a message. @param timeout the length in time, in milliseconds, until a given operation shall expire @throws IllegalArgumentException if the provided timeout is 0 or negative" />
-      <item value="// Codes_SRS_INTERNALCLIENT_34_070: [The function shall set the device config's operation timeout .]" />
-      <item value="Setter for the expiryTime property. This setter uses relative time, not absolute time. @param timeOut The time out for the message, in milliseconds, from the current time." />
-      <item value="Setter for the expiryTime property using absolute time @param absoluteTimeout The time out for the message, in milliseconds." />
-      <item value="this option is applicable to all protocols * in case of HTTPS protocol" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="362" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="367" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
