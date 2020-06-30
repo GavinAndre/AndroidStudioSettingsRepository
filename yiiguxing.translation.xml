@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@throws IllegalStateException if the client has not been opened yet or is already closed." />
+      <item value="if the message provided is {@code null}." />
+      <item value="* Asynchronously sends an event message to the IoT Hub." />
       <item value="context is the 3rd param of sendEventAsync()" />
       <item value="the previous value associated with {@code key}, or {@code null} if there was no mapping for {@code key}" />
       <item value="value to be associated with the specified key" />
@@ -48,14 +51,11 @@
       <item value="&lt;b&gt;SetHttpsConnectTimeout&lt;/b&gt; - this option is applicable for HTTPS. This option specifies the connect timeout in milliseconds per https request made by this client. By default, this value is 0 (no connect timeout). The value is expected to be of type {@code int}." />
       <item value="&lt;b&gt;SetHttpsConnectTimeout&lt;/b&gt; - this option is applicable for HTTPS. This option specifies the connect timeout in milliseconds per https reques made by this client. By default, this value is 0 (no connect timeout). The value is expected to be of type {@code int}." />
       <item value="reconnecting upon a connection drop and sending a message" />
-      <item value="milliseconds" />
-      <item value="if the provided timeout is 0 or negative" />
-      <item value="the length in time, in milliseconds, until a given operation shall expire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="367" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
