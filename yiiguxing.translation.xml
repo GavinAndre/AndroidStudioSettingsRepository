@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="隐藏" />
       <item value="Inserts or updates a RealmObject. This is generally faster than {@link #copyOrUpdate(Realm, RealmModel, boolean, Map, Set)} since it doesn't return the inserted elements, and performs minimum allocations and checks. After being inserted any changes to the original object will not be persisted." />
       <item value="Inserts or updates an unmanaged RealmObject. This is generally faster than {@link #copyToRealmOrUpdate(RealmModel, ImportFlag...)} since it doesn't return the inserted elements, and performs minimum allocations and checks. After being inserted any changes to the original object will not be persisted. &lt;p&gt; Please note: &lt;ul&gt; &lt;li&gt; We don't check if the provided objects are already managed or not, so inserting a managed object might duplicate it. Duplication will only happen if the object doesn't have a primary key. Objects with primary keys will never get duplicated. &lt;/li&gt; &lt;li&gt;We don't create (nor return) a managed {@link RealmObject} for each element&lt;/li&gt; &lt;li&gt;Copying an object will copy all field values. Any unset field in the object and child objects will be set to their default value if not provided&lt;/li&gt; &lt;/ul&gt; &lt;p&gt; If you want the managed {@link RealmObject} returned, use {@link #copyToRealm(RealmModel, ImportFlag...)}, otherwise if you have a large number of object this method is generally faster. @param object RealmObjects to insert. @throws IllegalStateException if the corresponding Realm is closed, called from an incorrect thread or not in a transaction. @see #copyToRealmOrUpdate(RealmModel, ImportFlag...)" />
       <item value="* After being inserted any changes to the original object will not be persisted." />
@@ -50,12 +51,11 @@
       <item value="By executing the body of a {@code synchronized} statement that synchronizes on the object. For objects of type {@code Class,} by executing a" />
       <item value="By executing a synchronized instance method of that object." />
       <item value="This method should only be called by a thread that is the owner of this object's monitor. A thread becomes the owner of the object's monitor in one of three ways:" />
-      <item value="The awakened thread will not be able to proceed until the current thread relinquishes the lock on this object. The awakened thread will compete in the usual manner with any other threads that might be actively competing to synchronize on this object; for example, the awakened thread enjoys no reliable privilege or disadvantage in being the next thread to lock this object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
