@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="恢复固件丢失的摄像头" />
       <item value="关门标志位增加延迟逻辑" />
       <item value="优化关门标志位的准确性" />
       <item value="firmware" />
@@ -50,7 +51,6 @@
       <item value="Finds all objects that fulfill the query conditions." />
       <item value="Only one thread at a time can own an object's monitor." />
       <item value="For objects of type {@code Class,} by executing a synchronized static method of that class." />
-      <item value="By executing the body of a {@code synchronized} statement that synchronizes on the object." />
     </histories>
     <option name="languageScores">
       <map>
