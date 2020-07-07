@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cervical surgical operation" />
+      <item value="Issues we don’t discuss in the release plan email would not be released except you send your urgent release email with your manager’s approval." />
       <item value="调用函数" />
       <item value="调用" />
       <item value="跳转" />
@@ -49,12 +51,10 @@
       <item value="加快拍照速度" />
       <item value="防止int越界" />
       <item value="冰箱温度兼容107和108版本" />
-      <item value="兼容107和108版本的冰箱温度" />
-      <item value="兼容" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="394" />
+        <entry key="CHINESE" value="395" />
         <entry key="ENGLISH" value="395" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
