@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="优化代码" />
       <item value="override" />
       <item value="cervical surgical operation" />
       <item value="Issues we don’t discuss in the release plan email would not be released except you send your urgent release email with your manager’s approval." />
@@ -50,12 +51,11 @@
       <item value="增加更改热点密码功能" />
       <item value="改进摄像头恢复逻辑" />
       <item value="加快拍照速度" />
-      <item value="防止int越界" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
