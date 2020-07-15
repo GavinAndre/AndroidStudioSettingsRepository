@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="数据类型" />
       <item value="打印错误日志" />
       <item value="对象" />
       <item value="将函数提取到父类" />
@@ -50,7 +51,6 @@
       <item value="the previous value associated with {@code key}, or {@code null} if there was no mapping for {@code key}" />
       <item value="value to be associated with the specified key" />
       <item value="key with which the specified value is to be associated" />
-      <item value="&lt;p&gt;The value can be retrieved by calling the {@code get} method with a key that is equal to the original key." />
     </histories>
     <option name="languageScores">
       <map>
