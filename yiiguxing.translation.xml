@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The {@link NetworkCallback} to be utilized for this request. Note the callback must not be shared - it uniquely specifies this request. The callback is invoked on the default internal Handler." />
       <item value="bvcclear New Hub Code" />
       <item value="connection" />
       <item value="disconnect" />
@@ -50,12 +51,11 @@
       <item value="@throws IllegalStateException if the client has not been opened yet or is already closed." />
       <item value="if the message provided is {@code null}." />
       <item value="* Asynchronously sends an event message to the IoT Hub." />
-      <item value="context is the 3rd param of sendEventAsync()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="CHINESE" value="406" />
+        <entry key="ENGLISH" value="407" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
