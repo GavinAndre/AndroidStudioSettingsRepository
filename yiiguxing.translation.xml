@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;This method requires the caller to hold either the {@link android.Manifest.permission#CHANGE_NETWORK_STATE} permission or the ability to modify system settings as determined by {@link android.provider.Settings.System#canWrite}.&lt;/p&gt;" />
+      <item value="&lt;p&gt;It is presently unsupported to request a network with mutable {@link NetworkCapabilities} such as {@link NetworkCapabilities#NET_CAPABILITY_VALIDATED} or {@link NetworkCapabilities#NET_CAPABILITY_CAPTIVE_PORTAL} as these {@code NetworkCapabilities} represent states that a particular network may never attain, and whether a network will attain these states is unknown prior to bringing up the network so the framework does not know how to go about satisfing a request with these capabilities." />
+      <item value="This {@link NetworkRequest} will live until released via * {@link #unregisterNetworkCallback(NetworkCallback)} or the calling application exits. A * version of the method which takes a timeout is * {@link #requestNetwork(NetworkRequest, NetworkCallback, int)}. * Status of the request can be followed by listening to the various * callbacks described in {@link NetworkCallback}. The {@link Network} * can be used to direct traffic to the network." />
+      <item value="Request a network to satisfy a set of {@link android.net.NetworkCapabilities}." />
+      <item value="NET CAPABILITY VALIDATED" />
+      <item value="Indicates that connectivity on this network was successfully validated. For example, for a network with NET_CAPABILITY_INTERNET, it means that Internet connectivity was successfully detected." />
+      <item value="VALIDATED" />
+      <item value="Indicates that this network is available for general use. If this is not set applications should not attempt to communicate on this network. Note that this is simply informative and not enforcement - enforcement is handled via other means. Set by default." />
+      <item value="Indicates that this network should be able to reach the internet." />
+      <item value="Indicates that this network was found to have a captive portal in place last time it was probed." />
+      <item value="Indicates that this network is not roaming." />
+      <item value="Indicates that this network is not congested." />
+      <item value="Indicates that this network is unmetered" />
       <item value="Callers should instead use the {@link ConnectivityManager.NetworkCallback} API to learn about connectivity changes, or switch to use {@link ConnectivityManager#getNetworkCapabilities} or {@link ConnectivityManager#getLinkProperties} to get information synchronously. Keep in mind that while callbacks are guaranteed to be called for every event in order, synchronous calls have no such constraints, and as such it is unadvisable to use the synchronous methods inside the callbacks as they will often not offer a view of networking that is consistent (that is: they may return a past or a future state with respect to the event being processed by the callback). Instead, callers are advised to only use the arguments of the callbacks, possibly memorizing the specific bits of information they need to keep from one callback to another." />
       <item value="The {@link NetworkCallback} to be utilized for this request. Note the callback must not be shared - it uniquely specifies this request. The callback is invoked on the default internal Handler." />
       <item value="bvcclear New Hub Code" />
@@ -38,24 +51,11 @@
       <item value="* After being inserted any changes to the original object will not be persisted." />
       <item value="execute Transaction Sync" />
       <item value="Unconditionally" />
-      <item value="MAX UPLOAD PARALLEL" />
-      <item value="peer" />
-      <item value="Sas URI response message had no payload" />
-      <item value="payload" />
-      <item value="&lt;b&gt;SetSASTokenExpiryTime&lt;/b&gt; - this option is applicable for HTTP/ AMQP/MQTT. This option specifies the interval in seconds after which SASToken expires. If the transport is already open then setting this option will restart the transport with the updated expiry time, and will use that expiry time length for all subsequently generated sas tokens. The value is expected to be of type {@code long}." />
-      <item value="2400" />
-      <item value="checking if another retry attempt should be made" />
-      <item value="Completes all current outstanding requests and closes the IoT Hub client. Must be called to terminate the background thread that is sending data to IoT Hub. After {@code closeNow()} is called, the IoT Hub client is no longer usable. If the client is already closed, the function shall do nothing. @deprecated : As of release 1.1.25 this call is replaced by {@link #closeNow()}" />
-      <item value="Must be called to terminate the background thread that is sending data to IoT Hub. After {@code closeNow()} is called, the IoT Hub client is no longer usable. If the client is already closed, the function shall do nothing." />
-      <item value="Closes the IoT Hub client by releasing any resources held by client. When closeNow is called all the messages that were in transit or pending to be sent will be informed to the user in the callbacks and any existing connection to IotHub will be closed." />
-      <item value="Set SAS Token Expiry Time" />
-      <item value="@throws IllegalStateException if the client has not been opened yet or is already closed." />
-      <item value="if the message provided is {@code null}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="423" />
+        <entry key="ENGLISH" value="424" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
