@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="login describe" />
       <item value="logout" />
       <item value="onsite" />
       <item value="多语言" />
@@ -50,12 +51,11 @@
       <item value="将函数提取到父类" />
       <item value="封装" />
       <item value="提取" />
-      <item value="Via" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="452" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="454" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
