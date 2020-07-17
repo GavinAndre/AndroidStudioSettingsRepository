@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Select the proper component from below list, click OK to next page" />
+      <item value="Click OK to finish install or replace component or retest." />
+      <item value="assemble test describe" />
       <item value="Select Fridge Asset ID, Hub ID and Cam ID by following the proper sequence. Click camera button to scan code and long click to clear code. Click OK to next page." />
       <item value="please select the proper door type" />
       <item value="Select the proper door type from below list(Single Option), click OK to next page." />
@@ -48,14 +51,11 @@
       <item value="Indicates that this network is available for use by apps, and not a network that is being kept up in the background to facilitate fast network switching." />
       <item value="Indicates that this network is not roaming." />
       <item value="Indicates that this network was found to have a captive portal in place last time it was probed." />
-      <item value="&lt;p&gt;This method requires the caller to hold either the {@link android.Manifest.permission#CHANGE_NETWORK_STATE} permission or the ability to modify system settings as determined by {@link android.provider.Settings.System#canWrite}.&lt;/p&gt;" />
-      <item value="&lt;p&gt;It is presently unsupported to request a network with mutable {@link NetworkCapabilities} such as {@link NetworkCapabilities#NET_CAPABILITY_VALIDATED} or {@link NetworkCapabilities#NET_CAPABILITY_CAPTIVE_PORTAL} as these {@code NetworkCapabilities} represent states that a particular network may never attain, and whether a network will attain these states is unknown prior to bringing up the network so the framework does not know how to go about satisfing a request with these capabilities." />
-      <item value="This {@link NetworkRequest} will live until released via * {@link #unregisterNetworkCallback(NetworkCallback)} or the calling application exits. A * version of the method which takes a timeout is * {@link #requestNetwork(NetworkRequest, NetworkCallback, int)}. * Status of the request can be followed by listening to the various * callbacks described in {@link NetworkCallback}. The {@link Network} * can be used to direct traffic to the network." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="472" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="475" />
+        <entry key="ENGLISH" value="475" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
