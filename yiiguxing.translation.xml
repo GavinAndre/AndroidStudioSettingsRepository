@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TRUSTED can change when user explicitly connects to an untrusted network in Settings." />
+      <item value="Indicates that this network is not a VPN. This capability is set by default and should be explicitly cleared for VPN networks." />
+      <item value="Indicates that the user has indicated implicit trust of this network. This generally means it's a sim-selected carrier, a plugged in ethernet, a paired BT device or a wifi the user asked to connect to. Untrusted networks are probably limited to unknown wifi AP. Set by default." />
+      <item value="Indicates that this network is available for general use. If this is not set applications should not attempt to communicate on this network. Note that this is simply informative and not enforcement - enforcement is handled via other means. Set by default." />
+      <item value="Indicates that this network should be able to reach the internet." />
+      <item value="Indicates that this network is unmetered." />
+      <item value="Indicates this is a network that has the ability to reach a carrier's Emergency IMS servers or other services, used for network signaling during emergency calls." />
+      <item value="Indicates this is a network that has the ability to reach a carrier's XCAP servers, used for configuration and control." />
+      <item value="Indicates this is a network that has the ability to reach a carrier's RCS servers, used for Rich Communication Services." />
+      <item value="Indicates this is a network that has the ability to reach a carrier's Initial Attach servers." />
+      <item value="Indicates this is a network that has the ability to reach a Wi-Fi direct peer." />
+      <item value="Indicates this is a network that has the ability to reach the carrier's CBS servers, used for carrier specific services." />
+      <item value="Indicates this is a network that has the ability to reach the carrier's IMS servers, used for network registration and signaling." />
+      <item value="Indicates this is a network that has the ability to reach the carrier's FOTA portal, used for over the air updates." />
+      <item value="Indicates this is a network that has the ability to reach the carrier's DUN or tethering gateway." />
+      <item value="Indicates this is a network that has the ability to reach the carrier's SUPL server, used to retrieve GPS information." />
+      <item value="Indicates this is a network that has the ability to reach the carrier's MMSC for sending and receiving MMS messages." />
+      <item value="Indicates that this network was tested to only provide partial connectivity." />
+      <item value="Indicates that traffic that goes through this network is paid by oem. For example, this network can be used by system apps to upload telemetry data." />
+      <item value="Indicates that this network is not congested. &lt;p&gt; When a network is congested, applications should defer network traffic that can be done at a later time, such as uploading analytics." />
+      <item value="Indicates that this network is available for use by apps, and not a network that is being kept up in the background to facilitate fast network switching." />
+      <item value="Indicates that this network is not roaming." />
+      <item value="Indicates that this network was found to have a captive portal in place last time it was probed." />
       <item value="&lt;p&gt;This method requires the caller to hold either the {@link android.Manifest.permission#CHANGE_NETWORK_STATE} permission or the ability to modify system settings as determined by {@link android.provider.Settings.System#canWrite}.&lt;/p&gt;" />
       <item value="&lt;p&gt;It is presently unsupported to request a network with mutable {@link NetworkCapabilities} such as {@link NetworkCapabilities#NET_CAPABILITY_VALIDATED} or {@link NetworkCapabilities#NET_CAPABILITY_CAPTIVE_PORTAL} as these {@code NetworkCapabilities} represent states that a particular network may never attain, and whether a network will attain these states is unknown prior to bringing up the network so the framework does not know how to go about satisfing a request with these capabilities." />
       <item value="This {@link NetworkRequest} will live until released via * {@link #unregisterNetworkCallback(NetworkCallback)} or the calling application exits. A * version of the method which takes a timeout is * {@link #requestNetwork(NetworkRequest, NetworkCallback, int)}. * Status of the request can be followed by listening to the various * callbacks described in {@link NetworkCallback}. The {@link Network} * can be used to direct traffic to the network." />
@@ -8,10 +31,6 @@
       <item value="NET CAPABILITY VALIDATED" />
       <item value="Indicates that connectivity on this network was successfully validated. For example, for a network with NET_CAPABILITY_INTERNET, it means that Internet connectivity was successfully detected." />
       <item value="VALIDATED" />
-      <item value="Indicates that this network is available for general use. If this is not set applications should not attempt to communicate on this network. Note that this is simply informative and not enforcement - enforcement is handled via other means. Set by default." />
-      <item value="Indicates that this network should be able to reach the internet." />
-      <item value="Indicates that this network was found to have a captive portal in place last time it was probed." />
-      <item value="Indicates that this network is not roaming." />
       <item value="Indicates that this network is not congested." />
       <item value="Indicates that this network is unmetered" />
       <item value="Callers should instead use the {@link ConnectivityManager.NetworkCallback} API to learn about connectivity changes, or switch to use {@link ConnectivityManager#getNetworkCapabilities} or {@link ConnectivityManager#getLinkProperties} to get information synchronously. Keep in mind that while callbacks are guaranteed to be called for every event in order, synchronous calls have no such constraints, and as such it is unadvisable to use the synchronous methods inside the callbacks as they will often not offer a view of networking that is consistent (that is: they may return a past or a future state with respect to the event being processed by the callback). Instead, callers are advised to only use the arguments of the callbacks, possibly memorizing the specific bits of information they need to keep from one callback to another." />
@@ -32,30 +51,11 @@
       <item value="radio" />
       <item value="方向" />
       <item value="TODO(&quot;Return the communication channel to the service.&quot;)" />
-      <item value="优化代码" />
-      <item value="override" />
-      <item value="cervical surgical operation" />
-      <item value="Issues we don’t discuss in the release plan email would not be released except you send your urgent release email with your manager’s approval." />
-      <item value="调用函数" />
-      <item value="调用" />
-      <item value="跳转" />
-      <item value="字段" />
-      <item value="监听" />
-      <item value="恢复固件丢失的摄像头" />
-      <item value="关门标志位增加延迟逻辑" />
-      <item value="优化关门标志位的准确性" />
-      <item value="firmware" />
-      <item value="隐藏" />
-      <item value="Inserts or updates a RealmObject. This is generally faster than {@link #copyOrUpdate(Realm, RealmModel, boolean, Map, Set)} since it doesn't return the inserted elements, and performs minimum allocations and checks. After being inserted any changes to the original object will not be persisted." />
-      <item value="Inserts or updates an unmanaged RealmObject. This is generally faster than {@link #copyToRealmOrUpdate(RealmModel, ImportFlag...)} since it doesn't return the inserted elements, and performs minimum allocations and checks. After being inserted any changes to the original object will not be persisted. &lt;p&gt; Please note: &lt;ul&gt; &lt;li&gt; We don't check if the provided objects are already managed or not, so inserting a managed object might duplicate it. Duplication will only happen if the object doesn't have a primary key. Objects with primary keys will never get duplicated. &lt;/li&gt; &lt;li&gt;We don't create (nor return) a managed {@link RealmObject} for each element&lt;/li&gt; &lt;li&gt;Copying an object will copy all field values. Any unset field in the object and child objects will be set to their default value if not provided&lt;/li&gt; &lt;/ul&gt; &lt;p&gt; If you want the managed {@link RealmObject} returned, use {@link #copyToRealm(RealmModel, ImportFlag...)}, otherwise if you have a large number of object this method is generally faster. @param object RealmObjects to insert. @throws IllegalStateException if the corresponding Realm is closed, called from an incorrect thread or not in a transaction. @see #copyToRealmOrUpdate(RealmModel, ImportFlag...)" />
-      <item value="* After being inserted any changes to the original object will not be persisted." />
-      <item value="execute Transaction Sync" />
-      <item value="Unconditionally" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="448" />
+        <entry key="ENGLISH" value="449" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
