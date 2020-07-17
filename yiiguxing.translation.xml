@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="please select the proper door type" />
+      <item value="Select the proper door type from below list(Single Option), click OK to next page." />
+      <item value="Select the proper door type from below list(Single Option), click OK to next page" />
       <item value="仍旧" />
       <item value="already" />
       <item value="不断重连" />
@@ -48,14 +51,11 @@
       <item value="&lt;p&gt;It is presently unsupported to request a network with mutable {@link NetworkCapabilities} such as {@link NetworkCapabilities#NET_CAPABILITY_VALIDATED} or {@link NetworkCapabilities#NET_CAPABILITY_CAPTIVE_PORTAL} as these {@code NetworkCapabilities} represent states that a particular network may never attain, and whether a network will attain these states is unknown prior to bringing up the network so the framework does not know how to go about satisfing a request with these capabilities." />
       <item value="This {@link NetworkRequest} will live until released via * {@link #unregisterNetworkCallback(NetworkCallback)} or the calling application exits. A * version of the method which takes a timeout is * {@link #requestNetwork(NetworkRequest, NetworkCallback, int)}. * Status of the request can be followed by listening to the various * callbacks described in {@link NetworkCallback}. The {@link Network} * can be used to direct traffic to the network." />
       <item value="Request a network to satisfy a set of {@link android.net.NetworkCapabilities}." />
-      <item value="NET CAPABILITY VALIDATED" />
-      <item value="Indicates that connectivity on this network was successfully validated. For example, for a network with NET_CAPABILITY_INTERNET, it means that Internet connectivity was successfully detected." />
-      <item value="VALIDATED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="467" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
