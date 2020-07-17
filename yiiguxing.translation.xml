@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="District" />
+      <item value="phone" />
+      <item value="retailer" />
+      <item value="address" />
+      <item value="district" />
+      <item value="city" />
+      <item value="province" />
       <item value="store" />
       <item value="wait for ICCID init" />
       <item value="valid" />
@@ -44,18 +51,11 @@
       <item value="Indicates that this network is not congested." />
       <item value="Indicates that this network is unmetered" />
       <item value="Callers should instead use the {@link ConnectivityManager.NetworkCallback} API to learn about connectivity changes, or switch to use {@link ConnectivityManager#getNetworkCapabilities} or {@link ConnectivityManager#getLinkProperties} to get information synchronously. Keep in mind that while callbacks are guaranteed to be called for every event in order, synchronous calls have no such constraints, and as such it is unadvisable to use the synchronous methods inside the callbacks as they will often not offer a view of networking that is consistent (that is: they may return a past or a future state with respect to the event being processed by the callback). Instead, callers are advised to only use the arguments of the callbacks, possibly memorizing the specific bits of information they need to keep from one callback to another." />
-      <item value="The {@link NetworkCallback} to be utilized for this request. Note the callback must not be shared - it uniquely specifies this request. The callback is invoked on the default internal Handler." />
-      <item value="bvcclear New Hub Code" />
-      <item value="connection" />
-      <item value="disconnect" />
-      <item value="数据类型" />
-      <item value="打印错误日志" />
-      <item value="对象" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="457" />
-        <entry key="ENGLISH" value="458" />
+        <entry key="CHINESE" value="464" />
+        <entry key="ENGLISH" value="465" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
