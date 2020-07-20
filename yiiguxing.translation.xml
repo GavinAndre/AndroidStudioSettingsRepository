@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This method is called when the BroadcastReceiver is receiving an Intent broadcast. During this time you can use the other methods on BroadcastReceiver to view/modify the current result values. This method is always called within the main thread of its process, unless you explicitly asked for it to be scheduled on a different thread using {@link android.content.Context#registerReceiver(BroadcastReceiver, IntentFilter, String, android.os.Handler)}. When it runs on the main thread you should never perform long-running operations in it (there is a timeout of 10 seconds that the system allows before considering the receiver to be blocked and a candidate to be killed). You cannot launch a popup dialog in your implementation of onReceive()." />
+      <item value="&lt;p&gt;&lt;b&gt;If this BroadcastReceiver was launched through a &amp;lt;receiver&amp;gt; tag, then the object is no longer alive after returning from this function.&lt;/b&gt; This means you should not perform any operations that return a result to you asynchronously. If you need to perform any follow up background work, schedule a {@link android.app.job.JobService} with {@link android.app.job.JobScheduler}." />
+      <item value="If you wish to interact with a service that is already running and previously bound using {@link android.content.Context#bindService(Intent, ServiceConnection, int) bindService()}, you can use {@link #peekService}." />
+      <item value="&lt;p&gt;The Intent filters used in {@link android.content.Context#registerReceiver} and in application manifests are &lt;em&gt;not&lt;/em&gt; guaranteed to be exclusive. They are hints to the operating system about how to find suitable recipients. It is possible for senders to force delivery to specific recipients, bypassing filter resolution. For this reason, {@link #onReceive(Context, Intent) onReceive()} implementations should respond only to known actions, ignoring any unexpected Intents that they may receive." />
+      <item value="28" />
       <item value="将上传心跳移动到拍照失败后" />
       <item value="防止同时多个线程升级摄像头固件" />
       <item value="防止" />
@@ -46,16 +51,11 @@
       <item value="Indicates this is a network that has the ability to reach a carrier's RCS servers, used for Rich Communication Services." />
       <item value="Indicates this is a network that has the ability to reach a carrier's Initial Attach servers." />
       <item value="Indicates this is a network that has the ability to reach a Wi-Fi direct peer." />
-      <item value="Indicates this is a network that has the ability to reach the carrier's CBS servers, used for carrier specific services." />
-      <item value="Indicates this is a network that has the ability to reach the carrier's IMS servers, used for network registration and signaling." />
-      <item value="Indicates this is a network that has the ability to reach the carrier's FOTA portal, used for over the air updates." />
-      <item value="Indicates this is a network that has the ability to reach the carrier's DUN or tethering gateway." />
-      <item value="Indicates this is a network that has the ability to reach the carrier's SUPL server, used to retrieve GPS information." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="475" />
-        <entry key="ENGLISH" value="476" />
+        <entry key="CHINESE" value="479" />
+        <entry key="ENGLISH" value="480" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
