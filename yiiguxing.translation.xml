@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="将上传心跳移动到拍照失败后" />
+      <item value="防止同时多个线程升级摄像头固件" />
+      <item value="防止" />
       <item value="上电后延迟30分钟校准陀螺仪功能" />
       <item value="关键字" />
       <item value="修正标志位不准确" />
@@ -48,9 +51,6 @@
       <item value="Indicates this is a network that has the ability to reach the carrier's FOTA portal, used for over the air updates." />
       <item value="Indicates this is a network that has the ability to reach the carrier's DUN or tethering gateway." />
       <item value="Indicates this is a network that has the ability to reach the carrier's SUPL server, used to retrieve GPS information." />
-      <item value="Indicates this is a network that has the ability to reach the carrier's MMSC for sending and receiving MMS messages." />
-      <item value="Indicates that this network was tested to only provide partial connectivity." />
-      <item value="Indicates that traffic that goes through this network is paid by oem. For example, this network can be used by system apps to upload telemetry data." />
     </histories>
     <option name="languageScores">
       <map>
