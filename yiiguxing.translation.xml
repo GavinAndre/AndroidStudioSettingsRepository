@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="今天第一次接通电源" />
       <item value="This method is called when the BroadcastReceiver is receiving an Intent broadcast. During this time you can use the other methods on BroadcastReceiver to view/modify the current result values. This method is always called within the main thread of its process, unless you explicitly asked for it to be scheduled on a different thread using {@link android.content.Context#registerReceiver(BroadcastReceiver, IntentFilter, String, android.os.Handler)}. When it runs on the main thread you should never perform long-running operations in it (there is a timeout of 10 seconds that the system allows before considering the receiver to be blocked and a candidate to be killed). You cannot launch a popup dialog in your implementation of onReceive()." />
       <item value="&lt;p&gt;&lt;b&gt;If this BroadcastReceiver was launched through a &amp;lt;receiver&amp;gt; tag, then the object is no longer alive after returning from this function.&lt;/b&gt; This means you should not perform any operations that return a result to you asynchronously. If you need to perform any follow up background work, schedule a {@link android.app.job.JobService} with {@link android.app.job.JobScheduler}." />
       <item value="If you wish to interact with a service that is already running and previously bound using {@link android.content.Context#bindService(Intent, ServiceConnection, int) bindService()}, you can use {@link #peekService}." />
@@ -50,12 +51,11 @@
       <item value="Indicates this is a network that has the ability to reach a carrier's XCAP servers, used for configuration and control." />
       <item value="Indicates this is a network that has the ability to reach a carrier's RCS servers, used for Rich Communication Services." />
       <item value="Indicates this is a network that has the ability to reach a carrier's Initial Attach servers." />
-      <item value="Indicates this is a network that has the ability to reach a Wi-Fi direct peer." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
