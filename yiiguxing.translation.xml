@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上电后延迟30分钟校准陀螺仪功能" />
       <item value="关键字" />
       <item value="修正标志位不准确" />
       <item value="标志位" />
@@ -50,7 +51,6 @@
       <item value="Indicates this is a network that has the ability to reach the carrier's MMSC for sending and receiving MMS messages." />
       <item value="Indicates that this network was tested to only provide partial connectivity." />
       <item value="Indicates that traffic that goes through this network is paid by oem. For example, this network can be used by system apps to upload telemetry data." />
-      <item value="Indicates that this network is not congested. &lt;p&gt; When a network is congested, applications should defer network traffic that can be done at a later time, such as uploading analytics." />
     </histories>
     <option name="languageScores">
       <map>
