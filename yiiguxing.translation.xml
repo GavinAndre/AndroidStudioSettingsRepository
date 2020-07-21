@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="上传无响应" />
+      <item value="防止" />
+      <item value="add reboot logic when first power on everyday" />
+      <item value="5秒内有网络抖动" />
+      <item value="网络抖动" />
+      <item value="jitter" />
+      <item value="网络5秒内有抖动，忽略" />
+      <item value="on Capabilities Changed" />
+      <item value="CHECK VERSION INTERVAL" />
+      <item value="INTERVAL" />
       <item value="今天第一次接通电源" />
       <item value="This method is called when the BroadcastReceiver is receiving an Intent broadcast. During this time you can use the other methods on BroadcastReceiver to view/modify the current result values. This method is always called within the main thread of its process, unless you explicitly asked for it to be scheduled on a different thread using {@link android.content.Context#registerReceiver(BroadcastReceiver, IntentFilter, String, android.os.Handler)}. When it runs on the main thread you should never perform long-running operations in it (there is a timeout of 10 seconds that the system allows before considering the receiver to be blocked and a candidate to be killed). You cannot launch a popup dialog in your implementation of onReceive()." />
       <item value="&lt;p&gt;&lt;b&gt;If this BroadcastReceiver was launched through a &amp;lt;receiver&amp;gt; tag, then the object is no longer alive after returning from this function.&lt;/b&gt; This means you should not perform any operations that return a result to you asynchronously. If you need to perform any follow up background work, schedule a {@link android.app.job.JobService} with {@link android.app.job.JobScheduler}." />
@@ -9,7 +19,6 @@
       <item value="28" />
       <item value="将上传心跳移动到拍照失败后" />
       <item value="防止同时多个线程升级摄像头固件" />
-      <item value="防止" />
       <item value="上电后延迟30分钟校准陀螺仪功能" />
       <item value="关键字" />
       <item value="修正标志位不准确" />
@@ -42,20 +51,11 @@
       <item value="位置" />
       <item value="province empty" />
       <item value="TRUSTED can change when user explicitly connects to an untrusted network in Settings." />
-      <item value="Indicates that this network is not a VPN. This capability is set by default and should be explicitly cleared for VPN networks." />
-      <item value="Indicates that the user has indicated implicit trust of this network. This generally means it's a sim-selected carrier, a plugged in ethernet, a paired BT device or a wifi the user asked to connect to. Untrusted networks are probably limited to unknown wifi AP. Set by default." />
-      <item value="Indicates that this network is available for general use. If this is not set applications should not attempt to communicate on this network. Note that this is simply informative and not enforcement - enforcement is handled via other means. Set by default." />
-      <item value="Indicates that this network should be able to reach the internet." />
-      <item value="Indicates that this network is unmetered." />
-      <item value="Indicates this is a network that has the ability to reach a carrier's Emergency IMS servers or other services, used for network signaling during emergency calls." />
-      <item value="Indicates this is a network that has the ability to reach a carrier's XCAP servers, used for configuration and control." />
-      <item value="Indicates this is a network that has the ability to reach a carrier's RCS servers, used for Rich Communication Services." />
-      <item value="Indicates this is a network that has the ability to reach a carrier's Initial Attach servers." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="480" />
-        <entry key="ENGLISH" value="481" />
+        <entry key="CHINESE" value="486" />
+        <entry key="ENGLISH" value="487" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
