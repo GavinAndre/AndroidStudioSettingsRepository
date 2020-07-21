@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="verify" />
+      <item value="校验" />
+      <item value="匹配" />
       <item value="上传无响应" />
       <item value="防止" />
       <item value="add reboot logic when first power on everyday" />
@@ -48,13 +51,10 @@
       <item value="onsite" />
       <item value="多语言" />
       <item value="location" />
-      <item value="位置" />
-      <item value="province empty" />
-      <item value="TRUSTED can change when user explicitly connects to an untrusted network in Settings." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="486" />
+        <entry key="CHINESE" value="487" />
         <entry key="ENGLISH" value="487" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
