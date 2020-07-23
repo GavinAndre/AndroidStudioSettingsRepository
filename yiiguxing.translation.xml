@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="发送回复i消息" />
+      <item value="重复发送" />
+      <item value="没有进行过厂测" />
+      <item value="进行过" />
+      <item value="异常" />
       <item value="later" />
       <item value="please try again later" />
       <item value="Stop the service, if it was previously started. This is the same as" />
@@ -46,16 +51,11 @@
       <item value="If you wish to interact with a service that is already running and previously bound using {@link android.content.Context#bindService(Intent, ServiceConnection, int) bindService()}, you can use {@link #peekService}." />
       <item value="&lt;p&gt;The Intent filters used in {@link android.content.Context#registerReceiver} and in application manifests are &lt;em&gt;not&lt;/em&gt; guaranteed to be exclusive. They are hints to the operating system about how to find suitable recipients. It is possible for senders to force delivery to specific recipients, bypassing filter resolution. For this reason, {@link #onReceive(Context, Intent) onReceive()} implementations should respond only to known actions, ignoring any unexpected Intents that they may receive." />
       <item value="28" />
-      <item value="将上传心跳移动到拍照失败后" />
-      <item value="防止同时多个线程升级摄像头固件" />
-      <item value="上电后延迟30分钟校准陀螺仪功能" />
-      <item value="关键字" />
-      <item value="修正标志位不准确" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
