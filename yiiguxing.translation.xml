@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="offtake" />
+      <item value="project actual offtake" />
       <item value="提示" />
       <item value="记录" />
       <item value="record" />
@@ -49,12 +51,10 @@
       <item value="标志位" />
       <item value="Select the proper component from below list, click OK to next page" />
       <item value="Click OK to finish install or replace component or retest." />
-      <item value="assemble test describe" />
-      <item value="Select Fridge Asset ID, Hub ID and Cam ID by following the proper sequence. Click camera button to scan code and long click to clear code. Click OK to next page." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
+        <entry key="CHINESE" value="509" />
         <entry key="ENGLISH" value="509" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
