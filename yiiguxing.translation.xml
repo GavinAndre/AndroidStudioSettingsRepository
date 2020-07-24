@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@throws IllegalArgumentException if the provided blob name, or the file path is {@code null}, empty or not valid, or if the callback is {@code null}. @throws IOException if the client cannot create a instance of the FileUpload or the transport. @deprecated Use {@link #getFileUploadSasUri(FileUploadSasUriRequest)} to get the SAS URI, use the azure storage SDK to upload a file to that SAS URI, and then use {@link #completeFileUploadAsync(FileUploadCompletionNotification)} to notify Iot Hub that your file upload has completed, successfully or otherwise. This method does all three of these tasks for you, but has limited configuration options." />
+      <item value="@param destinationBlobName is a string with the name of the file in the storage. @param inputStream is a InputStream with the stream to upload in the blob. @param streamLength is a long with the number of bytes in the stream to upload. @param callback the callback to be invoked when a file is uploaded. @param callbackContext a context to be passed to the callback. Can be {@code null}." />
+      <item value="NOTE: IotHub does not currently support CA signed devices using file upload. Please use SAS based authentication or self signed certificates." />
+      <item value="Asynchronously upload a stream to the IoT Hub." />
+      <item value="make sense" />
+      <item value="make sence" />
       <item value="使用ConcurrentHashMap代替HashMap" />
       <item value="将video设备不存在错误计入拍照失败" />
       <item value="将video设备不存在也计入拍照失败" />
@@ -45,17 +51,11 @@
       <item value="add reboot logic when first power on everyday" />
       <item value="5秒内有网络抖动" />
       <item value="网络抖动" />
-      <item value="jitter" />
-      <item value="网络5秒内有抖动，忽略" />
-      <item value="on Capabilities Changed" />
-      <item value="CHECK VERSION INTERVAL" />
-      <item value="INTERVAL" />
-      <item value="今天第一次接通电源" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="514" />
-        <entry key="ENGLISH" value="515" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
