@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已被使用，是否继续注册" />
       <item value="connected" />
       <item value="Communication not establish" />
       <item value="Communication not established" />
@@ -50,11 +51,10 @@
       <item value="record" />
       <item value="只允许输入大写二维码" />
       <item value="Returns a copy of this string converted to upper case using the rules of the specified locale." />
-      <item value="The scan should be inverted. White becomes black, black becomes white." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="538" />
+        <entry key="CHINESE" value="539" />
         <entry key="ENGLISH" value="539" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
