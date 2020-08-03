@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="communication disconnect" />
+      <item value="Protocol" />
+      <item value="通讯协议" />
+      <item value="socket 通讯" />
+      <item value="通讯" />
+      <item value="摄像头权限、定位权限与读写权限(用于读取和保存图片" />
+      <item value="没有相关权限应用将无法正常运行，点击确定进入权限设置界面来进行更改" />
+      <item value="申请权限" />
+      <item value="request premission" />
+      <item value="请打开定位服务" />
       <item value="Criteria" />
       <item value="wait Time Accumulate" />
       <item value="Neutral" />
@@ -41,21 +51,11 @@
       <item value="Decode only UPC and EAN barcodes. This is the right choice for shopping apps which get prices, reviews, etc. for products." />
       <item value="Set to true to enable saving the barcode image and sending its path in the result Intent." />
       <item value="Set to false to disable beep on scan." />
-      <item value="Set to true to enable initial torch" />
-      <item value="正在测试，全部通过则点击确定完成安装，两分钟后未全部通过则判定失败，失败请更换组件或重新测试" />
-      <item value="模块" />
-      <item value="主机" />
-      <item value="field" />
-      <item value="established" />
-      <item value="verify" />
-      <item value="校验" />
-      <item value="匹配" />
-      <item value="上传无响应" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="523" />
-        <entry key="ENGLISH" value="524" />
+        <entry key="CHINESE" value="530" />
+        <entry key="ENGLISH" value="531" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
