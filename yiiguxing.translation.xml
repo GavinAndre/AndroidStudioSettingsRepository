@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Communication not establish" />
+      <item value="Communication not established" />
       <item value="未知错误" />
       <item value="手动连接" />
       <item value="请手动打开" />
@@ -49,13 +51,11 @@
       <item value="Returns a copy of this string converted to upper case using the rules of the specified locale." />
       <item value="The scan should be inverted. White becomes black, black becomes white." />
       <item value="Scan alternating inverted and normal barcodes." />
-      <item value="Define the scan type." />
-      <item value="Scan normal barcodes white on black" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="535" />
-        <entry key="ENGLISH" value="536" />
+        <entry key="CHINESE" value="537" />
+        <entry key="ENGLISH" value="538" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
