@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未知错误" />
+      <item value="手动连接" />
+      <item value="请手动打开" />
+      <item value="Authentication error occurred while trying to connect. The password could be incorrect or the user could have a saved network configuration with a different password!" />
+      <item value="AUTHENTICATION ERROR OCCURRED" />
+      <item value="If the wifi network is not in range, the security type is unknown and WifiUtils doesn't support connecting to the network." />
       <item value="communication disconnect" />
       <item value="Protocol" />
       <item value="通讯协议" />
@@ -45,17 +51,11 @@
       <item value="Scan alternating inverted and normal barcodes." />
       <item value="Define the scan type." />
       <item value="Scan normal barcodes white on black" />
-      <item value="By default, sending this will decode all barcodes that we understand. However it may be useful to limit scanning to certain formats. Use {@link android.content.Intent#putExtra(String, String)} with one of the values below. Setting this is effectively shorthand for setting explicit formats with {@link #FORMATS}. It is overridden by that setting." />
-      <item value="Other" />
-      <item value="Product" />
-      <item value="Decode only UPC and EAN barcodes. This is the right choice for shopping apps which get prices, reviews, etc. for products." />
-      <item value="Set to true to enable saving the barcode image and sending its path in the result Intent." />
-      <item value="Set to false to disable beep on scan." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="CHINESE" value="535" />
+        <entry key="ENGLISH" value="536" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
