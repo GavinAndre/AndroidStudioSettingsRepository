@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="{@link Network#getAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
+      <item value="* {@link Network#getAllByName Network.getAllByName} is preferred to calling * {@code bindProcessToNetwork}." />
+      <item value="accidentally" />
+      <item value="Note that if {@code network} ever disconnects, all Sockets created in this way will cease to work and all host name resolutions will fail. This is by design so an application doesn't accidentally use Sockets it thinks are still bound to a particular {@link Network}. To clear binding pass {@code null} for {@code network}. Using individually bound Sockets created by Network.getSocketFactory().createSocket() and performing network-specific host name resolutions via {@link Network#getAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
+      <item value="Note that if {@code network} ever disconnects, all Sockets created in this way will cea work and all host name resolutions will fail. This is by design so an application does accidentally use Sockets it thinks are still bound to a particular {@link Network}. To clear binding pass {@code null} for {@code network}. Using individually bound Sockets created by Network.getSocketFactory().createSocket() and performing network-specific host name resolutions via {@link Network#getAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
       <item value="已被使用，是否继续注册" />
       <item value="connected" />
       <item value="Communication not establish" />
@@ -46,16 +51,11 @@
       <item value="Stop the service, if it was previously started. This is the same as" />
       <item value="offtake" />
       <item value="project actual offtake" />
-      <item value="提示" />
-      <item value="记录" />
-      <item value="record" />
-      <item value="只允许输入大写二维码" />
-      <item value="Returns a copy of this string converted to upper case using the rules of the specified locale." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="539" />
-        <entry key="ENGLISH" value="539" />
+        <entry key="CHINESE" value="543" />
+        <entry key="ENGLISH" value="544" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
