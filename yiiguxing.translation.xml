@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="没有作用" />
+      <item value="生效" />
+      <item value="当连上hub wifi时无法与服务器通讯" />
+      <item value="当连上wifi时无法与服务器通讯" />
       <item value="CLOSE WIFI" />
       <item value="DISABLE WIFI" />
       <item value="disable" />
@@ -47,15 +51,11 @@
       <item value="Neutral" />
       <item value="修改拍照异常恢复机制" />
       <item value="@throws IllegalArgumentException if the provided blob name, or the file path is {@code null}, empty or not valid, or if the callback is {@code null}. @throws IOException if the client cannot create a instance of the FileUpload or the transport. @deprecated Use {@link #getFileUploadSasUri(FileUploadSasUriRequest)} to get the SAS URI, use the azure storage SDK to upload a file to that SAS URI, and then use {@link #completeFileUploadAsync(FileUploadCompletionNotification)} to notify Iot Hub that your file upload has completed, successfully or otherwise. This method does all three of these tasks for you, but has limited configuration options." />
-      <item value="@param destinationBlobName is a string with the name of the file in the storage. @param inputStream is a InputStream with the stream to upload in the blob. @param streamLength is a long with the number of bytes in the stream to upload. @param callback the callback to be invoked when a file is uploaded. @param callbackContext a context to be passed to the callback. Can be {@code null}." />
-      <item value="NOTE: IotHub does not currently support CA signed devices using file upload. Please use SAS based authentication or self signed certificates." />
-      <item value="Asynchronously upload a stream to the IoT Hub." />
-      <item value="make sense" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="547" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="CHINESE" value="548" />
+        <entry key="ENGLISH" value="549" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
