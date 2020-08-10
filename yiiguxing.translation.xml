@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RECEIVE LENGTH" />
+      <item value="Hex" />
+      <item value="Sloth Accessibility Service" />
       <item value="没有作用" />
       <item value="生效" />
       <item value="当连上hub wifi时无法与服务器通讯" />
@@ -48,14 +51,11 @@
       <item value="请打开定位服务" />
       <item value="Criteria" />
       <item value="wait Time Accumulate" />
-      <item value="Neutral" />
-      <item value="修改拍照异常恢复机制" />
-      <item value="@throws IllegalArgumentException if the provided blob name, or the file path is {@code null}, empty or not valid, or if the callback is {@code null}. @throws IOException if the client cannot create a instance of the FileUpload or the transport. @deprecated Use {@link #getFileUploadSasUri(FileUploadSasUriRequest)} to get the SAS URI, use the azure storage SDK to upload a file to that SAS URI, and then use {@link #completeFileUploadAsync(FileUploadCompletionNotification)} to notify Iot Hub that your file upload has completed, successfully or otherwise. This method does all three of these tasks for you, but has limited configuration options." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="551" />
+        <entry key="ENGLISH" value="552" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
