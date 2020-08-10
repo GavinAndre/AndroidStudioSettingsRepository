@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Suspend Flag" />
       <item value="check bit" />
       <item value="校验位" />
       <item value="RECEIVE LENGTH" />
@@ -50,12 +51,11 @@
       <item value="没有相关权限应用将无法正常运行，点击确定进入权限设置界面来进行更改" />
       <item value="申请权限" />
       <item value="request premission" />
-      <item value="请打开定位服务" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="553" />
-        <entry key="ENGLISH" value="553" />
+        <entry key="ENGLISH" value="554" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
