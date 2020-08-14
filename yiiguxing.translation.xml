@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="integral" />
+      <item value="完整的" />
+      <item value="完整" />
+      <item value="拼接字符串" />
+      <item value="拼接的" />
+      <item value="splice" />
+      <item value="拼接" />
       <item value="is Capture Still" />
       <item value="Suspend Flag" />
       <item value="check bit" />
@@ -44,18 +51,11 @@
       <item value="AUTHENTICATION ERROR OCCURRED" />
       <item value="If the wifi network is not in range, the security type is unknown and WifiUtils doesn't support connecting to the network." />
       <item value="communication disconnect" />
-      <item value="Protocol" />
-      <item value="通讯协议" />
-      <item value="socket 通讯" />
-      <item value="通讯" />
-      <item value="摄像头权限、定位权限与读写权限(用于读取和保存图片" />
-      <item value="没有相关权限应用将无法正常运行，点击确定进入权限设置界面来进行更改" />
-      <item value="申请权限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="554" />
-        <entry key="ENGLISH" value="555" />
+        <entry key="CHINESE" value="557" />
+        <entry key="ENGLISH" value="557" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
