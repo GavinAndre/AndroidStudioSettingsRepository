@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="integral Receive Bytes" />
       <item value="integral" />
       <item value="完整的" />
       <item value="完整" />
@@ -50,12 +51,11 @@
       <item value="Authentication error occurred while trying to connect. The password could be incorrect or the user could have a saved network configuration with a different password!" />
       <item value="AUTHENTICATION ERROR OCCURRED" />
       <item value="If the wifi network is not in range, the security type is unknown and WifiUtils doesn't support connecting to the network." />
-      <item value="communication disconnect" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="557" />
+        <entry key="ENGLISH" value="558" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
