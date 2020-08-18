@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="24点重启两次" />
+      <item value="12点" />
+      <item value="使用+8计算每天重启次数" />
       <item value="无改变" />
       <item value="60秒之内没收到消息" />
       <item value="integral Receive Bytes" />
@@ -48,9 +51,6 @@
       <item value="Communication not establish" />
       <item value="Communication not established" />
       <item value="未知错误" />
-      <item value="手动连接" />
-      <item value="请手动打开" />
-      <item value="Authentication error occurred while trying to connect. The password could be incorrect or the user could have a saved network configuration with a different password!" />
     </histories>
     <option name="languageScores">
       <map>
