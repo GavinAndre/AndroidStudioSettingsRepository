@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="连接" />
+      <item value="通信" />
       <item value="24点重启两次" />
       <item value="12点" />
       <item value="使用+8计算每天重启次数" />
@@ -49,8 +51,6 @@
       <item value="已被使用，是否继续注册" />
       <item value="connected" />
       <item value="Communication not establish" />
-      <item value="Communication not established" />
-      <item value="未知错误" />
     </histories>
     <option name="languageScores">
       <map>

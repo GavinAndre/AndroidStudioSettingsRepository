@@ -2,15 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp3" type="Native" />
       <mapping ext="dat" type="Native" />
       <mapping pattern="Android" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping ext="so" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="bnf" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping pattern="door_lock" type="SQL" />
       <mapping ext="db" type="SQL" />
       <removed_mapping ext="so" approved="true" type="UNKNOWN" />
