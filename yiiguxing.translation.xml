@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="将心跳放入socket发送线程的消息队列" />
+      <item value="修复在115版本上没有复用服务端smartid" />
+      <item value="修复在115版本上没有复用服务端smartid的问题" />
       <item value="卡住" />
       <item value="与服务器交互" />
       <item value="连接" />
@@ -48,9 +51,6 @@
       <item value="{@link Network#getAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
       <item value="* {@link Network#getAllByName Network.getAllByName} is preferred to calling * {@code bindProcessToNetwork}." />
       <item value="accidentally" />
-      <item value="Note that if {@code network} ever disconnects, all Sockets created in this way will cease to work and all host name resolutions will fail. This is by design so an application doesn't accidentally use Sockets it thinks are still bound to a particular {@link Network}. To clear binding pass {@code null} for {@code network}. Using individually bound Sockets created by Network.getSocketFactory().createSocket() and performing network-specific host name resolutions via {@link Network#getAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
-      <item value="Note that if {@code network} ever disconnects, all Sockets created in this way will cea work and all host name resolutions will fail. This is by design so an application does accidentally use Sockets it thinks are still bound to a particular {@link Network}. To clear binding pass {@code null} for {@code network}. Using individually bound Sockets created by Network.getSocketFactory().createSocket() and performing network-specific host name resolutions via {@link Network#getAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
-      <item value="已被使用，是否继续注册" />
     </histories>
     <option name="languageScores">
       <map>
