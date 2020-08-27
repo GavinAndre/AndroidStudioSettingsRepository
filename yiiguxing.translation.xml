@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RETRY EXPIRED" />
       <item value="indicates whether the first retry should be immediate" />
       <item value="the max delta allowed between retries" />
       <item value="the max interval between each retry" />
@@ -50,12 +51,11 @@
       <item value="提取公共方法" />
       <item value="提醒用户" />
       <item value="重复绑定设备时应提醒是否覆盖绑定" />
-      <item value="校验资产编码" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="567" />
-        <entry key="ENGLISH" value="568" />
+        <entry key="CHINESE" value="569" />
+        <entry key="ENGLISH" value="570" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
