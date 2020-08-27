@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indicates whether the first retry should be immediate" />
+      <item value="the max delta allowed between retries" />
+      <item value="the max interval between each retry" />
+      <item value="the min interval between each retry" />
+      <item value="the max number of retries allowed in the policies" />
       <item value="Exponential" />
       <item value="Exponential Backoff With Jitter" />
       <item value="将心跳放入socket发送线程的消息队列" />
@@ -46,16 +51,11 @@
       <item value="提醒用户" />
       <item value="重复绑定设备时应提醒是否覆盖绑定" />
       <item value="校验资产编码" />
-      <item value="维修检测重新检测时，照片未清空" />
-      <item value="测试显示的照片数与后台不对应" />
-      <item value="软键盘" />
-      <item value="软件盘" />
-      <item value="{@link Network#getAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
-        <entry key="ENGLISH" value="561" />
+        <entry key="CHINESE" value="567" />
+        <entry key="ENGLISH" value="568" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
