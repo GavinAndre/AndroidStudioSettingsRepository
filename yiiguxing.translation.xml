@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exponential" />
+      <item value="Exponential Backoff With Jitter" />
       <item value="将心跳放入socket发送线程的消息队列" />
       <item value="修复在115版本上没有复用服务端smartid" />
       <item value="修复在115版本上没有复用服务端smartid的问题" />
@@ -49,13 +51,11 @@
       <item value="软键盘" />
       <item value="软件盘" />
       <item value="{@link Network#getAllByName Network.getAllByName} is preferred to calling {@code bindProcessToNetwork}." />
-      <item value="* {@link Network#getAllByName Network.getAllByName} is preferred to calling * {@code bindProcessToNetwork}." />
-      <item value="accidentally" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="558" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="CHINESE" value="560" />
+        <entry key="ENGLISH" value="561" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
