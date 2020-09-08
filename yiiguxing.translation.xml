@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fraction" />
+      <item value="float to fraction" />
       <item value="set Text" />
       <item value="关闭" />
       <item value="BANDWIDTH FACTORS" />
@@ -49,13 +51,11 @@
       <item value="CLOSE WIFI" />
       <item value="DISABLE WIFI" />
       <item value="disable" />
-      <item value="暂时" />
-      <item value="判断" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="575" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="577" />
+        <entry key="ENGLISH" value="578" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
