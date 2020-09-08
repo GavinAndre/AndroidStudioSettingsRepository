@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="issue dual cam delay" />
       <item value="Insufficient" />
       <item value="paranoia" />
       <item value="Buggy driver paranoia" />
@@ -50,12 +51,11 @@
       <item value="RECEIVE LENGTH" />
       <item value="Hex" />
       <item value="Sloth Accessibility Service" />
-      <item value="没有作用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="583" />
-        <entry key="ENGLISH" value="584" />
+        <entry key="CHINESE" value="584" />
+        <entry key="ENGLISH" value="585" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
