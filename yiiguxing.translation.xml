@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="on Dettach" />
+      <item value="on Attach" />
       <item value="fall through" />
       <item value="EAGAIN" />
       <item value="Motion-JPEG" />
@@ -49,13 +51,11 @@
       <item value="拼接的" />
       <item value="splice" />
       <item value="拼接" />
-      <item value="is Capture Still" />
-      <item value="Suspend Flag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="589" />
-        <entry key="ENGLISH" value="590" />
+        <entry key="CHINESE" value="592" />
+        <entry key="ENGLISH" value="593" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
