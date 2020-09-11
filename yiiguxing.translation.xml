@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Motion-JPEG" />
+      <item value="Motion" />
       <item value="Insufficient" />
       <item value="bruce" />
       <item value="issue dual cam delay" />
@@ -49,13 +51,11 @@
       <item value="Suspend Flag" />
       <item value="check bit" />
       <item value="校验位" />
-      <item value="RECEIVE LENGTH" />
-      <item value="Hex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="586" />
-        <entry key="ENGLISH" value="587" />
+        <entry key="CHINESE" value="588" />
+        <entry key="ENGLISH" value="589" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
