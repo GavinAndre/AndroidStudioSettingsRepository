@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="越界" />
+      <item value="on Disconnect Dev" />
+      <item value="Detach" />
+      <item value="on Detach Dev" />
       <item value="uvc print stream ctrl" />
       <item value="on Dettach" />
       <item value="on Attach" />
@@ -47,15 +51,11 @@
       <item value="integral Receive Bytes" />
       <item value="integral" />
       <item value="完整的" />
-      <item value="完整" />
-      <item value="拼接字符串" />
-      <item value="拼接的" />
-      <item value="splice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="593" />
-        <entry key="ENGLISH" value="594" />
+        <entry key="CHINESE" value="597" />
+        <entry key="ENGLISH" value="598" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
