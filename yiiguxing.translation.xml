@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="兼容" />
       <item value="Integral" />
       <item value="Waker" />
       <item value="A callback function to handle incoming assembled UVC frames ingroup streaming" />
@@ -50,12 +51,11 @@
       <item value="修复在115版本上没有复用服务端smartid的问题" />
       <item value="卡住" />
       <item value="与服务器交互" />
-      <item value="连接" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="606" />
-        <entry key="ENGLISH" value="607" />
+        <entry key="CHINESE" value="607" />
+        <entry key="ENGLISH" value="608" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
