@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="后台接口" />
+      <item value="字段" />
+      <item value="field" />
       <item value="stuck" />
       <item value="卡住" />
       <item value="Comparable" />
@@ -48,14 +51,11 @@
       <item value="Motion-JPEG" />
       <item value="Motion" />
       <item value="Insufficient" />
-      <item value="bruce" />
-      <item value="issue dual cam delay" />
-      <item value="paranoia" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="618" />
+        <entry key="ENGLISH" value="619" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
