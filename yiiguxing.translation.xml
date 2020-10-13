@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="抓拍" />
+      <item value="拍照" />
+      <item value="capture" />
+      <item value="Interaction" />
       <item value="statistic" />
       <item value="Use" />
       <item value="Upgrade" />
@@ -47,15 +51,11 @@
       <item value="越界" />
       <item value="on Disconnect Dev" />
       <item value="Detach" />
-      <item value="on Detach Dev" />
-      <item value="uvc print stream ctrl" />
-      <item value="on Dettach" />
-      <item value="on Attach" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="623" />
-        <entry key="ENGLISH" value="624" />
+        <entry key="CHINESE" value="625" />
+        <entry key="ENGLISH" value="626" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
