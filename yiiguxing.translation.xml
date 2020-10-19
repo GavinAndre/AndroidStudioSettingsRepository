@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="不相同" />
+      <item value="摄像头固件版本不完整" />
       <item value="Invalid argument" />
       <item value="does not exist or is restricted" />
       <item value="Subscriber will be called directly in the same thread, which is posting the event. This is the default. Event delivery implies the least overhead because it avoids thread switching completely. Thus this is the recommended mode for simple tasks that are known to complete in a very short time without requiring the main thread. Event handlers using this mode must return quickly to avoid blocking the posting thread, which may be the main thread." />
@@ -49,13 +51,11 @@
       <item value="Waker" />
       <item value="A callback function to handle incoming assembled UVC frames ingroup streaming" />
       <item value="Start editing the pixels in the surface. The returned Canvas can be used to draw into the surface's bitmap. A null is returned if the surface has not been created or otherwise cannot be edited. You will usually need to implement {@link Callback#surfaceCreated Callback.surfaceCreated} to find out when the Surface is available for use." />
-      <item value="&lt;p&gt;The content of the Surface is never preserved between unlockCanvas() and lockCanvas(), for this reason, every pixel within the Surface area must be written. The only exception to this rule is when a dirty rectangle is specified, in which case, non-dirty pixels will be preserved." />
-      <item value="&lt;p&gt;If you call this repeatedly when the Surface is not ready (before {@link Callback#surfaceCreated Callback.surfaceCreated} or after {@link Callback#surfaceDestroyed Callback.surfaceDestroyed}), your calls will be throttled to a slow rate in order to avoid consuming CPU." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="630" />
-        <entry key="ENGLISH" value="631" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
