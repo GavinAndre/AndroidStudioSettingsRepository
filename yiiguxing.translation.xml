@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ceramic" />
+      <item value="CAMERA COIL" />
       <item value="不相同" />
       <item value="摄像头固件版本不完整" />
       <item value="Invalid argument" />
@@ -49,13 +51,11 @@
       <item value="兼容" />
       <item value="Integral" />
       <item value="Waker" />
-      <item value="A callback function to handle incoming assembled UVC frames ingroup streaming" />
-      <item value="Start editing the pixels in the surface. The returned Canvas can be used to draw into the surface's bitmap. A null is returned if the surface has not been created or otherwise cannot be edited. You will usually need to implement {@link Callback#surfaceCreated Callback.surfaceCreated} to find out when the Surface is available for use." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="631" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="CHINESE" value="633" />
+        <entry key="ENGLISH" value="634" />
         <entry key="DUTCH" value="3" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
