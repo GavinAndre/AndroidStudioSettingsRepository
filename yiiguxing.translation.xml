@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Motion" />
       <item value="amount" />
       <item value="Adds or subtracts" />
       <item value="roll" />
@@ -50,12 +51,11 @@
       <item value="外观检查" />
       <item value="外观" />
       <item value="ACCESS FINE LOCATION" />
-      <item value="ACCESS COARSE LOCATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
@@ -64,10 +64,8 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
-        <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
-    <option name="showStatusIcon" value="false" />
   </component>
 </application>
