@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="mp3" type="Native" />
       <mapping ext="dat" type="Native" />
       <mapping pattern="Android" type="PLAIN_TEXT" />
