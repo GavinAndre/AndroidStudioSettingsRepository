@@ -1,67 +1,62 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="ceramic" />
-      <item value="CAMERA COIL" />
-      <item value="不相同" />
-      <item value="摄像头固件版本不完整" />
-      <item value="Invalid argument" />
-      <item value="does not exist or is restricted" />
-      <item value="Subscriber will be called directly in the same thread, which is posting the event. This is the default. Event delivery implies the least overhead because it avoids thread switching completely. Thus this is the recommended mode for simple tasks that are known to complete in a very short time without requiring the main thread. Event handlers using this mode must return quickly to avoid blocking the posting thread, which may be the main thread." />
-      <item value="漂移" />
-      <item value="waker" />
-      <item value="timestamp" />
-      <item value="抓拍" />
-      <item value="拍照" />
-      <item value="capture" />
-      <item value="Interaction" />
-      <item value="statistic" />
-      <item value="Use" />
-      <item value="Upgrade" />
-      <item value="预期" />
-      <item value="DPAD" />
-      <item value="后台接口" />
-      <item value="字段" />
-      <item value="field" />
-      <item value="stuck" />
-      <item value="卡住" />
-      <item value="Comparable" />
-      <item value="No message received within 60 seconds, restart serial port" />
-      <item value="broken clouds" />
-      <item value="broken " />
-      <item value="TEST SERIAL PORT" />
-      <item value="使用1代替2" />
-      <item value="增加硬件版本控制" />
-      <item value="错误消息" />
-      <item value="TEST CAMERA HEAT COIL" />
-      <item value="save files on frame deactivation" />
-      <item value="idle" />
-      <item value="排序" />
-      <item value="对比" />
-      <item value="'appendln(): kotlin.text.Appendable /* = java.lang.Appendable */' is deprecated. Use appendLine instead. Note that the new method always appends the line feed character '\n' regardless of the system line separator." />
-      <item value="兼容通讯未加密的SlothOS" />
-      <item value="兼容未加密的SlothOS" />
-      <item value="兼容为加密的SlothOS" />
-      <item value="错位" />
-      <item value="Power Consumption" />
-      <item value="Coupling" />
-      <item value="revert" />
-      <item value="revise" />
-      <item value="还原" />
-      <item value="兼容" />
-      <item value="Integral" />
-      <item value="Waker" />
+      <item value="amount" />
+      <item value="Adds or subtracts" />
+      <item value="roll" />
+      <item value="Returns a string containing all characters except first characters that satisfy the given [predicate]." />
+      <item value="Repeatedly re-subscribes to the current Single indefinitely if it fails with an onError." />
+      <item value="internal" />
+      <item value="LOCATION" />
+      <item value="position" />
+      <item value="cooler" />
+      <item value="pcb" />
+      <item value="magnet" />
+      <item value="status Code" />
+      <item value="synchronized" />
+      <item value="fetch image affect upload image to iot, need reset system after test" />
+      <item value="open" />
+      <item value="UPLOAD" />
+      <item value="judge And Change Door State 2 Closing" />
+      <item value="judge And Change Door State 2 Opening" />
+      <item value="angle Radian Val" />
+      <item value="Size" />
+      <item value="Param" />
+      <item value="参数" />
+      <item value="Parm" />
+      <item value="param" />
+      <item value="Compares this string to the specified {@code CharSequence}. The * result is {@code true} if and only if this {@code String} represents the * same sequence of char values as the specified sequence. Note that if the * {@code CharSequence} is a {@code StringBuffer} then the method * synchronizes on it." />
+      <item value="* this function does not compare this string and the specified [CharSequence] in a synchronized block." />
+      <item value="* Unlike the overload that accepts an argument of type [StringBuffer]," />
+      <item value="* Returns `true` if this string is equal to the contents of the specified [CharSequence], `false` otherwise." />
+      <item value="missing Delimiter Value" />
+      <item value="Returns a substring before the first occurrence of [delimiter]. * If the string does not contain the delimiter, returns [missingDelimiterValue] which defaults to the original string." />
+      <item value="milliseconds" />
+      <item value="Processed" />
+      <item value="consumpt" />
+      <item value="power consumpt" />
+      <item value="power consumption" />
+      <item value="consumption" />
+      <item value="功率" />
+      <item value="dj" />
+      <item value="耦合测试" />
+      <item value="耦合" />
+      <item value="Outer" />
+      <item value="质量" />
+      <item value="检查" />
+      <item value="surface" />
+      <item value="表面" />
+      <item value="face" />
+      <item value="外观检查" />
+      <item value="外观" />
+      <item value="ACCESS FINE LOCATION" />
+      <item value="ACCESS COARSE LOCATION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="634" />
-        <entry key="DUTCH" value="3" />
-        <entry key="PORTUGUESE" value="3" />
-        <entry key="JAPANESE" value="2" />
-        <entry key="SLOVAK" value="3" />
-        <entry key="SCOTS_GAELIC" value="1" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
+        <entry key="PORTUGUESE" value="2" />
       </map>
     </option>
   </component>
@@ -69,8 +64,10 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="false" />
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="showStatusIcon" value="false" />
   </component>
 </application>
