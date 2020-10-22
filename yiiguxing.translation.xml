@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="デバッグ情報を出さない時1" />
+      <item value="指定したLO Gxだけを出力" />
+      <item value="LOGV/LOGD/MARKを出力しない時" />
       <item value="Fatal" />
       <item value="extern" />
       <item value="Remove and gets the recent sticky event for the given event type." />
@@ -48,16 +51,14 @@
       <item value="耦合" />
       <item value="Outer" />
       <item value="质量" />
-      <item value="检查" />
-      <item value="surface" />
-      <item value="表面" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="62" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
+        <entry key="JAPANESE" value="4" />
       </map>
     </option>
   </component>
