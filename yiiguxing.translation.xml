@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fatal" />
       <item value="extern" />
       <item value="Remove and gets the recent sticky event for the given event type." />
       <item value="Posts the given event to the event bus and holds on to the event (because it is sticky). The most recent sticky event of an event's type is kept in memory for future access by subscribers using {@link Subscribe#sticky()}." />
@@ -50,12 +51,11 @@
       <item value="检查" />
       <item value="surface" />
       <item value="表面" />
-      <item value="face" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
       </map>
