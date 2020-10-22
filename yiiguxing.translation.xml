@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="更改打包apk名字" />
+      <item value="打包" />
       <item value="更改参数保存逻辑，避免没必要的写操作" />
       <item value="避免多次写入" />
       <item value="优化代码" />
@@ -49,8 +51,6 @@
       <item value="Returns a substring before the first occurrence of [delimiter]. * If the string does not contain the delimiter, returns [missingDelimiterValue] which defaults to the original string." />
       <item value="milliseconds" />
       <item value="Processed" />
-      <item value="consumpt" />
-      <item value="power consumpt" />
     </histories>
     <option name="languageScores">
       <map>
