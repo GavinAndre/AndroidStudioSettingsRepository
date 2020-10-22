@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="更改参数保存逻辑，避免没必要的写操作" />
+      <item value="避免多次写入" />
+      <item value="优化代码" />
       <item value="nullpoint" />
       <item value="方式" />
       <item value="Refactor" />
@@ -48,14 +51,11 @@
       <item value="Processed" />
       <item value="consumpt" />
       <item value="power consumpt" />
-      <item value="power consumption" />
-      <item value="consumption" />
-      <item value="功率" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
