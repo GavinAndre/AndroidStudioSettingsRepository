@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分钟" />
       <item value="层级错误" />
       <item value="更改打包apk名字" />
       <item value="打包" />
@@ -50,7 +51,6 @@
       <item value="* Returns `true` if this string is equal to the contents of the specified [CharSequence], `false` otherwise." />
       <item value="missing Delimiter Value" />
       <item value="Returns a substring before the first occurrence of [delimiter]. * If the string does not contain the delimiter, returns [missingDelimiterValue] which defaults to the original string." />
-      <item value="milliseconds" />
     </histories>
     <option name="languageScores">
       <map>
