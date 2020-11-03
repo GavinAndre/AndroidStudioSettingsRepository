@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="快速" />
       <item value="Reports calls to java.lang.Thread.sleep() that occur inside loops. Such calls are indicative of &quot;busy-waiting&quot;. Busy-waiting is often inefficient, and may result in unexpected deadlocks as busy-waiting threads do not release locked resources." />
       <item value="inefficient" />
-      <item value="快速" />
       <item value="功能测试" />
       <item value="厂测" />
       <item value="function" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
