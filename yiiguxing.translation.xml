@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reports calls to java.lang.Thread.sleep() that occur inside loops. Such calls are indicative of &quot;busy-waiting&quot;. Busy-waiting is often inefficient, and may result in unexpected deadlocks as busy-waiting threads do not release locked resources." />
+      <item value="inefficient" />
       <item value="快速" />
       <item value="功能测试" />
       <item value="厂测" />
@@ -49,12 +51,10 @@
       <item value="Param" />
       <item value="参数" />
       <item value="Parm" />
-      <item value="param" />
-      <item value="Compares this string to the specified {@code CharSequence}. The * result is {@code true} if and only if this {@code String} represents the * same sequence of char values as the specified sequence. Note that if the * {@code CharSequence} is a {@code StringBuffer} then the method * synchronizes on it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
