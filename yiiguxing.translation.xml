@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="摄像头存在打开失败" />
+      <item value="有摄像头打开失败" />
       <item value="Registers to receive notifications about changes in the system default network. The callbacks will continue to be called until either the application exits or {@link #unregisterNetworkCallback(NetworkCallback)} is called." />
       <item value="Called when the network the framework connected to for this request changes capabilities but still satisfies the stated need." />
       <item value="Called if no network is found in the timeout time specified in {@link #requestNetwork(NetworkRequest, NetworkCallback, int)} call. This callback is not called for the version of {@link #requestNetwork(NetworkRequest, NetworkCallback)} without timeout. When this callback is invoked the associated {@link NetworkRequest} will have already been removed and released, as if {@link #unregisterNetworkCallback(NetworkCallback)} had been called." />
@@ -49,13 +51,11 @@
       <item value="pcb" />
       <item value="magnet" />
       <item value="status Code" />
-      <item value="synchronized" />
-      <item value="fetch image affect upload image to iot, need reset system after test" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="77" />
+        <entry key="ENGLISH" value="78" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
