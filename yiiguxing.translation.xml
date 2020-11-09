@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="difficult" />
       <item value="Reflect" />
       <item value="Reflection" />
       <item value="反思" />
@@ -50,7 +51,6 @@
       <item value="roll" />
       <item value="Returns a string containing all characters except first characters that satisfy the given [predicate]." />
       <item value="Repeatedly re-subscribes to the current Single indefinitely if it fails with an onError." />
-      <item value="internal" />
     </histories>
     <option name="languageScores">
       <map>
