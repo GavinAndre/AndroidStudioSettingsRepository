@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="called after device opend" />
+      <item value="called when device attached" />
       <item value="difficult" />
       <item value="Reflect" />
       <item value="Reflection" />
@@ -49,13 +51,11 @@
       <item value="amount" />
       <item value="Adds or subtracts" />
       <item value="roll" />
-      <item value="Returns a string containing all characters except first characters that satisfy the given [predicate]." />
-      <item value="Repeatedly re-subscribes to the current Single indefinitely if it fails with an onError." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
