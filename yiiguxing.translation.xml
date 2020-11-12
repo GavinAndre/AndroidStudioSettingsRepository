@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="return true if a tethered device is found, false if not found" />
+      <item value="Checks where tethering is on. This is determined by the getTetheredIfaces() method, that will return an empty array if not devices are tethered" />
+      <item value="tethered" />
+      <item value="Tether" />
+      <item value="is Tether Active" />
       <item value="estimating" />
       <item value="brightness" />
       <item value="height" />
@@ -46,16 +51,11 @@
       <item value="重构" />
       <item value="重构代码" />
       <item value="デバッグ情報を出さない時1" />
-      <item value="指定したLO Gxだけを出力" />
-      <item value="LOGV/LOGD/MARKを出力しない時" />
-      <item value="Fatal" />
-      <item value="extern" />
-      <item value="Remove and gets the recent sticky event for the given event type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
