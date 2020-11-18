@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="by default" />
       <item value="estimate" />
       <item value="定时模式" />
       <item value="定时控制模式" />
@@ -50,7 +51,6 @@
       <item value="更改打包apk名字" />
       <item value="打包" />
       <item value="更改参数保存逻辑，避免没必要的写操作" />
-      <item value="避免多次写入" />
     </histories>
     <option name="languageScores">
       <map>
