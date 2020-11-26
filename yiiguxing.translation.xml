@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="恢复" />
+      <item value="valerie" />
       <item value="incident" />
       <item value="firmware" />
       <item value="All we will be going through all the retail product milestones, please take a look at the below – we will be scrubbing / triaging bugs and feature starting tomorrow.  Leads, please come in and prepare to talk about the bugs / features assigned to you or your team members.   " />
@@ -49,13 +51,11 @@
       <item value="快速" />
       <item value="Reports calls to java.lang.Thread.sleep() that occur inside loops. Such calls are indicative of &quot;busy-waiting&quot;. Busy-waiting is often inefficient, and may result in unexpected deadlocks as busy-waiting threads do not release locked resources." />
       <item value="inefficient" />
-      <item value="功能测试" />
-      <item value="厂测" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
