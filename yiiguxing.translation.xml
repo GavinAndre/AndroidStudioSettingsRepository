@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="1011" />
+    <option name="newTranslationDialogY" value="482" />
     <histories>
+      <item value="resetting" />
+      <item value="reseting&#10;" />
+      <item value="resetting&#10;" />
+      <item value="returnre" />
+      <item value="正在重启" />
+      <item value="正在" />
+      <item value="reset Usb" />
       <item value="farewell" />
       <item value="&lt;p&gt;For example, consider a task consisting of the activities: A, B, C, D. If D calls startActivity() with an Intent that resolves to the component of activity B, then C and D will be finished and B receive the given Intent, resulting in the stack now being: A, B." />
       <item value="If set, and the activity being launched is already running in the current task, then instead of launching a new instance of that activity, all of the other activities on top of it will be closed and this Intent will be delivered to the (now on top) old activity as a new Intent." />
@@ -44,13 +54,6 @@
       <item value="验证" />
       <item value="摄像头存在打开失败" />
       <item value="有摄像头打开失败" />
-      <item value="Registers to receive notifications about changes in the system default network. The callbacks will continue to be called until either the application exits or {@link #unregisterNetworkCallback(NetworkCallback)} is called." />
-      <item value="Called when the network the framework connected to for this request changes capabilities but still satisfies the stated need." />
-      <item value="Called if no network is found in the timeout time specified in {@link #requestNetwork(NetworkRequest, NetworkCallback, int)} call. This callback is not called for the version of {@link #requestNetwork(NetworkRequest, NetworkCallback)} without timeout. When this callback is invoked the associated {@link NetworkRequest} will have already been removed and released, as if {@link #unregisterNetworkCallback(NetworkCallback)} had been called." />
-      <item value="Called when the framework has a hard loss of the network or when the graceful failure ends." />
-      <item value="Called when the network is about to be disconnected. Often paired with an {@link NetworkCallback#onAvailable} call with the new replacement network for graceful handover. This may not be called if we have a hard loss (loss without warning). This may be followed by either a {@link NetworkCallback#onLost} call or a {@link NetworkCallback#onAvailable} call for this network depending on whether we lose or regain it." />
-      <item value="Called when the framework connects and has declared a new network ready for use. This callback may be called more than once if the {@link Network} that is satisfying the request changes. This will always immediately be followed by a call to {@link #onCapabilitiesChanged(Network, NetworkCapabilities)} then by a call to {@link #onLinkPropertiesChanged(Network, LinkProperties)}." />
-      <item value="Called when the framework connects and has declared a new network ready for use. This callback may be called more than once if the {@link Network} that is satisfying the request changes." />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,6 +64,9 @@
         <entry key="JAPANESE" value="4" />
       </map>
     </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1608703176292" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
