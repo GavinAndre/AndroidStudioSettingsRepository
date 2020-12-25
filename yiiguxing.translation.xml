@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1011" />
     <option name="newTranslationDialogY" value="482" />
     <histories>
+      <item value="date" />
+      <item value="date&#10;" />
       <item value="resetting" />
       <item value="reseting&#10;" />
       <item value="resetting&#10;" />
@@ -52,8 +54,6 @@
       <item value="gnss" />
       <item value="bandwidth" />
       <item value="验证" />
-      <item value="摄像头存在打开失败" />
-      <item value="有摄像头打开失败" />
     </histories>
     <option name="languageScores">
       <map>
