@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1011" />
     <option name="newTranslationDialogY" value="482" />
     <histories>
+      <item value="the period size in time units" />
+      <item value="100" />
       <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their indices)." />
       <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
       <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position &#10;(if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
@@ -52,13 +54,11 @@
       <item value="spec" />
       <item value="draft" />
       <item value="shadow" />
-      <item value="shadowsocks" />
-      <item value="by default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="111" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
