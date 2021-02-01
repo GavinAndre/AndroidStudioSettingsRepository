@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="1011" />
     <option name="newTranslationDialogY" value="482" />
     <histories>
+      <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their indices)." />
+      <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
+      <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position &#10;(if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
+      <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position&#10;(if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
+      <item value="Inserts the specified element at the specified position in this list(optional operation).  Shifts the element currently at that position&#10;(if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
+      <item value="Inserts the specified element at the specified position in this list&#10;(optional operation).  Shifts the element currently at that position&#10;(if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
+      <item value="Inserts the specified element at the specified position in this list (optional operation). Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their indices)." />
       <item value="End of input at character 0 of" />
       <item value="coerced" />
       <item value="航班" />
@@ -47,18 +54,11 @@
       <item value="shadow" />
       <item value="shadowsocks" />
       <item value="by default" />
-      <item value="estimate" />
-      <item value="定时模式" />
-      <item value="定时控制模式" />
-      <item value="定时" />
-      <item value="gateway" />
-      <item value="gate Way" />
-      <item value="Expected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="109" />
+        <entry key="ENGLISH" value="110" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
