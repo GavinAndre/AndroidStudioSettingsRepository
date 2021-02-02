@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="1011" />
     <option name="newTranslationDialogY" value="482" />
     <histories>
+      <item value="prompt" />
+      <item value="提示" />
+      <item value="tishi" />
       <item value="the period size in time units" />
       <item value="100" />
       <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their indices)." />
@@ -51,14 +54,11 @@
       <item value="incident" />
       <item value="firmware" />
       <item value="All we will be going through all the retail product milestones, please take a look at the below – we will be scrubbing / triaging bugs and feature starting tomorrow.  Leads, please come in and prepare to talk about the bugs / features assigned to you or your team members.   " />
-      <item value="spec" />
-      <item value="draft" />
-      <item value="shadow" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
