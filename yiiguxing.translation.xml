@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1011" />
     <option name="newTranslationDialogY" value="482" />
     <histories>
+      <item value="Backpressure" />
       <item value="Native code saves some indication of the stack backtrace in this slot." />
       <item value="prompt" />
       <item value="提示" />
@@ -53,12 +54,11 @@
       <item value="恢复" />
       <item value="valerie" />
       <item value="incident" />
-      <item value="firmware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
