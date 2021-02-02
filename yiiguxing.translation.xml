@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1011" />
     <option name="newTranslationDialogY" value="482" />
     <histories>
+      <item value="&lt;p&gt;An implementation may (and typically does) require that the current thread hold the lock associated with this {@code Condition} when this method is called. Implementations must document this precondition and any actions taken if the lock is not held. Typically, an exception such as {@link IllegalMonitorStateException} will be thrown." />
+      <item value="Atomically removes all of the elements from this deque. The deque will be empty after this call returns." />
       <item value="Backpressure" />
       <item value="Native code saves some indication of the stack backtrace in this slot." />
       <item value="prompt" />
@@ -52,13 +54,11 @@
       <item value="反思" />
       <item value="未定义定义的引用" />
       <item value="恢复" />
-      <item value="valerie" />
-      <item value="incident" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="115" />
+        <entry key="ENGLISH" value="116" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
