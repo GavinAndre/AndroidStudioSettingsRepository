@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="801" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="boarding Number" />
+      <item value="Boarding" />
       <item value="local" />
       <item value="local&#10;" />
       <item value="bendi" />
@@ -53,13 +55,11 @@
       <item value="正在重启" />
       <item value="正在" />
       <item value="reset Usb" />
-      <item value="farewell" />
-      <item value="&lt;p&gt;For example, consider a task consisting of the activities: A, B, C, D. If D calls startActivity() with an Intent that resolves to the component of activity B, then C and D will be finished and B receive the given Intent, resulting in the stack now being: A, B." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="ENGLISH" value="118" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
