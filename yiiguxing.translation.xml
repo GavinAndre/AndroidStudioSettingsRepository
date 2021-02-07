@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="801" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="标记" />
+      <item value="标记&#10;" />
       <item value="Releases a permit, returning it to the semaphore. &lt;p&gt;Releases a permit, increasing the number of available permits by one. If any threads are trying to acquire a permit, then one is selected and given the permit that was just released. That thread is (re)enabled for thread scheduling purposes. &lt;p&gt;There is no requirement that a thread that releases a permit must have acquired that permit by calling {@link acquire}. Correct usage of a semaphore is established by programming convention in the application." />
       <item value="boarding Number" />
       <item value="Boarding" />
@@ -53,8 +55,6 @@
       <item value="reseting&#10;" />
       <item value="resetting&#10;" />
       <item value="returnre" />
-      <item value="正在重启" />
-      <item value="正在" />
     </histories>
     <option name="languageScores">
       <map>
