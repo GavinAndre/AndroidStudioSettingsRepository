@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="801" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="The consumer-visible brand with which the producthardware will be associated, if any" />
       <item value="memaction" />
       <item value="Tagmemory" />
       <item value="标记" />
@@ -54,12 +55,11 @@
       <item value="date" />
       <item value="date&#10;" />
       <item value="resetting" />
-      <item value="reseting&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
