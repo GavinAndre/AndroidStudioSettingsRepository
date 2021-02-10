@@ -85,9 +85,9 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="kotlin_debugger">
+      <debugger id="groovy_debugger">
         <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
+          <option name="ENABLE_GROOVY_HOTSWAP" value="false" />
         </configuration>
       </debugger>
       <debugger id="ObjectiveC">
