@@ -1,10 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="582" />
-    <option name="newTranslationDialogX" value="801" />
-    <option name="newTranslationDialogY" value="287" />
+    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogX" value="845" />
+    <option name="newTranslationDialogY" value="450" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="private List View bags List View" />
+      <item value="private List View bags ListView" />
+      <item value="private ListView bags ListView" />
+      <item value="private ListView bagsListView" />
+      <item value="private ListView bagsListView;" />
+      <item value="bags List View" />
+      <item value="List View" />
+      <item value="Licensing support for commercial plugins from JetBrains Marketplace" />
       <item value="The consumer-visible brand with which the producthardware will be associated, if any" />
       <item value="memaction" />
       <item value="Tagmemory" />
@@ -47,19 +56,11 @@
       <item value="Note that if you use rm to remove a file, it might be possible to recover some of its contents, given sufficient expertise and/or time.  For greaterassurance that the contents are truly unrecoverable, consider using shred." />
       <item value="Note that if you use rm to remove a file, it might be possible to recover some of its contents, given sufficient expertise and/or time.  For greater&#10;assurance that the contents are truly unrecoverable, consider using shred." />
       <item value="Note that if you use rm to remove a file, it might be possible to recoversome of its contents, given sufficient expertise and/or time.  For greater&#10;assurance that the contents are truly unrecoverable, consider using shred." />
-      <item value="Note that if you use rm to remove a file, it might be possible to recover&#10;some of its contents, given sufficient expertise and/or time.  For greater&#10;assurance that the contents are truly unrecoverable, consider using shred." />
-      <item value="Flavors" />
-      <item value="product Flavors" />
-      <item value="use Qualified Module Names" />
-      <item value="Outcome" />
-      <item value="date" />
-      <item value="date&#10;" />
-      <item value="resetting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
@@ -68,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612400359429" />
+    <option name="lastTrimTime" value="1614217715699" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">

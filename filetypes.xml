@@ -6,8 +6,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="mp3" type="Native" />
       <mapping ext="dat" type="Native" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern="Android" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
       <mapping ext="bnf" type="PLAIN_TEXT" />
