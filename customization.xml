@@ -12,5 +12,11 @@
       <path value="Android.MainToolBarActionGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Gradle.ShowDaemons" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
