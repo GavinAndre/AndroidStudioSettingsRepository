@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dispatch" />
       <item value="Called to process key events. You can override this to intercept all key events before they are dispatched to the window. Be sure to call this implementation for key events that should be handled normally." />
       <item value="실행에 필요한 권한이 설정 되지 않았습니다" />
       <item value="release WakeLock." />
@@ -55,12 +56,11 @@
       <item value="coerced" />
       <item value="航班" />
       <item value="bus" />
-      <item value="and the target object is not a primitive" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="133" />
-        <entry key="ENGLISH" value="134" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="KOREAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
