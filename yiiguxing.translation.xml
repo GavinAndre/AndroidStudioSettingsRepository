@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bagtrip" />
       <item value="sophix" />
       <item value="MUC" />
       <item value="172.28.31.238" />
@@ -55,12 +56,12 @@
       <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position &#10;(if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
       <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position&#10;(if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
       <item value="Inserts the specified element at the specified position in this list(optional operation).  Shifts the element currently at that position&#10;(if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
-      <item value="Inserts the specified element at the specified position in this list&#10;(optional operation).  Shifts the element currently at that position&#10;(if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
+        <entry key="CHINESE" value="141" />
         <entry key="ENGLISH" value="141" />
+        <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
