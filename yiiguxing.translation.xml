@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Laser" />
       <item value="baggage" />
       <item value="Stream" />
       <item value="bagtrip" />
@@ -55,12 +56,11 @@
       <item value="100" />
       <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their indices)." />
       <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
-      <item value="Inserts the specified element at the specified position in this list (optional operation).  Shifts the element currently at that position &#10;(if any) and any subsequent elements to the right (adds one to their&#10;indices)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
         <entry key="ROMANIAN" value="1" />
