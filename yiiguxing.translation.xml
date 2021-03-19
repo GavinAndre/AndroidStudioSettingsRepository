@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="api" />
+      <item value="implementation" />
       <item value="fire Event Sync Call" />
       <item value="meta-data" />
       <item value="Laser" />
@@ -54,13 +56,11 @@
       <item value="prompt" />
       <item value="提示" />
       <item value="tishi" />
-      <item value="the period size in time units" />
-      <item value="100" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="144" />
-        <entry key="ENGLISH" value="145" />
+        <entry key="CHINESE" value="146" />
+        <entry key="ENGLISH" value="146" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -68,6 +68,7 @@
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
         <entry key="GREEK" value="1" />
+        <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
