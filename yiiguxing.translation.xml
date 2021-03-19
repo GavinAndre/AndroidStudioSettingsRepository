@@ -6,9 +6,9 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fire Event Sync Call" />
       <item value="api" />
       <item value="implementation" />
-      <item value="fire Event Sync Call" />
       <item value="meta-data" />
       <item value="Laser" />
       <item value="baggage" />
@@ -60,7 +60,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
         <entry key="ROMANIAN" value="1" />
