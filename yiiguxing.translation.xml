@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="forward" />
+      <item value="forward Capture" />
+      <item value="Intent" />
+      <item value="dsd" />
       <item value="fire Event Sync Call" />
       <item value="api" />
       <item value="implementation" />
@@ -52,15 +56,11 @@
       <item value="&lt;p&gt;An implementation may (and typically does) require that the current thread hold the lock associated with this {@code Condition} when this method is called. Implementations must document this precondition and any actions taken if the lock is not held. Typically, an exception such as {@link IllegalMonitorStateException} will be thrown." />
       <item value="Atomically removes all of the elements from this deque. The deque will be empty after this call returns." />
       <item value="Backpressure" />
-      <item value="Native code saves some indication of the stack backtrace in this slot." />
-      <item value="prompt" />
-      <item value="提示" />
-      <item value="tishi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -74,12 +74,13 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615790077132" />
+    <option name="lastTrimTime" value="1616569964544" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="CHINESE" />
+        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
   </component>
