@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="845" />
     <option name="newTranslationDialogY" value="450" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Specifies a sorted list of flavors that the plugin should try to use from a given dimension. The following tells the plugin that, when encountering a dependency that includes a &quot;minApi&quot; dimension, it should select the &quot;minApi18&quot; flavor. You can include additional flavor names to provide a sorted list of fallbacks for the dimension." />
+      <item value="Specifies a sorted list of flavors that the plugin should try to use from&#10;    // a given dimension. The following tells the plugin that, when encountering a dependency that includes a &quot;minApi&quot; dimension, it should select the &quot;minApi18&quot; flavor. You can include additional flavor names to provide a sorted list of fallbacks for the dimension." />
+      <item value="Specifies a sorted list of flavors that the plugin should try to use from&#10;    // a given dimension. The following tells the plugin that, when encountering&#10;    // a dependency that includes a &quot;minApi&quot; dimension, it should select the &quot;minApi18&quot; flavor. You can include additional flavor names to provide a sorted list of fallbacks for the dimension." />
+      <item value="Specifies a sorted list of flavors that the plugin should try to use from&#10;    // a given dimension. The following tells the plugin that, when encountering&#10;    // a dependency that includes a &quot;minApi&quot; dimension, it should select the&#10;    // &quot;minApi18&quot; flavor. You can include additional flavor names to provide a sorted list of fallbacks for the dimension." />
+      <item value="Specifies a sorted list of flavors that the plugin should try to use from&#10;    // a given dimension. The following tells the plugin that, when encountering&#10;    // a dependency that includes a &quot;minApi&quot; dimension, it should select the&#10;    // &quot;minApi18&quot; flavor. You can include additional flavor names to provide a&#10;    // sorted list of fallbacks for the dimension." />
       <item value="forward" />
       <item value="forward Capture" />
       <item value="Intent" />
@@ -51,11 +56,6 @@
       <item value="local" />
       <item value="local&#10;" />
       <item value="bendi" />
-      <item value="ABORT" />
-      <item value="is JINTING" />
-      <item value="&lt;p&gt;An implementation may (and typically does) require that the current thread hold the lock associated with this {@code Condition} when this method is called. Implementations must document this precondition and any actions taken if the lock is not held. Typically, an exception such as {@link IllegalMonitorStateException} will be thrown." />
-      <item value="Atomically removes all of the elements from this deque. The deque will be empty after this call returns." />
-      <item value="Backpressure" />
     </histories>
     <option name="languageScores">
       <map>
