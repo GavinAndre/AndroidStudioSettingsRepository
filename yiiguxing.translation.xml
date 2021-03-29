@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="232" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="abnor" />
+      <item value="abnorm" />
+      <item value="abnormal" />
       <item value="gray" />
       <item value="grey" />
       <item value="round" />
@@ -53,9 +56,6 @@
       <item value="The consumer-visible brand with which the producthardware will be associated, if any" />
       <item value="memaction" />
       <item value="Tagmemory" />
-      <item value="标记" />
-      <item value="标记&#10;" />
-      <item value="Releases a permit, returning it to the semaphore. &lt;p&gt;Releases a permit, increasing the number of available permits by one. If any threads are trying to acquire a permit, then one is selected and given the permit that was just released. That thread is (re)enabled for thread scheduling purposes. &lt;p&gt;There is no requirement that a thread that releases a permit must have acquired that permit by calling {@link acquire}. Correct usage of a semaphore is established by programming convention in the application." />
     </histories>
     <option name="languageScores">
       <map>
