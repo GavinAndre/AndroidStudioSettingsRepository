@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="232" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="MU Baggage Goup" />
+      <item value="Goup" />
       <item value="abnor" />
       <item value="abnorm" />
       <item value="abnormal" />
@@ -54,13 +56,11 @@
       <item value="List View" />
       <item value="Licensing support for commercial plugins from JetBrains Marketplace" />
       <item value="The consumer-visible brand with which the producthardware will be associated, if any" />
-      <item value="memaction" />
-      <item value="Tagmemory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="151" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
         <entry key="ROMANIAN" value="1" />
