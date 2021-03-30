@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="232" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sign File Model" />
+      <item value="artifacts" />
+      <item value="determine" />
+      <item value="Could not determine artifacts for" />
+      <item value="Skipped due to earlier error" />
       <item value="MU Baggage Goup" />
       <item value="Goup" />
       <item value="abnor" />
@@ -51,16 +56,11 @@
       <item value="private List View bags ListView" />
       <item value="private ListView bags ListView" />
       <item value="private ListView bagsListView" />
-      <item value="private ListView bagsListView;" />
-      <item value="bags List View" />
-      <item value="List View" />
-      <item value="Licensing support for commercial plugins from JetBrains Marketplace" />
-      <item value="The consumer-visible brand with which the producthardware will be associated, if any" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="156" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
         <entry key="ROMANIAN" value="1" />
@@ -74,7 +74,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616569964544" />
+    <option name="lastTrimTime" value="1617088705297" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
