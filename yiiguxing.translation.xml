@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="232" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Flag indicating that this PendingIntent can be used only once. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}. &lt;p&gt;If set, after {@link send()} is called on it, it will be automatically canceled for you and any future attempt to send through it will fail." />
+      <item value="Flag indicating that if the described PendingIntent already exists, then keep it but replace its extra data with what is in this new Intent. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}. &lt;p&gt;This can be used if you are creating intents where only the extras change, and don't care that any entities that received your previous PendingIntent will be able to launch it with your new extras even if they are not explicitly given to it." />
+      <item value="Flag indicating that if the described PendingIntent does not already exist, then simply return null instead of creating it. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}." />
+      <item value="Adds the Intent to the top of the stack" />
+      <item value="Adds the back stack" />
+      <item value="must not be 0" />
       <item value="Orio" />
       <item value="muluggage PDA message service" />
       <item value="muluggage PDA message foreground service" />
@@ -50,17 +56,11 @@
       <item value="bagtrip" />
       <item value="sophix" />
       <item value="MUC" />
-      <item value="172.28.31.238" />
-      <item value="ScrollView can host only one direct child" />
-      <item value="Remainder" />
-      <item value="dispatch" />
-      <item value="Called to process key events. You can override this to intercept all key events before they are dispatched to the window. Be sure to call this implementation for key events that should be handled normally." />
-      <item value="실행에 필요한 권한이 설정 되지 않았습니다" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="165" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
