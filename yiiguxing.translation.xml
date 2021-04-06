@@ -6,6 +6,14 @@
     <option name="newTranslationDialogY" value="232" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Flag indicating that this PendingIntent can be used only once. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}. &lt;p&gt;If set, after {@link send()} is called on it, it will be automatically canceled for you and any future attempt to send through it will fail." />
+      <item value="Pending" />
+      <item value="Pending Intent" />
+      <item value="Intent" />
+      <item value="Flag indicating that if the described PendingIntent already exists, then keep it but replace its extra data with what is in this new Intent. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}. &lt;p&gt;This can be used if you are creating intents where only the extras change, and don't care that any entities that received your previous PendingIntent will be able to launch it with your new extras even if they are not explicitly given to it." />
+      <item value="Flag indicating that if the described PendingIntent already exists, the current one should be canceled before generating a new one. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}. &lt;p&gt;You can use this to retrieve a new PendingIntent when you are only changing the extra data in the Intent; by canceling the previous pending intent, this ensures that only entities given the new data will be able to launch it. If this assurance is not an issue, consider {@link FLAG_UPDATE_CURRENT}." />
+      <item value="Flag indicating that if the described PendingIntent does not already exist, then simply return null instead of creating it. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}." />
+      <item value="FLAG ONE SHOT" />
       <item value="Return whether this activity is the root of a task. The root is the first activity in a task." />
       <item value="Started from a Notification and the app is not running, restart the app with back stack Here create a launch Intent which includes the back stack" />
       <item value="Now launch this activity again and immediately return" />
@@ -14,9 +22,6 @@
       <item value="This flag will be ignored if {@link FLAG_ACTIVITY_CLEAR_TOP} is also specified." />
       <item value="&lt;p&gt;For example, consider a task consisting of four activities: A, B, C, D. If D calls startActivity() with an Intent that resolves to the component of activity B, then B will be brought to the front of the history stack, with this resulting order: A, C, D, B." />
       <item value="If set in an Intent passed to {@link ContextstartActivity Context.startActivity()}, this flag will cause the launched activity to be brought to the front of its task's history stack if it is already running." />
-      <item value="Flag indicating that this PendingIntent can be used only once. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}. &lt;p&gt;If set, after {@link send()} is called on it, it will be automatically canceled for you and any future attempt to send through it will fail." />
-      <item value="Flag indicating that if the described PendingIntent already exists, then keep it but replace its extra data with what is in this new Intent. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}. &lt;p&gt;This can be used if you are creating intents where only the extras change, and don't care that any entities that received your previous PendingIntent will be able to launch it with your new extras even if they are not explicitly given to it." />
-      <item value="Flag indicating that if the described PendingIntent does not already exist, then simply return null instead of creating it. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}." />
       <item value="Adds the Intent to the top of the stack" />
       <item value="Adds the back stack" />
       <item value="must not be 0" />
@@ -51,16 +56,11 @@
       <item value="Specifies a sorted list of flavors that the plugin should try to use from&#10;    // a given dimension. The following tells the plugin that, when encountering&#10;    // a dependency that includes a &quot;minApi&quot; dimension, it should select the&#10;    // &quot;minApi18&quot; flavor. You can include additional flavor names to provide a sorted list of fallbacks for the dimension." />
       <item value="Specifies a sorted list of flavors that the plugin should try to use from&#10;    // a given dimension. The following tells the plugin that, when encountering&#10;    // a dependency that includes a &quot;minApi&quot; dimension, it should select the&#10;    // &quot;minApi18&quot; flavor. You can include additional flavor names to provide a&#10;    // sorted list of fallbacks for the dimension." />
       <item value="forward" />
-      <item value="forward Capture" />
-      <item value="Intent" />
-      <item value="dsd" />
-      <item value="fire Event Sync Call" />
-      <item value="api" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
