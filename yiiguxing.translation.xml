@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="232" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Return whether this activity is the root of a task. The root is the first activity in a task." />
+      <item value="Started from a Notification and the app is not running, restart the app with back stack Here create a launch Intent which includes the back stack" />
+      <item value="Now launch this activity again and immediately return" />
+      <item value="Back Stack" />
+      <item value="不在通知中不要为通知设置Back Stack" />
       <item value="This flag will be ignored if {@link FLAG_ACTIVITY_CLEAR_TOP} is also specified." />
       <item value="&lt;p&gt;For example, consider a task consisting of four activities: A, B, C, D. If D calls startActivity() with an Intent that resolves to the component of activity B, then B will be brought to the front of the history stack, with this resulting order: A, C, D, B." />
       <item value="If set in an Intent passed to {@link ContextstartActivity Context.startActivity()}, this flag will cause the launched activity to be brought to the front of its task's history stack if it is already running." />
@@ -51,16 +56,11 @@
       <item value="dsd" />
       <item value="fire Event Sync Call" />
       <item value="api" />
-      <item value="implementation" />
-      <item value="meta-data" />
-      <item value="Laser" />
-      <item value="baggage" />
-      <item value="Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
-        <entry key="ENGLISH" value="175" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
