@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="232" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Restricted" />
       <item value="China Eastern Airlines" />
       <item value="Scene" />
       <item value="Mirage" />
@@ -55,12 +56,11 @@
       <item value="abnorm" />
       <item value="abnormal" />
       <item value="gray" />
-      <item value="grey" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
