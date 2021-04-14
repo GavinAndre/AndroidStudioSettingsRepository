@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="796" />
     <option name="newTranslationDialogY" value="232" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="新建" />
+      <item value="create" />
       <item value="Restricted" />
       <item value="China Eastern Airlines" />
       <item value="Scene" />
@@ -54,8 +56,6 @@
       <item value="Goup" />
       <item value="abnor" />
       <item value="abnorm" />
-      <item value="abnormal" />
-      <item value="gray" />
     </histories>
     <option name="languageScores">
       <map>
