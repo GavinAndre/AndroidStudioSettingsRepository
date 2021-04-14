@@ -1,11 +1,24 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogWidth" value="572" />
-    <option name="newTranslationDialogX" value="796" />
-    <option name="newTranslationDialogY" value="232" />
+    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogX" value="762" />
+    <option name="newTranslationDialogY" value="322" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="出库" />
+      <item value="出库&#10;" />
+      <item value="库" />
+      <item value="入库" />
+      <item value="warehouse" />
+      <item value="仓库" />
+      <item value="house" />
+      <item value="stock" />
+      <item value="货物" />
+      <item value="货物查询" />
+      <item value="ru" />
+      <item value="sfs" />
+      <item value="Classify" />
       <item value="新建" />
       <item value="create" />
       <item value="Restricted" />
@@ -43,19 +56,6 @@
       <item value="The user visible name of the channel. You can rename this channel when the system locale changes by listening for the {@link IntentACTION_LOCALE_CHANGED} broadcast. The recommended maximum length is 40 characters; the value may be truncated if it is too long." />
       <item value="The id of the channel. Must be unique per package. The value may be truncated if it is too long." />
       <item value="ButterKnife use in library module" />
-      <item value="Appends the given {@link ResourceDecoder} onto the list of available {@link ResourceDecoder}s in this bucket, allowing it to be used if all earlier and default {@link ResourceDecoder}s for the given types in this bucket fail (or there are none)." />
-      <item value="prepend" />
-      <item value="teardown" />
-      <item value="with Cross Fade" />
-      <item value="Sign File Model" />
-      <item value="artifacts" />
-      <item value="determine" />
-      <item value="Could not determine artifacts for" />
-      <item value="Skipped due to earlier error" />
-      <item value="MU Baggage Goup" />
-      <item value="Goup" />
-      <item value="abnor" />
-      <item value="abnorm" />
     </histories>
     <option name="languageScores">
       <map>
