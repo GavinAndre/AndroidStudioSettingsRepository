@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="322" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="loss" />
+      <item value="rush" />
+      <item value="damage" />
+      <item value="delay" />
+      <item value="onhand" />
       <item value="出库" />
       <item value="出库&#10;" />
       <item value="库" />
@@ -51,11 +56,6 @@
       <item value="Adds the back stack" />
       <item value="must not be 0" />
       <item value="Orio" />
-      <item value="muluggage PDA message service" />
-      <item value="muluggage PDA message foreground service" />
-      <item value="The user visible name of the channel. You can rename this channel when the system locale changes by listening for the {@link IntentACTION_LOCALE_CHANGED} broadcast. The recommended maximum length is 40 characters; the value may be truncated if it is too long." />
-      <item value="The id of the channel. Must be unique per package. The value may be truncated if it is too long." />
-      <item value="ButterKnife use in library module" />
     </histories>
     <option name="languageScores">
       <map>
