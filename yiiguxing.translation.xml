@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="322" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="s" />
       <item value="SCROLL STATE DRAGGING" />
       <item value="SCROLL STATE IDLE" />
       <item value="loss" />
@@ -55,7 +56,6 @@
       <item value="&lt;p&gt;For example, consider a task consisting of four activities: A, B, C, D. If D calls startActivity() with an Intent that resolves to the component of activity B, then B will be brought to the front of the history stack, with this resulting order: A, C, D, B." />
       <item value="If set in an Intent passed to {@link ContextstartActivity Context.startActivity()}, this flag will cause the launched activity to be brought to the front of its task's history stack if it is already running." />
       <item value="Adds the Intent to the top of the stack" />
-      <item value="Adds the back stack" />
     </histories>
     <option name="languageScores">
       <map>
