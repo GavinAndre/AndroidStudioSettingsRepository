@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="322" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bryan" />
       <item value="Inserts the specified element at the specified position in this list (optional operation). Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their indices)." />
       <item value="s" />
       <item value="SCROLL STATE DRAGGING" />
@@ -34,7 +35,6 @@
       <item value="China Eastern Airlines" />
       <item value="Scene" />
       <item value="Mirage" />
-      <item value="Bryan" />
       <item value="Container" />
       <item value="Domain Tab" />
       <item value="nvl" />
