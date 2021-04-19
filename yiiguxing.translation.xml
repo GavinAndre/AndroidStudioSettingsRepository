@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="322" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="第一行" />
       <item value="Bryan" />
       <item value="Inserts the specified element at the specified position in this list (optional operation). Shifts the element currently at that position (if any) and any subsequent elements to the right (adds one to their indices)." />
       <item value="s" />
@@ -55,7 +56,6 @@
       <item value="不在通知中不要为通知设置Back Stack" />
       <item value="This flag will be ignored if {@link FLAG_ACTIVITY_CLEAR_TOP} is also specified." />
       <item value="&lt;p&gt;For example, consider a task consisting of four activities: A, B, C, D. If D calls startActivity() with an Intent that resolves to the component of activity B, then B will be brought to the front of the history stack, with this resulting order: A, C, D, B." />
-      <item value="If set in an Intent passed to {@link ContextstartActivity Context.startActivity()}, this flag will cause the launched activity to be brought to the front of its task's history stack if it is already running." />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618196737998" />
+    <option name="lastTrimTime" value="1618816832321" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
