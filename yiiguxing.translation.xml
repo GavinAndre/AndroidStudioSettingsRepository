@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="322" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="accent" />
       <item value="hard code" />
       <item value="hard Code" />
       <item value="hardcode" />
@@ -55,7 +56,6 @@
       <item value="Return whether this activity is the root of a task. The root is the first activity in a task." />
       <item value="Started from a Notification and the app is not running, restart the app with back stack Here create a launch Intent which includes the back stack" />
       <item value="Now launch this activity again and immediately return" />
-      <item value="Back Stack" />
     </histories>
     <option name="languageScores">
       <map>
