@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="322" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Indicator" />
       <item value="Fake" />
       <item value="set Immersive Status Bar" />
       <item value="accent" />
@@ -55,7 +56,6 @@
       <item value="Flag indicating that if the described PendingIntent already exists, the current one should be canceled before generating a new one. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}. &lt;p&gt;You can use this to retrieve a new PendingIntent when you are only changing the extra data in the Intent; by canceling the previous pending intent, this ensures that only entities given the new data will be able to launch it. If this assurance is not an issue, consider {@link FLAG_UPDATE_CURRENT}." />
       <item value="Flag indicating that if the described PendingIntent does not already exist, then simply return null instead of creating it. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}." />
       <item value="FLAG ONE SHOT" />
-      <item value="Return whether this activity is the root of a task. The root is the first activity in a task." />
     </histories>
     <option name="languageScores">
       <map>
