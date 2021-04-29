@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="322" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This Drawable is overlaid over the foreground of the Window's content area, usually to place a shadow below the title. --&gt;" />
+      <item value="window Is Translucent" />
+      <item value="Overlay" />
       <item value="query House And Storage" />
       <item value="House And Storage Service" />
       <item value="sette" />
@@ -53,9 +56,6 @@
       <item value="Domain Tab" />
       <item value="nvl" />
       <item value="&lt;p class=&quot;note&quot;&gt;For security reasons, the {@link android.content.Intent} you supply here should almost always be an &lt;em&gt;explicit intent&lt;em&gt;, that is specify an explicit component to be delivered to through {@link IntentsetClass(android.content.Context, Class) Intent.setClass}&lt;p&gt;" />
-      <item value="Retrieve a PendingIntent that will start a new activity, like calling {@link ContextstartActivity(Intent) Context.startActivity(Intent)}. Note that the activity will be started outside of the context of an existing activity, so you must use the {@link IntentFLAG_ACTIVITY_NEW_TASK Intent.FLAG_ACTIVITY_NEW_TASK} launch flag in the Intent." />
-      <item value="Flag indicating that this PendingIntent can be used only once. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}. &lt;p&gt;If set, after {@link send()} is called on it, it will be automatically canceled for you and any future attempt to send through it will fail." />
-      <item value="Pending" />
     </histories>
     <option name="languageScores">
       <map>
