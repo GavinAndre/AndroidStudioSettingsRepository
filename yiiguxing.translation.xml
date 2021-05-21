@@ -6,8 +6,8 @@
     <option name="newTranslationDialogY" value="300" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="senter" />
       <item value="laser" />
+      <item value="senter" />
       <item value="sparrow" />
       <item value="合并" />
       <item value="Laser" />
