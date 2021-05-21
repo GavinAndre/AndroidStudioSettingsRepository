@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="300" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="laser" />
       <item value="sparrow" />
       <item value="合并" />
       <item value="Laser" />
@@ -55,7 +56,6 @@
       <item value="create" />
       <item value="Restricted" />
       <item value="China Eastern Airlines" />
-      <item value="Scene" />
     </histories>
     <option name="languageScores">
       <map>
