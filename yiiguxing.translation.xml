@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="300" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="adapt" />
+      <item value="adaptation" />
+      <item value="适配" />
       <item value="laser" />
       <item value="senter" />
       <item value="sparrow" />
@@ -53,9 +56,6 @@
       <item value="ru" />
       <item value="sfs" />
       <item value="Classify" />
-      <item value="新建" />
-      <item value="create" />
-      <item value="Restricted" />
     </histories>
     <option name="languageScores">
       <map>
@@ -75,7 +75,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621220457629" />
+    <option name="lastTrimTime" value="1621908816910" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
