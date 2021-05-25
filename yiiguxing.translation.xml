@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="300" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="use tools:overrideLibrary=&quot;io.dcloud.base&quot; to force usage (may lead to runtime failures)" />
+      <item value="increase this project's minSdk version to at least 19" />
+      <item value="use a compatible library with a minSdk of at most 16" />
       <item value="adapt" />
       <item value="adaptation" />
       <item value="适配" />
@@ -53,9 +56,6 @@
       <item value="stock" />
       <item value="货物" />
       <item value="货物查询" />
-      <item value="ru" />
-      <item value="sfs" />
-      <item value="Classify" />
     </histories>
     <option name="languageScores">
       <map>
