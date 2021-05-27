@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="300" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="助手" />
       <item value="tab" />
       <item value="use tools:overrideLibrary=&quot;io.dcloud.base&quot; to force usage (may lead to runtime failures)" />
       <item value="increase this project's minSdk version to at least 19" />
@@ -55,7 +56,6 @@
       <item value="仓库" />
       <item value="house" />
       <item value="stock" />
-      <item value="货物" />
     </histories>
     <option name="languageScores">
       <map>
