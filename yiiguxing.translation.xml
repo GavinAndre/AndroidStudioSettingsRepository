@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="482" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="该航班为" />
       <item value="网络请求失败" />
       <item value="pf_start_time_cannot_be_later_than_end_time" />
       <item value="结束时间不能早于开始时间" />
@@ -55,7 +56,6 @@
       <item value="rush" />
       <item value="damage" />
       <item value="delay" />
-      <item value="onhand" />
     </histories>
     <option name="languageScores">
       <map>
