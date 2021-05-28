@@ -2,10 +2,18 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogWidth" value="590" />
-    <option name="newTranslationDialogX" value="688" />
-    <option name="newTranslationDialogY" value="300" />
+    <option name="newTranslationDialogX" value="947" />
+    <option name="newTranslationDialogY" value="482" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="网络请求失败" />
+      <item value="pf_start_time_cannot_be_later_than_end_time" />
+      <item value="结束时间不能早于开始时间" />
+      <item value="开始时间不能晚于结束时间" />
+      <item value="延误航班" />
+      <item value="没有相关航班" />
+      <item value="没有" />
+      <item value="no flight" />
       <item value="助手" />
       <item value="tab" />
       <item value="use tools:overrideLibrary=&quot;io.dcloud.base&quot; to force usage (may lead to runtime failures)" />
@@ -48,14 +56,6 @@
       <item value="damage" />
       <item value="delay" />
       <item value="onhand" />
-      <item value="出库" />
-      <item value="出库&#10;" />
-      <item value="库" />
-      <item value="入库" />
-      <item value="warehouse" />
-      <item value="仓库" />
-      <item value="house" />
-      <item value="stock" />
     </histories>
     <option name="languageScores">
       <map>
