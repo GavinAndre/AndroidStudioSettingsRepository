@@ -2,11 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="198" />
-    <option name="newTranslationDialogWidth" value="522" />
+    <option name="newTranslationDialogWidth" value="590" />
     <option name="newTranslationDialogX" value="981" />
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="原始的" />
+      <item value="yuans" />
       <item value="Latest" />
       <item value="Lastest" />
       <item value="Lastest Domain Count" />
@@ -55,8 +57,6 @@
       <item value="window Is Translucent" />
       <item value="Overlay" />
       <item value="query House And Storage" />
-      <item value="House And Storage Service" />
-      <item value="sette" />
     </histories>
     <option name="languageScores">
       <map>
