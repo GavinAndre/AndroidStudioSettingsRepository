@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="minify" />
       <item value="原始的" />
       <item value="yuans" />
       <item value="Latest" />
@@ -56,7 +57,6 @@
       <item value="This Drawable is overlaid over the foreground of the Window's content area, usually to place a shadow below the title. --&gt;" />
       <item value="window Is Translucent" />
       <item value="Overlay" />
-      <item value="query House And Storage" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622516503674" />
+    <option name="lastTrimTime" value="1623130881973" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
