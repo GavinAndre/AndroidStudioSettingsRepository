@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="198" />
-    <option name="newTranslationDialogWidth" value="590" />
-    <option name="newTranslationDialogX" value="981" />
+    <option name="newTranslationDialogHeight" value="252" />
+    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Reports any new expressions which instantiate utility classes. Utility classes have all fields and methods declared static, and their presence may indicate a lack of object-oriented design. Instantiation of such classes most likely indicates programmer error." />
       <item value="minify" />
       <item value="原始的" />
       <item value="yuans" />
@@ -56,7 +57,6 @@
       <item value="SET TEMPORARY OUTPUT POWER" />
       <item value="This Drawable is overlaid over the foreground of the Window's content area, usually to place a shadow below the title. --&gt;" />
       <item value="window Is Translucent" />
-      <item value="Overlay" />
     </histories>
     <option name="languageScores">
       <map>
