@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="composite Component" />
+      <item value="calculate Contrast" />
       <item value="calculate Luminance" />
       <item value="provided Compile" />
       <item value="Reports any new expressions which instantiate utility classes. Utility classes have all fields and methods declared static, and their presence may indicate a lack of object-oriented design. Instantiation of such classes most likely indicates programmer error." />
@@ -55,8 +57,6 @@
       <item value="sparrow" />
       <item value="合并" />
       <item value="Laser" />
-      <item value="NO TAG ERROR" />
-      <item value="SET TEMPORARY OUTPUT POWER" />
     </histories>
     <option name="languageScores">
       <map>
