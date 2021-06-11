@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Override this if your view is known to always be drawn on top of a solid color background, and needs to draw fading edges. Returning a non-zero color enables the view system to optimize the drawing of the fading edges. If you do return a non-zero color, the alpha should be set to 0xFF." />
       <item value="composite Component" />
       <item value="calculate Contrast" />
       <item value="calculate Luminance" />
@@ -56,7 +57,6 @@
       <item value="senter" />
       <item value="sparrow" />
       <item value="合并" />
-      <item value="Laser" />
     </histories>
     <option name="languageScores">
       <map>
