@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread." />
+      <item value="Starts this service to perform action Foo with the given parameters. If the service is already performing a task this action will be queued." />
+      <item value="Starts this service to perform action Baz with the given parameters. If the service is already performing a task this action will be queued." />
+      <item value="Handle action Baz in the provided background thread with the provided parameters." />
+      <item value="Handle action Foo in the provided background thread with the provided parameters." />
       <item value="immutable" />
       <item value="Override this if your view is known to always be drawn on top of a solid color background, and needs to draw fading edges. Returning a non-zero color enables the view system to optimize the drawing of the fading edges. If you do return a non-zero color, the alpha should be set to 0xFF." />
       <item value="composite Component" />
@@ -52,11 +57,6 @@
       <item value="increase this project's minSdk version to at least 19" />
       <item value="use a compatible library with a minSdk of at most 16" />
       <item value="adapt" />
-      <item value="adaptation" />
-      <item value="适配" />
-      <item value="laser" />
-      <item value="senter" />
-      <item value="sparrow" />
     </histories>
     <option name="languageScores">
       <map>
