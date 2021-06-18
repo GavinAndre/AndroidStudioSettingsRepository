@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Stranded" />
+      <item value="Mark Stranded" />
       <item value="Associates the specified value with the specified key in this map (optional operation). If the map previously contained a mapping for the key, the old value is replaced by the specified value. (A map {@code m} is said to contain a mapping for a key {@code k} if and only if {@link containsKey(Object) m.containsKey(k)} would return {@code true}.)" />
       <item value="noinspection" />
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread." />
@@ -55,8 +57,6 @@
       <item value="no flight" />
       <item value="助手" />
       <item value="tab" />
-      <item value="use tools:overrideLibrary=&quot;io.dcloud.base&quot; to force usage (may lead to runtime failures)" />
-      <item value="increase this project's minSdk version to at least 19" />
     </histories>
     <option name="languageScores">
       <map>
