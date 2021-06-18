@@ -2,12 +2,50 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="252" />
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="行李改签" />
+      <item value="operate" />
+      <item value="操作" />
+      <item value="到达复核" />
+      <item value="Arrive Check Entrance" />
+      <item value="Quality" />
+      <item value="/luggage_v1/departure_handover" />
+      <item value="Arrival Quality" />
+      <item value="handover" />
+      <item value="Departure handover" />
+      <item value="出港交接" />
+      <item value="Departure" />
+      <item value="改签行李" />
+      <item value="改签" />
+      <item value="Print Bag Bar" />
+      <item value="转运" />
+      <item value="转运标记" />
+      <item value="中转" />
+      <item value="滞留" />
+      <item value="滞留标记" />
+      <item value="搁浅" />
       <item value="Stranded" />
+      <item value="Image Gallery" />
+      <item value="Gallery" />
+      <item value="passenger bag pick" />
+      <item value="passenger pick bag" />
+      <item value="旅客提取" />
+      <item value="旅客" />
+      <item value="Pick Up" />
+      <item value="unload" />
+      <item value="卸机" />
+      <item value="Arrival" />
+      <item value="Arrival Flight Search Fragment" />
+      <item value="Find Out" />
+      <item value="Load Find Out Fragment" />
+      <item value="Load" />
+      <item value="Rfid Load Flight Search Fragment" />
+      <item value="Transit" />
+      <item value="Bag Pick Set" />
       <item value="Mark Stranded" />
       <item value="Associates the specified value with the specified key in this map (optional operation). If the map previously contained a mapping for the key, the old value is replaced by the specified value. (A map {@code m} is said to contain a mapping for a key {@code k} if and only if {@link containsKey(Object) m.containsKey(k)} would return {@code true}.)" />
       <item value="noinspection" />
@@ -19,44 +57,6 @@
       <item value="immutable" />
       <item value="Override this if your view is known to always be drawn on top of a solid color background, and needs to draw fading edges. Returning a non-zero color enables the view system to optimize the drawing of the fading edges. If you do return a non-zero color, the alpha should be set to 0xFF." />
       <item value="composite Component" />
-      <item value="calculate Contrast" />
-      <item value="calculate Luminance" />
-      <item value="provided Compile" />
-      <item value="Reports any new expressions which instantiate utility classes. Utility classes have all fields and methods declared static, and their presence may indicate a lack of object-oriented design. Instantiation of such classes most likely indicates programmer error." />
-      <item value="minify" />
-      <item value="原始的" />
-      <item value="yuans" />
-      <item value="Latest" />
-      <item value="Lastest" />
-      <item value="Lastest Domain Count" />
-      <item value="Last Domain Count" />
-      <item value="Lasted Domain Count" />
-      <item value="Last DomainCount" />
-      <item value="LastDomainCount" />
-      <item value="mLastDomainCount" />
-      <item value="m Last Domain Count" />
-      <item value="last" />
-      <item value="lasted" />
-      <item value="最后的" />
-      <item value="model" />
-      <item value="最新机器型号" />
-      <item value="机器型号" />
-      <item value="Dismiss this dialog, removing it from the screen. This method can be invoked safely from any thread. Note that you should not override this method to do cleanup when the dialog is dismissed, instead implement that in {@link onStop}." />
-      <item value="useless" />
-      <item value="match parent" />
-      <item value="sort Bind Remind" />
-      <item value="根据" />
-      <item value="该航班为" />
-      <item value="网络请求失败" />
-      <item value="pf_start_time_cannot_be_later_than_end_time" />
-      <item value="结束时间不能早于开始时间" />
-      <item value="开始时间不能晚于结束时间" />
-      <item value="延误航班" />
-      <item value="没有相关航班" />
-      <item value="没有" />
-      <item value="no flight" />
-      <item value="助手" />
-      <item value="tab" />
     </histories>
     <option name="languageScores">
       <map>
