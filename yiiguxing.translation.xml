@@ -2,11 +2,13 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="252" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="claim Interface" />
+      <item value="claimInterface" />
       <item value="Check Orders" />
       <item value="BAG" />
       <item value="BAG CODE" />
@@ -55,8 +57,6 @@
       <item value="noinspection" />
       <item value="An {@link IntentService} subclass for handling asynchronous task requests in a service on a separate handler thread." />
       <item value="Starts this service to perform action Foo with the given parameters. If the service is already performing a task this action will be queued." />
-      <item value="Starts this service to perform action Baz with the given parameters. If the service is already performing a task this action will be queued." />
-      <item value="Handle action Baz in the provided background thread with the provided parameters." />
     </histories>
     <option name="languageScores">
       <map>
