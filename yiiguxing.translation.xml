@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="each Upload Count" />
       <item value="Increments modCount" />
       <item value="Appends all of the elements in the specified collection to the end of this list, in the order that they are returned by the specified collection's Iterator. The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (This implies that the behavior of this call is undefined if the specified collection is this list, and this list is nonempty.)" />
       <item value="Adds all of the elements in the specified collection to this collection (optional operation). The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (This implies that the behavior of this call is undefined if the specified collection is this collection, and this collection is nonempty.)" />
@@ -56,7 +57,6 @@
       <item value="Arrival" />
       <item value="Arrival Flight Search Fragment" />
       <item value="Find Out" />
-      <item value="Load Find Out Fragment" />
     </histories>
     <option name="languageScores">
       <map>
