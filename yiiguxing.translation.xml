@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Inserts all of the elements in the specified collection into this list at the specified position (optional operation). Shifts the element currently at that position (if any) and any subsequent elements to the right (increases their indices). The new elements will appear in this list in the order that they are returned by the specified collection's iterator. The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (Note that this will occur if the specified collection is this list, and it's nonempty.)" />
+      <item value="index at which to insert the first element from the specified collection" />
       <item value="if this list contains a null element and the specified collection does not permit null elements" />
       <item value="Removes from this list all of its elements that are contained in the specified collection (optional operation)." />
       <item value="invoke javascript callback method, this method will destoryed after invoke." />
@@ -55,8 +57,6 @@
       <item value="Load" />
       <item value="Rfid Load Flight Search Fragment" />
       <item value="Transit" />
-      <item value="Bag Pick Set" />
-      <item value="Mark Stranded" />
     </histories>
     <option name="languageScores">
       <map>
