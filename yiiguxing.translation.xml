@@ -7,6 +7,15 @@
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="version Date" />
+      <item value="version Name" />
+      <item value="Data" />
+      <item value="sorted bag permission type" />
+      <item value="sorted" />
+      <item value="Pick" />
+      <item value="auto Pop Pick Container Select Window" />
+      <item value="Spinner" />
+      <item value="pick Auto Container" />
       <item value="destination" />
       <item value="航站" />
       <item value="Returns the string representation of the {@code char} array argument. The contents of the character array are copied; subsequent modification of the character array does not affect the returned string." />
@@ -48,15 +57,6 @@
       <item value="滞留" />
       <item value="滞留标记" />
       <item value="搁浅" />
-      <item value="Stranded" />
-      <item value="Image Gallery" />
-      <item value="Gallery" />
-      <item value="passenger bag pick" />
-      <item value="passenger pick bag" />
-      <item value="旅客提取" />
-      <item value="旅客" />
-      <item value="Pick Up" />
-      <item value="unload" />
     </histories>
     <option name="languageScores">
       <map>
