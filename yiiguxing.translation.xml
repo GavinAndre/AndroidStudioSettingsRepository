@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="destination" />
       <item value="航站" />
       <item value="Returns the string representation of the {@code char} array argument. The contents of the character array are copied; subsequent modification of the character array does not affect the returned string." />
       <item value="generate Test Data" />
@@ -56,7 +57,6 @@
       <item value="旅客" />
       <item value="Pick Up" />
       <item value="unload" />
-      <item value="卸机" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624341507404" />
+    <option name="lastTrimTime" value="1624843185054" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
