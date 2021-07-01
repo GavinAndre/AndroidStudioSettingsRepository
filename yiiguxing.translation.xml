@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="426" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="invoke javascript callback method and keep callback alive for later use." />
       <item value="Access location" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="ACCESS_COARSE LOCATION" />
@@ -38,7 +39,6 @@
       <item value="if this list contains a null element and the specified collection does not permit null elements" />
       <item value="Removes from this list all of its elements that are contained in the specified collection (optional operation)." />
       <item value="invoke javascript callback method, this method will destoryed after invoke." />
-      <item value="invoke javascript callback method and keep callback alive for later use." />
       <item value="claim Interface" />
       <item value="claimInterface" />
       <item value="Check Orders" />
