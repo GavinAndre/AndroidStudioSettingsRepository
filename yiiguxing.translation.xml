@@ -2,11 +2,19 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="252" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="712" />
-    <option name="newTranslationDialogY" value="426" />
+    <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="largest" />
+      <item value="latest" />
+      <item value="la" />
+      <item value="lastest" />
+      <item value="last" />
+      <item value="las" />
+      <item value="最大的" />
+      <item value="z" />
       <item value="synthesizer" />
       <item value="invoke javascript callback method and keep callback alive for later use." />
       <item value="Access location" />
@@ -49,14 +57,6 @@
       <item value="行李改签" />
       <item value="operate" />
       <item value="操作" />
-      <item value="到达复核" />
-      <item value="Arrive Check Entrance" />
-      <item value="Quality" />
-      <item value="/luggage_v1/departure_handover" />
-      <item value="Arrival Quality" />
-      <item value="handover" />
-      <item value="Departure handover" />
-      <item value="出港交接" />
     </histories>
     <option name="languageScores">
       <map>
