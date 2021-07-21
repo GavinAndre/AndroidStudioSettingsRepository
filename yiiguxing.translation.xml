@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="portrait" />
       <item value="Collapse" />
       <item value="Collapsed" />
       <item value="Flight Link Fragment" />
@@ -56,7 +57,6 @@
       <item value="claim Interface" />
       <item value="claimInterface" />
       <item value="Check Orders" />
-      <item value="BAG" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626056533293" />
+    <option name="lastTrimTime" value="1626850050156" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
