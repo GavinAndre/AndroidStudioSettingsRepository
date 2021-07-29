@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="始发" />
+      <item value="本地始发" />
       <item value="退回" />
       <item value="Collapse" />
       <item value="Collapsed" />
@@ -55,8 +57,6 @@
       <item value="Removes from this list all of its elements that are contained in the specified collection (optional operation)." />
       <item value="invoke javascript callback method, this method will destoryed after invoke." />
       <item value="claim Interface" />
-      <item value="claimInterface" />
-      <item value="Check Orders" />
     </histories>
     <option name="languageScores">
       <map>
