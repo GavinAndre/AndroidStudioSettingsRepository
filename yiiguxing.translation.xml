@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="its validity interval is out-of-date" />
+      <item value="Response is unreliable: its validity interval is out-of-date" />
+      <item value="js Bundle" />
       <item value="本航班没有这个行李，去别的航班搜索么" />
       <item value="始发" />
       <item value="本地始发" />
@@ -54,9 +57,6 @@
       <item value="Adds all of the elements in the specified collection to this collection (optional operation). The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (This implies that the behavior of this call is undefined if the specified collection is this collection, and this collection is nonempty.)" />
       <item value="Inserts all of the elements in the specified collection into this list at the specified position (optional operation). Shifts the element currently at that position (if any) and any subsequent elements to the right (increases their indices). The new elements will appear in this list in the order that they are returned by the specified collection's iterator. The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (Note that this will occur if the specified collection is this list, and it's nonempty.)" />
       <item value="index at which to insert the first element from the specified collection" />
-      <item value="if this list contains a null element and the specified collection does not permit null elements" />
-      <item value="Removes from this list all of its elements that are contained in the specified collection (optional operation)." />
-      <item value="invoke javascript callback method, this method will destoryed after invoke." />
     </histories>
     <option name="languageScores">
       <map>

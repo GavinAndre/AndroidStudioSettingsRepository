@@ -1,6 +1,12 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta space" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
