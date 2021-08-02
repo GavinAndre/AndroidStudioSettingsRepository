@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="行李仓库" />
+      <item value="Bag House" />
+      <item value="Bag House Storage" />
+      <item value="Bag Storage" />
+      <item value="Storage" />
       <item value="its validity interval is out-of-date" />
       <item value="Response is unreliable: its validity interval is out-of-date" />
       <item value="js Bundle" />
@@ -52,11 +57,6 @@
       <item value="Returns the string representation of the {@code char} array argument. The contents of the character array are copied; subsequent modification of the character array does not affect the returned string." />
       <item value="generate Test Data" />
       <item value="each Upload Count" />
-      <item value="Increments modCount" />
-      <item value="Appends all of the elements in the specified collection to the end of this list, in the order that they are returned by the specified collection's Iterator. The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (This implies that the behavior of this call is undefined if the specified collection is this list, and this list is nonempty.)" />
-      <item value="Adds all of the elements in the specified collection to this collection (optional operation). The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (This implies that the behavior of this call is undefined if the specified collection is this collection, and this collection is nonempty.)" />
-      <item value="Inserts all of the elements in the specified collection into this list at the specified position (optional operation). Shifts the element currently at that position (if any) and any subsequent elements to the right (increases their indices). The new elements will appear in this list in the order that they are returned by the specified collection's iterator. The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (Note that this will occur if the specified collection is this list, and it's nonempty.)" />
-      <item value="index at which to insert the first element from the specified collection" />
     </histories>
     <option name="languageScores">
       <map>
