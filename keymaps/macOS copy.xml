@@ -2,11 +2,18 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta space" />
   </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="GotoSymbol" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="meta alt o" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
