@@ -3,10 +3,14 @@
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="252" />
     <option name="newTranslationDialogWidth" value="584" />
-    <option name="newTranslationDialogX" value="712" />
-    <option name="newTranslationDialogY" value="406" />
+    <option name="newTranslationDialogX" value="451" />
+    <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Inspired by this question on Stack Overflow - this plugin adds an inspection that prevents some hard to find bugs related to invisible zero width characters in source code and resources." />
+      <item value="Inspired by this question on Stack Overflow - this plugin adds an inspection that prevents some hard to find bugs related to invisible zero width characters in source code and resources.≈" />
+      <item value="inspection" />
+      <item value="inspection≈" />
       <item value="行李仓库" />
       <item value="Bag House" />
       <item value="Bag House Storage" />
@@ -53,10 +57,6 @@
       <item value="Spinner" />
       <item value="pick Auto Container" />
       <item value="destination" />
-      <item value="航站" />
-      <item value="Returns the string representation of the {@code char} array argument. The contents of the character array are copied; subsequent modification of the character array does not affect the returned string." />
-      <item value="generate Test Data" />
-      <item value="each Upload Count" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627527457595" />
+    <option name="lastTrimTime" value="1627979956423" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
