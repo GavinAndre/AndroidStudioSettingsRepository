@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="erasure" />
+      <item value="erasure≈" />
       <item value="parameterized" />
       <item value="parameterized≈" />
       <item value="Sets a cookie for the given URL. Any existing cookie with the same host, path and name will be replaced with the new cookie. The cookie being set will be ignored if it is expired.&#10;Params:&#10;url – the URL for which the cookie is to be set&#10;value – the cookie as a string, using the format of the 'Set-Cookie' HTTP response header" />
@@ -55,8 +57,6 @@
       <item value="version Name" />
       <item value="Data" />
       <item value="sorted bag permission type" />
-      <item value="sorted" />
-      <item value="Pick" />
     </histories>
     <option name="languageScores">
       <map>
