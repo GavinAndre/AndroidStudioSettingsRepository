@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Receipt" />
       <item value="erasure" />
       <item value="erasure≈" />
       <item value="parameterized" />
@@ -56,7 +57,6 @@
       <item value="version Date" />
       <item value="version Name" />
       <item value="Data" />
-      <item value="sorted bag permission type" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627979956423" />
+    <option name="lastTrimTime" value="1628583158384" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
