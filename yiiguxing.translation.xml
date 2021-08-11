@@ -2,11 +2,35 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="252" />
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="582" />
     <option name="newTranslationDialogX" value="712" />
     <option name="newTranslationDialogY" value="406" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="扫码格式错误" />
+      <item value="航班卸机" />
+      <item value="误扫了行李号" />
+      <item value="民航" />
+      <item value="can not" />
+      <item value="cannot " />
+      <item value="二维码" />
+      <item value="container" />
+      <item value="unload from plane" />
+      <item value="upload from plane" />
+      <item value="Unload" />
+      <item value="Unloader" />
+      <item value="卸机" />
+      <item value="receipt" />
+      <item value="upload" />
+      <item value="箱数" />
+      <item value="轨迹" />
+      <item value="unload" />
+      <item value="uploader" />
+      <item value="transport User" />
+      <item value="卸机交接单详情" />
+      <item value="追加" />
+      <item value="query Arrival Receipt" />
+      <item value="交接单" />
       <item value="hardcode" />
       <item value="BRAND" />
       <item value="Collapse" />
@@ -33,30 +57,6 @@
       <item value="ACCESS_FINE_LOCATION" />
       <item value="登记" />
       <item value="CLAIM" />
-      <item value="version Date" />
-      <item value="version Name" />
-      <item value="Data" />
-      <item value="sorted bag permission type" />
-      <item value="sorted" />
-      <item value="Pick" />
-      <item value="auto Pop Pick Container Select Window" />
-      <item value="Spinner" />
-      <item value="pick Auto Container" />
-      <item value="destination" />
-      <item value="航站" />
-      <item value="Returns the string representation of the {@code char} array argument. The contents of the character array are copied; subsequent modification of the character array does not affect the returned string." />
-      <item value="generate Test Data" />
-      <item value="each Upload Count" />
-      <item value="Increments modCount" />
-      <item value="Appends all of the elements in the specified collection to the end of this list, in the order that they are returned by the specified collection's Iterator. The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (This implies that the behavior of this call is undefined if the specified collection is this list, and this list is nonempty.)" />
-      <item value="Adds all of the elements in the specified collection to this collection (optional operation). The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (This implies that the behavior of this call is undefined if the specified collection is this collection, and this collection is nonempty.)" />
-      <item value="Inserts all of the elements in the specified collection into this list at the specified position (optional operation). Shifts the element currently at that position (if any) and any subsequent elements to the right (increases their indices). The new elements will appear in this list in the order that they are returned by the specified collection's iterator. The behavior of this operation is undefined if the specified collection is modified while the operation is in progress. (Note that this will occur if the specified collection is this list, and it's nonempty.)" />
-      <item value="index at which to insert the first element from the specified collection" />
-      <item value="if this list contains a null element and the specified collection does not permit null elements" />
-      <item value="Removes from this list all of its elements that are contained in the specified collection (optional operation)." />
-      <item value="invoke javascript callback method, this method will destoryed after invoke." />
-      <item value="claim Interface" />
-      <item value="claimInterface" />
     </histories>
     <option name="languageScores">
       <map>
