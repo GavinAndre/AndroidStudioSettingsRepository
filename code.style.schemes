@@ -53,10 +53,6 @@
             </value>
           </option>
         </JavaCodeStyleSettings>
-        <JetCodeStyleSettings>
-          <option name="WRAP_ELVIS_EXPRESSIONS" value="0" />
-          <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OLD_DEFAULTS" />
-        </JetCodeStyleSettings>
         <XML>
           <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
         </XML>
@@ -183,12 +179,6 @@
               </section>
             </rules>
           </arrangement>
-        </codeStyleSettings>
-        <codeStyleSettings language="kotlin">
-          <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OLD_DEFAULTS" />
-          <indentOptions>
-            <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-          </indentOptions>
         </codeStyleSettings>
       </value>
     </option>
