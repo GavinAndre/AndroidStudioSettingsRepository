@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Crew" />
+      <item value="Crew Train" />
+      <item value="历史&#10;" />
+      <item value="记录" />
+      <item value="log" />
       <item value="LANGUAGE" />
       <item value="destination" />
       <item value="departure" />
@@ -52,11 +57,6 @@
       <item value="Album" />
       <item value="Corner" />
       <item value="largest" />
-      <item value="latest" />
-      <item value="la" />
-      <item value="lastest" />
-      <item value="last" />
-      <item value="las" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630289123135" />
+    <option name="lastTrimTime" value="1630890473838" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
