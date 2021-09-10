@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="train" />
+      <item value="check qua train history" />
       <item value="请求失败，请检查您的网络" />
       <item value="Certificate" />
       <item value="bottom half" />
@@ -55,8 +57,6 @@
       <item value="Bag House Storage" />
       <item value="Bag Storage" />
       <item value="Storage" />
-      <item value="its validity interval is out-of-date" />
-      <item value="Response is unreliable: its validity interval is out-of-date" />
     </histories>
     <option name="languageScores">
       <map>
