@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Biz Exception" />
       <item value="train" />
       <item value="check qua train history" />
       <item value="请求失败，请检查您的网络" />
@@ -56,7 +57,6 @@
       <item value="Bag House" />
       <item value="Bag House Storage" />
       <item value="Bag Storage" />
-      <item value="Storage" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630890473838" />
+    <option name="lastTrimTime" value="1631691589585" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
