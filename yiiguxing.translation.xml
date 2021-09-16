@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Json Element" />
       <item value="Biz Exception" />
       <item value="train" />
       <item value="check qua train history" />
@@ -56,7 +57,6 @@
       <item value="行李仓库" />
       <item value="Bag House" />
       <item value="Bag House Storage" />
-      <item value="Bag Storage" />
     </histories>
     <option name="languageScores">
       <map>
