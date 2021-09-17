@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Lenient" />
+      <item value="set Lenient" />
       <item value="coerce booleans to strings for backwards compatibility" />
       <item value="malformed" />
       <item value="clear Invalid String" />
@@ -55,8 +57,6 @@
       <item value="Last" />
       <item value="temporary" />
       <item value="临时" />
-      <item value="temp" />
-      <item value="Receipt" />
     </histories>
     <option name="languageScores">
       <map>
