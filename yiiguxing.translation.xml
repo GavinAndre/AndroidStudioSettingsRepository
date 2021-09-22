@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="正确的" />
+      <item value="监装人员≈" />
+      <item value="监装人员" />
+      <item value="监装" />
+      <item value="人员" />
       <item value="Eager" />
       <item value="is Eager" />
       <item value="handle" />
@@ -52,11 +57,6 @@
       <item value="optimize" />
       <item value="optimization" />
       <item value="优化" />
-      <item value="youhua" />
-      <item value="SPARROW" />
-      <item value="Senter" />
-      <item value="SUPOIN" />
-      <item value="Late" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631691589585" />
+    <option name="lastTrimTime" value="1632297377688" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
