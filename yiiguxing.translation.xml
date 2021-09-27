@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="the cookie as a string, using the format of the 'Set-Cookie' HTTP response header" />
+      <item value="the URL for which the cookie is to be set" />
+      <item value="Sets a cookie for the given URL. Any existing cookie with the same host, path and name will be replaced with the new cookie. The cookie being set will be ignored if it is expired." />
+      <item value="Ensures all cookies currently accessible through the getCookie API are written to persistent storage. This call will block the caller until it is done and may perform IO." />
+      <item value="flush" />
       <item value="compilation" />
       <item value="编译完后立刻释放gradle内存" />
       <item value="整理" />
@@ -52,11 +57,6 @@
       <item value="Crew" />
       <item value="飞机型号" />
       <item value="机型" />
-      <item value="Crew Train" />
-      <item value="历史&#10;" />
-      <item value="记录" />
-      <item value="log" />
-      <item value="LANGUAGE" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632297377688" />
+    <option name="lastTrimTime" value="1632733730481" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
