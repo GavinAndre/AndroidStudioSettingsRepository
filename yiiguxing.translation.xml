@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Trip" />
       <item value="the cookie as a string, using the format of the 'Set-Cookie' HTTP response header" />
       <item value="the URL for which the cookie is to be set" />
       <item value="Sets a cookie for the given URL. Any existing cookie with the same host, path and name will be replaced with the new cookie. The cookie being set will be ignored if it is expired." />
@@ -56,7 +57,6 @@
       <item value="切换默认与隐藏显示状态" />
       <item value="Crew" />
       <item value="飞机型号" />
-      <item value="机型" />
     </histories>
     <option name="languageScores">
       <map>
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632733730481" />
+    <option name="lastTrimTime" value="1633675327186" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
