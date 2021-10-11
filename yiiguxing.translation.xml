@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="行李运行" />
+      <item value="运行" />
       <item value="noinspection" />
       <item value="Or, if you prefer, you can continue to check for errors in release builds, but continue the build even when errors are found:" />
       <item value="Trip" />
@@ -55,8 +57,6 @@
       <item value="half" />
       <item value="下半部分" />
       <item value="下半段" />
-      <item value="xia ban duan" />
-      <item value="切换默认与隐藏显示状态" />
     </histories>
     <option name="languageScores">
       <map>
