@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="noinspection" />
       <item value="Or, if you prefer, you can continue to check for errors in release builds, but continue the build even when errors are found:" />
       <item value="Trip" />
       <item value="the cookie as a string, using the format of the 'Set-Cookie' HTTP response header" />
@@ -56,7 +57,6 @@
       <item value="下半段" />
       <item value="xia ban duan" />
       <item value="切换默认与隐藏显示状态" />
-      <item value="Crew" />
     </histories>
     <option name="languageScores">
       <map>
