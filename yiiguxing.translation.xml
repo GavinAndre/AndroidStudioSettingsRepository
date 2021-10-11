@@ -7,10 +7,10 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Or, if you prefer, you can continue to check for errors in release builds, but continue the build even when errors are found:" />
       <item value="行李运行" />
       <item value="运行" />
       <item value="noinspection" />
-      <item value="Or, if you prefer, you can continue to check for errors in release builds, but continue the build even when errors are found:" />
       <item value="Trip" />
       <item value="the cookie as a string, using the format of the 'Set-Cookie' HTTP response header" />
       <item value="the URL for which the cookie is to be set" />
@@ -60,8 +60,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="204" />
+        <entry key="ENGLISH" value="205" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
@@ -77,12 +77,5 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1633675327186" />
-  </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
   </component>
 </application>
