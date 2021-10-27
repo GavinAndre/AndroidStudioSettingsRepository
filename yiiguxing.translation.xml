@@ -7,6 +7,12 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="选择补偿渠道" />
+      <item value="click sync" />
+      <item value="pf click sync" />
+      <item value="onclick" />
+      <item value="pf onclick sync" />
+      <item value="一键同步" />
       <item value="登记" />
       <item value="security" />
       <item value="security≈" />
@@ -51,17 +57,11 @@
       <item value="yuan shi" />
       <item value="origial" />
       <item value="unescape" />
-      <item value="escape" />
-      <item value="is Graphic" />
-      <item value="Json Element" />
-      <item value="Biz Exception" />
-      <item value="train" />
-      <item value="check qua train history" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="214" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
