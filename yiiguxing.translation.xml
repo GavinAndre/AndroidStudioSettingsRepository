@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="VERTICAL" />
       <item value="选择补偿渠道" />
       <item value="click sync" />
       <item value="pf click sync" />
@@ -56,12 +57,11 @@
       <item value="原始" />
       <item value="yuan shi" />
       <item value="origial" />
-      <item value="unescape" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
