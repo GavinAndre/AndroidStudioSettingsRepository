@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Air" />
       <item value="航班号" />
       <item value="航班日期" />
       <item value="BODY" />
@@ -56,12 +57,11 @@
       <item value="处理数据" />
       <item value="Lenient" />
       <item value="set Lenient" />
-      <item value="coerce booleans to strings for backwards compatibility" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="224" />
-        <entry key="ENGLISH" value="224" />
+        <entry key="ENGLISH" value="225" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635302619497" />
+    <option name="lastTrimTime" value="1635735771100" />
   </component>
 </application>
