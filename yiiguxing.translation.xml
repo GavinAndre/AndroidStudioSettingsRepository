@@ -7,6 +7,9 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Arrival Flight" />
+      <item value="Arrival" />
+      <item value="Quality" />
       <item value="m Certificate Type" />
       <item value="刷新" />
       <item value="sync" />
@@ -54,14 +57,11 @@
       <item value="Sets a cookie for the given URL. Any existing cookie with the same host, path and name will be replaced with the new cookie. The cookie being set will be ignored if it is expired." />
       <item value="Ensures all cookies currently accessible through the getCookie API are written to persistent storage. This call will block the caller until it is done and may perform IO." />
       <item value="flush" />
-      <item value="compilation" />
-      <item value="编译完后立刻释放gradle内存" />
-      <item value="整理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635735771100" />
+    <option name="lastTrimTime" value="1636338839009" />
   </component>
 </application>
