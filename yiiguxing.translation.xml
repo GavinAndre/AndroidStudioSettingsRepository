@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="item" />
       <item value=":" />
       <item value=":≈" />
       <item value="corners" />
@@ -56,12 +57,11 @@
       <item value="BODY" />
       <item value="FOOT" />
       <item value="HEAD" />
-      <item value="VIEW TYPE FOOT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
