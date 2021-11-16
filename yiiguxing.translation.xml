@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="HOST NAME" />
       <item value="color Accent" />
       <item value="item" />
       <item value=":" />
@@ -56,12 +57,11 @@
       <item value="航班号" />
       <item value="航班日期" />
       <item value="BODY" />
-      <item value="FOOT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="328" />
+        <entry key="ENGLISH" value="329" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
