@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Application classes that will be serializeddeserialized over Gson" />
+      <item value="Gson uses generic type information stored in a class file when working with fields. Proguard removes such information by default, so configure it to keep all of it." />
       <item value="left" />
       <item value="Uncomment this to preserve the line number information for debugging stack traces." />
       <item value="Uncomment this to preserve the line number information for" />
@@ -55,13 +57,11 @@
       <item value="shallow copy" />
       <item value="shallow" />
       <item value="faulty" />
-      <item value="faulty≈" />
-      <item value="empty If Null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="332" />
-        <entry key="ENGLISH" value="333" />
+        <entry key="CHINESE" value="334" />
+        <entry key="ENGLISH" value="335" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
