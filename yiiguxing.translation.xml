@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="OkHttp platform used only on JVM and when Conscrypt and other security providers are available." />
+      <item value="Animal Sniffer compileOnly dependency to ensure APIs are compatible with older versions of Java." />
+      <item value="A resource is loaded with a relative path so the package of this class must be preserved." />
+      <item value="JSR 305 annotations are for embedding nullability information." />
       <item value="Application classes that will be serializeddeserialized over Gson" />
       <item value="Gson uses generic type information stored in a class file when working with fields. Proguard removes such information by default, so configure it to keep all of it." />
       <item value="left" />
@@ -53,19 +57,16 @@
       <item value="stamp Of Air Carrier" />
       <item value="m Self Sign Img" />
       <item value="PLAN" />
-      <item value="Returns a shallow copy of this ArrayList instance. (The elements themselves are not copied.) Returns: a clone of this ArrayList instance" />
-      <item value="shallow copy" />
-      <item value="shallow" />
-      <item value="faulty" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="338" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="MALTESE" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
