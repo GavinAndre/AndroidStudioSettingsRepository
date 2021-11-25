@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Keystore was tampered with, or password was incorrect" />
       <item value="选择器" />
       <item value="store File" />
       <item value="href" />
@@ -56,12 +57,11 @@
       <item value="功率" />
       <item value="卸机" />
       <item value="Arrival Flight" />
-      <item value="Arrival" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="344" />
-        <entry key="ENGLISH" value="344" />
+        <entry key="ENGLISH" value="345" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="1" />
         <entry key="KOREAN" value="1" />
