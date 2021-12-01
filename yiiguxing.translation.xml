@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fusion" />
       <item value="Bag Trip" />
       <item value="bagtrip" />
       <item value="Keystore was tampered with, or password was incorrect" />
@@ -56,12 +57,11 @@
       <item value="is Need Flash" />
       <item value="is Need Rresh" />
       <item value="m Have Head Image Flag" />
-      <item value="功率" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="345" />
-        <entry key="ENGLISH" value="346" />
+        <entry key="CHINESE" value="346" />
+        <entry key="ENGLISH" value="347" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="KOREAN" value="1" />
