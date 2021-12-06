@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="加固" />
       <item value="fusion" />
       <item value="Bag Trip" />
       <item value="bagtrip" />
@@ -56,11 +57,10 @@
       <item value="Flash" />
       <item value="is Need Flash" />
       <item value="is Need Rresh" />
-      <item value="m Have Head Image Flag" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="346" />
+        <entry key="CHINESE" value="347" />
         <entry key="ENGLISH" value="347" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="2" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638153748806" />
+    <option name="lastTrimTime" value="1638771127632" />
   </component>
 </application>
