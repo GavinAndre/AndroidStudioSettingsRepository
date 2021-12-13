@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Explain" />
+      <item value="Explain Activity" />
       <item value="Gradle's dependency cache seems to be corrupt or out of sync." />
       <item value="Compilation Failed Exception" />
       <item value="Illegal invoke-super to void cn.org.bjca.a.b.h.b.a(byte[]) from class cn.org.bjca.a.b.h.a" />
@@ -55,13 +57,11 @@
       <item value="一件行李" />
       <item value="一件" />
       <item value="一件xing li" />
-      <item value="yi jian" />
-      <item value="yijian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="354" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="CHINESE" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="KOREAN" value="1" />
