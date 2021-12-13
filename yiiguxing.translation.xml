@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Compilation Failed Exception" />
+      <item value="Illegal invoke-super to void cn.org.bjca.a.b.h.b.a(byte[]) from class cn.org.bjca.a.b.h.a" />
       <item value="The type Network callback" />
       <item value="Deque" />
       <item value="Stack" />
@@ -55,13 +57,11 @@
       <item value="yi jian" />
       <item value="yijian" />
       <item value="末件包裹" />
-      <item value="末件" />
-      <item value="末件行李" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="353" />
+        <entry key="ENGLISH" value="354" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="KOREAN" value="1" />
