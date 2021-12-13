@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The type Network callback" />
       <item value="Deque" />
       <item value="Stack" />
       <item value="Telescope" />
@@ -56,12 +57,11 @@
       <item value="末件包裹" />
       <item value="末件" />
       <item value="末件行李" />
-      <item value="首件行李" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="KOREAN" value="1" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1638771127632" />
+    <option name="lastTrimTime" value="1639357609415" />
   </component>
 </application>
