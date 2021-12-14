@@ -290,6 +290,14 @@
           <option name="url" value="git@gitlab.ceair.com:PA05_PA20_PA23_MobileCrew/CrewTrainingCertificate/fatc-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ceair.com:PA02_MobileGroundService/GCS/Android/MUGCS.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ceair.com:PA02_MobileGroundService/newhcc/Android/newhcc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspace/Ceair" />
