@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="cipher" />
       <item value="Explain" />
       <item value="Explain Activity" />
       <item value="Gradle's dependency cache seems to be corrupt or out of sync." />
@@ -56,12 +57,11 @@
       <item value="_first piece" />
       <item value="一件行李" />
       <item value="一件" />
-      <item value="一件xing li" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="357" />
+        <entry key="ENGLISH" value="358" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="KOREAN" value="1" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639357609415" />
+    <option name="lastTrimTime" value="1640060111388" />
   </component>
 </application>
