@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="self Sign Observable" />
       <item value="Universal Host" />
       <item value="打包" />
       <item value="cipher" />
@@ -56,12 +57,11 @@
       <item value="subsequent" />
       <item value="despite" />
       <item value="检测到其它航班" />
-      <item value="_first piece" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="358" />
-        <entry key="ENGLISH" value="359" />
+        <entry key="CHINESE" value="359" />
+        <entry key="ENGLISH" value="360" />
         <entry key="BASQUE" value="1" />
         <entry key="FILIPINO" value="2" />
         <entry key="KOREAN" value="1" />
