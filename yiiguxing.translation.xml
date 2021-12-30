@@ -1,71 +1,73 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="252" />
-    <option name="newTranslationDialogWidth" value="582" />
-    <option name="newTranslationDialogX" value="712" />
-    <option name="newTranslationDialogY" value="406" />
+    <option name="newTranslationDialogHeight" value="268" />
+    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogX" value="451" />
+    <option name="newTranslationDialogY" value="546" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="noinspection" />
-      <item value="number" />
-      <item value="arrival receipt unload detail" />
-      <item value="扫码格式错误" />
-      <item value="航班卸机" />
-      <item value="误扫了行李号" />
-      <item value="民航" />
-      <item value="can not" />
-      <item value="cannot " />
-      <item value="二维码" />
-      <item value="container" />
-      <item value="unload from plane" />
-      <item value="upload from plane" />
-      <item value="Unload" />
-      <item value="Unloader" />
-      <item value="卸机" />
-      <item value="receipt" />
-      <item value="upload" />
-      <item value="箱数" />
-      <item value="轨迹" />
-      <item value="unload" />
-      <item value="uploader" />
-      <item value="transport User" />
-      <item value="卸机交接单详情" />
-      <item value="追加" />
-      <item value="query Arrival Receipt" />
-      <item value="交接单" />
-      <item value="hardcode" />
-      <item value="BRAND" />
-      <item value="Collapse" />
-      <item value="Collapsed" />
-      <item value="Flight Link Fragment" />
-      <item value="Album" />
-      <item value="Corner" />
-      <item value="largest" />
-      <item value="latest" />
-      <item value="la" />
-      <item value="lastest" />
-      <item value="last" />
-      <item value="las" />
-      <item value="最大的" />
-      <item value="z" />
-      <item value="synthesizer" />
-      <item value="invoke javascript callback method and keep callback alive for later use." />
-      <item value="Access location" />
-      <item value="ACCESS COARSE LOCATION" />
-      <item value="ACCESS_COARSE LOCATION" />
-      <item value="ACCESS_COARSE_LOCATION" />
-      <item value="ACCESS FINE LOCATION" />
-      <item value="ACCESS_FINE LOCATION" />
+      <item value="saved Instance State" />
+      <item value="self Sign Observable" />
+      <item value="Universal Host" />
+      <item value="打包" />
+      <item value="cipher" />
+      <item value="Explain" />
+      <item value="Explain Activity" />
+      <item value="Gradle's dependency cache seems to be corrupt or out of sync." />
+      <item value="Compilation Failed Exception" />
+      <item value="Illegal invoke-super to void cn.org.bjca.a.b.h.b.a(byte[]) from class cn.org.bjca.a.b.h.a" />
+      <item value="The type Network callback" />
+      <item value="Deque" />
+      <item value="Stack" />
+      <item value="Telescope" />
+      <item value="multiply" />
+      <item value="Talking Data" />
+      <item value="加固" />
+      <item value="fusion" />
+      <item value="Bag Trip" />
+      <item value="bagtrip" />
+      <item value="Keystore was tampered with, or password was incorrect" />
+      <item value="选择器" />
+      <item value="store File" />
+      <item value="href" />
+      <item value="引入" />
+      <item value="2.3.0 not provided" />
+      <item value="2.3.0 not provide" />
+      <item value="provide" />
+      <item value="OkHttp platform used only on JVM and when Conscrypt and other security providers are available." />
+      <item value="Animal Sniffer compileOnly dependency to ensure APIs are compatible with older versions of Java." />
+      <item value="A resource is loaded with a relative path so the package of this class must be preserved." />
+      <item value="JSR 305 annotations are for embedding nullability information." />
+      <item value="Application classes that will be serializeddeserialized over Gson" />
+      <item value="Gson uses generic type information stored in a class file when working with fields. Proguard removes such information by default, so configure it to keep all of it." />
+      <item value="left" />
+      <item value="Uncomment this to preserve the line number information for debugging stack traces." />
+      <item value="Uncomment this to preserve the line number information for" />
+      <item value="keepattributes" />
+      <item value="HOST NAME" />
+      <item value="color Accent" />
+      <item value="item" />
+      <item value=":" />
+      <item value=":≈" />
+      <item value="corners" />
+      <item value="template" />
+      <item value="全选" />
+      <item value="Check State" />
+      <item value="set Check State" />
+      <item value="subsequent" />
+      <item value="despite" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="203" />
-        <entry key="ENGLISH" value="204" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="BASQUE" value="1" />
-        <entry key="FILIPINO" value="1" />
+        <entry key="FILIPINO" value="2" />
         <entry key="KOREAN" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="MALTESE" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="JAPANESE" value="4" />
@@ -76,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628501433124" />
+    <option name="lastTrimTime" value="1640585293981" />
   </component>
 </application>

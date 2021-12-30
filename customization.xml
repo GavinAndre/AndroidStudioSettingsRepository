@@ -1,9 +1,24 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="APKFileInstallFile" is_action="true" action_type="-1" position="18">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="APKFileInstallFile" is_action="true" action_type="-1" position="14">
+      <path value="root" />
+      <path value="Main Menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="Android.MainToolBarActionGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="org.jetbrains.tutorials.actions.GroupedActions" is_group="true" action_type="-1" position="0">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ShowSettings" is_action="true" action_type="1" position="0">
@@ -16,6 +31,11 @@
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="org.jetbrains.tutorials.actions.GroupedActions" is_group="true" action_type="1" position="43">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
